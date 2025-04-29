@@ -89,8 +89,7 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 		- To match the habitat, matching_habitat_gmgc.py was used.
 			- Results are found here: output/GMGC/result_grep_GER-1-KREISCHAIN_homolog_habitat.txt
 	
-
-- Enterobase distribution
+- Enterobase E. coli (as of 1 February 2019) distribution
 	- Enterobase analysis was done using blastn in the Following script: script/enterobase_analysis.sh
 	- Each blast results output was concatenated and can be found in the file: output/enterobase/enterobase_blastn_ARGs.txt
 		- Only results with %id>95% were considered.
