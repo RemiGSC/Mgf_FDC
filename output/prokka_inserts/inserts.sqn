@@ -1,0 +1,793 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.0 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 4 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 29 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2025 } } } ,
+        create-date
+          std {
+            year 2025 ,
+            month 4 ,
+            day 29 } } ,
+      seq-set {
+        seq {
+          id {
+            local
+              str "GER-1-KREISCHAIN_FDC1" } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 2113 ,
+            seq-data
+              iupacna "GAATTATTGGGACATGAGTCAACTAAAACAACAGAAATATATACACATGTCAGCA
+GGAAGGTGATACAAAATGTGAAAAGTCCATTTGACGATTTATAGGTAATACGAAACAAAGATTCGCATATAAAGGAAA
+ATTGGAGTGATATACGAATATTTTATTCGGATATTAGGGAGTTAGCGGTAATTTAACCAGATAGGAGTACAGACATAT
+GAAAATCGTAAAAAGGATATTATTAGTATTGTTAAGTTTATTTTTTACAGTTGTGTATTCAAATGCTCAAACTGACAA
+CTTAACTTTGAAAATTGAGAATGTTTTAAAGGCAAAAAATGCCAGAATAGGAGTAGCAATATTCAACAGCAATGAGAA
+GGATACTTTTAAGATTAATAACGACTTCCATTTCCCGATGCAAAGCGTTATGAAATTTCCGATTGCTTTAGCCGTTTT
+GTCTGAGATAGATAAAGGGAATCTTTCTTTTGAACAAAAAATAGAGATTACCCCTCAAGACCTTTTGCCTAAAACGTG
+GAGTCCGATTAAAGAGGAATTCCCTAATGGAACAACTTTGACGATTGAACAAATACTAAATTATACAGTATCAGAGAG
+CGACAATATTGGTTGTGATATTTTGCTAAAATTAATCGGAGGAACTGATTCTGTTCAAAAATTCTTGAATGCTAATCA
+TTTCACTGATATTTCAATCAAAGCAAACGAAGAACAAATGCACAAGGATTGGAATACCCAATATCAAAATTGGGCAAC
+CCCAACAGCGATGAACAAACTGTTAATAGATACTTATAATAATAAGAACCAATTACTTTCTAAAAAAAGTTATGATTT
+TATTTGGAAAATTATGAGAGAAACAACAACAGGAAGTAACCGATTAAAAGGACAATTACCAAAGAATACAATTGTTGC
+TCATAAAACAGGGACTTCCGGAATAAATAATGGAATTGCAGCAGCCACTAATGATGTTGGGGTAATTACTTTACCGAA
+TGGACAATTAATTTTTATAAGCGTATTTGTTGCAGAGTCCAAAGAAACTTCGGAAATTAATGAAAAGATTATTTCAGA
+CATTGCAAAAATAACGTGGAATTACTATTTGAATAAATAAAAGGGTATAGGAAGTATAAACCCATAGACTGGACCTTA
+AGAATTAAGTGTTTCAAAAATCCCATCTAAGGTCCTATTTTTCTTAGATTTTCTTTGTCGTGATTTTTGTGCGTTCTT
+TGATATATACGCTATGGCCCATTCCAGCCGAGCCGTTATTTCCGACCATGCTTGATGAATATAAGCCTCCAGTATTGG
+TAACAGCCAGACATCGACGTTTTTCCCGGCTTTGTACACCGAAACGGACAGCATACTTTGCATGGCGATGTACCTGCG
+GATGATCAAGGCCAGCAAACTGGCCCAGACCAATCCTTCCATAATGGCTTGCTGGCCCGTTGCAAAACGTCGCCAGTT
+TGTATCGGATTTCAGCTCTTTAAACAGTAACTCAACCTGCCATCGACACCGGTAAATCATCATGATCTCCTCGGCTGA
+CCACGTCGTTGCTGCTAAATTGGTGACCCAGATACAGAATCGTTTTTCTTCGGCAAACCAGCGACGGACTAACCGGAA
+TTCATCCTGCCCGCGCTTAATTTTTAAGTCTAAAACCTCTGAACGGTTGGTTTTTCGGTCGATTTCTTTGAGTTTCAT
+ACCCGCGAGTTTGGGTAATAGTCGCCCCTGACCATTGCGAGCCTCAATAATTACTGGATTGAGGTTTTTACCACCTCT
+GACGATGAATGAACCGCCATGCTCAGATAATTGACTGAAATAGTTGAAGTCTACATACCCGGCATCCGCCAACAGCAA
+TTGATTACGAATCAGTTCCGTTTTCGGCAAATATGCCCGCTCTGAGGCTGTATCGGCCGTGATCGTCATGGTTTTCGG
+CATTTGATGTTTGAGCGATAACGTCATATGACATTCAATCGCAGCCGGATGGGTTGGAAATCGACTTGGGAAAACTTC
+GGCTAAGCCATCGTGCACTCGGAAAGAACTGCCATCCTGCAACAGGATATCGTCAAAACAATCGAGTTTGGCGGGCAA
+CTTTGCTTTAAGTGCCCGAACAAACTGCGC" } } ,
+        seq {
+          id {
+            local
+              str "GER-1-KREISCHAIN_FDC1_1" } ,
+          descr {
+            title "Extended-spectrum beta-lactamase PER-1 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 299 ,
+            seq-data
+              ncbieaa "MKIVKRILLVLLSLFFTVVYSNAQTDNLTLKIENVLKAKNARIGVAIFNSNEKDT
+FKINNDFHFPMQSVMKFPIALAVLSEIDKGNLSFEQKIEITPQDLLPKTWSPIKEEFPNGTTLTIEQILNYTVSESDN
+IGCDILLKLIGGTDSVQKFLNANHFTDISIKANEEQMHKDWNTQYQNWATPTAMNKLLIDTYNNKNQLLSKKSYDFIW
+KIMRETTTGSNRLKGQLPKNTIVAHKTGTSGINNGIAAATNDVGVITLPNGQLIFISVFVAESKETSEINEKIISDIA
+KITWNYYLNK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 3 ,
+                    data
+                      prot {
+                        name {
+                          "Extended-spectrum beta-lactamase PER-1" } ,
+                        ec {
+                          "3.5.2.6" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 298 ,
+                        id
+                          local
+                            str "GER-1-KREISCHAIN_FDC1_1" } } } } } } ,
+        seq {
+          id {
+            local
+              str "GER-1-KREISCHAIN_FDC1_2" } ,
+          descr {
+            title "IS4 family transposase ISVa14 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 312 ,
+            seq-data
+              ncbieaa "MPAKLDCFDDILLQDGSSFRVHDGLAEVFPSRFPTHPAAIECHMTLSLKHQMPKT
+MTITADTASERAYLPKTELIRNQLLLADAGYVDFNYFSQLSEHGGSFIVRGGKNLNPVIIEARNGQGRLLPKLAGMKL
+KEIDRKTNRSEVLDLKIKRGQDEFRLVRRWFAEEKRFCIWVTNLAATTWSAEEIMMIYRCRWQVELLFKELKSDTNWR
+RFATGQQAIMEGLVWASLLALIIRRYIAMQSMLSVSVYKAGKNVDVWLLPILEAYIHQAWSEITARLEWAIAYISKNA
+QKSRQRKSKKNRTLDGIFETLNS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 4 ,
+                    data
+                      prot {
+                        name {
+                          "IS4 family transposase ISVa14" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 311 ,
+                        id
+                          local
+                            str "GER-1-KREISCHAIN_FDC1_2" } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "GER-1-KREISCHAIN_FDC1_1" ,
+                location
+                  int {
+                    from 209 ,
+                    to 1108 ,
+                    strand plus ,
+                    id
+                      local
+                        str "GER-1-KREISCHAIN_FDC1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P37321" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "per1" ,
+                        locus-tag "prokka_00001" } } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "GER-1-KREISCHAIN_FDC1_2" ,
+                location
+                  int {
+                    from 1144 ,
+                    to 2082 ,
+                    strand minus ,
+                    id
+                      local
+                        str "GER-1-KREISCHAIN_FDC1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:ISfinder:ISVa14" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "prokka_00002" } } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG3385" } } } } } } } ,
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.0 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 4 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 29 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2025 } } } ,
+        create-date
+          std {
+            year 2025 ,
+            month 4 ,
+            day 29 } } ,
+      seq-set {
+        seq {
+          id {
+            local
+              str "GER-3-ELBE_FDC1" } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 1176 ,
+            seq-data
+              iupacna "AGATTGGAGTCATTGATTTTCATAAAGCCCTAGCCGATGACAGTGGTTTAATGAT
+CAAAGAGGGGCTGCATTATGATGGTATTCACCCAAATGCAGCCGGATATAAAGTCATGACTGATGTTGCTGCCAAGTT
+TCTGCAGGACAAAGCAACAAAATATAATTGAAATGTTAGTTTGTTGTTATTGTTGATGAGGGGGTTGTCATATATATT
+TTAAATAAAGATAAAATAGGTACAGCAAGAGGTGGGAATTATGGATATAAGACGCATTAAGATTTTTCCGTTACTGAT
+GTTTTTTTTGCTGATAGTGGGTGTCATAGGAGGGGTTACGGGTCAATCGGCTCAACCCAATAAGGTGTTGGAAGTGTC
+CAGTGTCAATGTAGATGAATTTTTTAAAAATACAGAAGGCACATTTATTCTAAAAGATGTAGAATCAGGAAAGATGTT
+TATTTACGATGATAAACGGGCTGAAGAGCGGCGATCGCCAAACTCCACGTTTAAAATTATGAACTCTTTGATTGGACT
+GCAAGTACAGGCCGTAAAAGATGAATATGAGATTAAACGATGGGATGGTATTGACCGTTCACTGAGTGTCTGGAATCA
+AGATCATACCCTTGGATCAGCAATGAGAAATTCTGTGGTCTGGTATTATCAAGCTATGGCTCGTGATGTTGGTGAACA
+GCGAATGCAGGAATGGATTGACAAATGTTCCTACGGCAACCGAGACATTAGTGGCGGGATTGATCGGTTTTGGCTAAC
+TAGTTCCCTCCAAATTTCTCCTAGAGAACAAGTTGATTTTCTGGAAAAGCTTTATAAAGAGAGCTTGCCTTTTGATAA
+GGGCGTCATGAAAACTGTCAAACGGATTATGATTCAGCAAGAGGGAGATGATTATACTCTTTATGGTAAAACAGGCAG
+TAGCGGATTACTCAATAATAATTCTGTGGGATGGTATGTAGGCTTCGTTATTGTGAAAGGCCATCCATACATATTTGC
+CACAAACATTGACACTCCCGTAGAATTCGCTGGACTGAAAGCGAAAGAACTTACTATCAATATTCTCAAAAAATATAA
+GTTGGTACTTTAAAATACGCTGCAGCCGCGCAACGAATATTACCTTTGTTCTCTGAAGTAATTACAAAATAAAAGCAG
+GCCACCTCTTTGAAGAATCTCCAAAGAGG" } } ,
+        seq {
+          id {
+            local
+              str "GER-3-ELBE_FDC1_1" } ,
+          descr {
+            title "putative beta-lactamase YbxI [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 276 ,
+            seq-data
+              ncbieaa "MDIRRIKIFPLLMFFLLIVGVIGGVTGQSAQPNKVLEVSSVNVDEFFKNTEGTFI
+LKDVESGKMFIYDDKRAEERRSPNSTFKIMNSLIGLQVQAVKDEYEIKRWDGIDRSLSVWNQDHTLGSAMRNSVVWYY
+QAMARDVGEQRMQEWIDKCSYGNRDISGGIDRFWLTSSLQISPREQVDFLEKLYKESLPFDKGVMKTVKRIMIQQEGD
+DYTLYGKTGSSGLLNNNSVGWYVGFVIVKGHPYIFATNIDTPVEFAGLKAKELTINILKKYKLVL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 6 ,
+                    data
+                      prot {
+                        name {
+                          "putative beta-lactamase YbxI" } ,
+                        ec {
+                          "3.5.2.6" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 275 ,
+                        id
+                          local
+                            str "GER-3-ELBE_FDC1_1" } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "GER-3-ELBE_FDC1_1" ,
+                location
+                  int {
+                    from 251 ,
+                    to 1081 ,
+                    strand plus ,
+                    id
+                      local
+                        str "GER-3-ELBE_FDC1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P54427" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "ybxI" ,
+                        locus-tag "prokka_00003" } } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG2602" } } } } } } } ,
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.0 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 4 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 29 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2025 } } } ,
+        create-date
+          std {
+            year 2025 ,
+            month 4 ,
+            day 29 } } ,
+      seq-set {
+        seq {
+          id {
+            local
+              str "GER-5-KREISCHAOUT_FDCa" } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 1716 ,
+            seq-data
+              iupacna "CAATAAAGAGGCACTTGCCTCATAGGGAATCGACGAACTGACGCGAGAGCTAGGG
+TTACAGCGGGATTAAGGTGGGCTCCAGAGATATGCCCCAATGCGTGGATCATTACAAAAACAACAAGTCCAAACATAA
+TCGGAATGATAAAAGATGGTAGAGCTTGGGGATTGCCTTGGCAAGCTGCGATACTGCCACAGCCAAAAAAGATTAACA
+TAAATGTTCCAATGATTTCAGCGACACACTTAGTGAGTTGATTTTTAGCCATTAATTTCTTCCTTTATTCTTCAATTT
+TCAATGGGCTAGCCTAGACTAAAATTGTTAATAGCGGTTAATATATTTAGAATCTAATAAAGAATATTACTTTTTTTC
+TTTTTAAGATTTTGGAGCTAGTCTAAGCTTTTTCATGGACAGGGTGCTCGCTCTAGAGTTCTAGAACGAGGTATAGGA
+ATGAGACCAATAAGAAGCAAGAGTTTTTATTTAGAGTTCAGACTTTTTGTGGTTAGCTCATGAAAGACAGGAGCTGCT
+AAATTTCCTCCAGTGGCGCCCTCATTCTTTTCAACGGGTTGACCATCTTCAATCAACACAAAAACGGCAAAGCGAGGA
+GCATCAGCTGGGGCATAACCACCGAAGAGAGCCAATGCCGATGAATTTGGAGAGATCTTGTCTGCAAGAGTGCCTGTT
+TTGCCTGCGACGCTTAGACCTGGAATTGCTGCGCGTTTTCCTGTCCCATTTTCAACAGCTTCAACAAGCATACGGGTG
+ACAGCCTCTGCACTAGCCTCAGAGACGATATTTCCAGAGTTTTCTGGAAACAAATGCCCTTTATTTGCTAAAATTGCA
+TAGGCTTTTGTTATTGTTTCAAGAGTTACCGGGATACTAAGCCCTAATGATGCATTGGCGAGTTGTAAAGCATCGCTT
+TTGTCATTGCGCCATTGGCTGTAGGTATCAAAACCAAATTCAGCTAACTTTTTGCGAAATTTGTCTGATCCAAGATCT
+TGGGCGACTTTGATCAGACAAATATTCACTGACTTTGCGATGGCTTCAGTCATCGAGACCTCACCAAAATTTGGACTC
+CAATTCGTAAATTTTGTCCCACTTATATCATAGGGTGAGTGACAATCATAAATTTGTGATTCGGACCCAACACCAGCC
+TCTAAAGCAGCAGCTGCTACAAAAGGCTTGATGGTTGATGCAGCAGGGAAAAGGCGTGAACTCCAACTATCATTGCCA
+TGTACAGATCCTGCTTCAGCAAAAGCAAGAATTTGACCTGTATGAGGATCAGCTACAGCAATTGCTCCAGACTTAGCT
+TGATAGCGCTTGACAGCTTCTGTGATTTCTTTTTCAGCGATTTGCTGAATTCTTGGGGCAAGTGAGGATGTTTCAGTT
+TTTTTCGCTGTAGAGTTGGGTAGGGTTGCTTTAGCAGCATAGGCTGTGCAGAGTGGGGCTAAAATTGCTAACGCAGTA
+AGTGCAATCTTAGAAAATGAGCGACGTGAAGCATGCAATTGGTATTGTGATAACATACAAATTCTCCTAGAAATGAAA
+GATTTTTTGTTTTCTTCATGTTCCCAAGTCATTCCAACTGCGCATGCGAATTTCAGGTGGATTGCCTCAGAGTATTTG
+GAAGCTGTCTGTGCAACTGTGAACAGGCAAGTCCCATAGTCATATGCAGAGATATTCTGGTGGCCAACCAGAGCCTCG
+TCACATGATAATTCCTGTAGTTC" } } ,
+        seq {
+          id {
+            local
+              str "GER-5-KREISCHAOUT_FDCa_1" } ,
+          descr {
+            title "Peptidoglycan D,D-transpeptidase FtsI [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 347 ,
+            seq-data
+              ncbieaa "MLSQYQLHASRRSFSKIALTALAILAPLCTAYAAKATLPNSTAKKTETSSLAPRI
+QQIAEKEITEAVKRYQAKSGAIAVADPHTGQILAFAEAGSVHGNDSWSSRLFPAASTIKPFVAAAALEAGVGSESQIY
+DCHSPYDISGTKFTNWSPNFGEVSMTEAIAKSVNICLIKVAQDLGSDKFRKKLAEFGFDTYSQWRNDKSDALQLANAS
+LGLSIPVTLETITKAYAILANKGHLFPENSGNIVSEASAEAVTRMLVEAVENGTGKRAAIPGLSVAGKTGTLADKISP
+NSSALALFGGYAPADAPRFAVFVLIEDGQPVEKNEGATGGNLAAPVFHELTTKSLNSK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      prot {
+                        name {
+                          "Peptidoglycan D,D-transpeptidase FtsI" } ,
+                        ec {
+                          "3.4.16.4" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 346 ,
+                        id
+                          local
+                            str "GER-5-KREISCHAOUT_FDCa_1" } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "GER-5-KREISCHAOUT_FDCa_1" ,
+                location
+                  int {
+                    from 471 ,
+                    to 1514 ,
+                    strand minus ,
+                    id
+                      local
+                        str "GER-5-KREISCHAOUT_FDCa" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:G3XD46" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "ftsI" ,
+                        locus-tag "prokka_00004" } } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0768" } } } } } } } ,
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.0 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 4 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 29 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2025 } } } ,
+        create-date
+          std {
+            year 2025 ,
+            month 4 ,
+            day 29 } } ,
+      seq-set {
+        seq {
+          id {
+            local
+              str "SWE-1-JRYAIN_FDC1" } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 1316 ,
+            seq-data
+              iupacna "GAAACCATGATTCAGGCGATGGGGGGAACAGTATGGGTAGTTAAAAGTCTGAAGT
+CTGCCCCCGGCCAAATTCAGAAATTCGAGCGGTTTCCCGATAGGAGTCATTGCAGCCAATGCGCCCCTACTATACAAT
+ATTGGGCTCAACCTAAACTGGGTAACCTATGAAGCATATTTTTTTGGTCTTTATGATTCTGTGCTCAAATTTTGCTAT
+CGCTGAGGATAAAGCGATTGCGGCTATTTTTTCCGCAGAAGGTGTTGATGGGACCATCATTTTGAAGTCGTTGCGTGG
+AGATAAGACAATCACACACAACGATGCACGCGCTTCTCGCCGGTTCGCCTCAGCCTCGACTTTCAAGATATTCAACAC
+ATTGATTGCAGTTCAAGAAAACGTGGTGAGTGTGGCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCC
+CGACTGGAACCGTGACCAAACACTTGAAAGCGCATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAGCA
+AGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAAGTATGGTGCTCTGAGCAAGGTGGCAGACAGTACAAC
+CTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCAGTCGAGCAAGTGGCTCTGTTGAAAAAAATCTATCTGCGAGAACT
+TCCGTTTCGCGATGACGCCTACGACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGC
+AAAGACTGGTTGGGCAGGAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACATCCGATGATGTATG
+GTTTTTTGCCATCAATTTGACCTTGAGGTCGGAAACTGACTTAGGTTTGCGCCAGCAAATAACAAAGGCTGTGCTTAG
+GGCTGAACGCATTATTCCCTGAGGAGAACCCTTGGGAAAAGGTCCGCTTTTACAGGCGGGCCAGTTCCGCTAAGGGGC
+GGATGCGGTCTGTGCTAGTACCAACCGGTGCGGAAACTTGCGGGGGACTGAGCGTTCCCCTTATCTGTTAGCAAGAGG
+CAGCAGGAGTTGTCAGGAGCGTCTGATGCGTACGCAGGTGTTTTGTTCGGTTGGTTTGCTGCGTGCTACAATAGCACC
+ACCAGATTCTCCAAGACGGCTGACCTTCGGGTTGGCCGTTTTGCTTTGCGGACCATCCCCATGACAATCCTGCCCAAG
+TGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCC
+AAGGAGGGGATTG" } } ,
+        seq {
+          id {
+            local
+              str "SWE-1-JRYAIN_FDC1_1" } ,
+          descr {
+            title "Beta-lactamase OXA-10 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 257 ,
+            seq-data
+              ncbieaa "MKHIFLVFMILCSNFAIAEDKAIAAIFSAEGVDGTIILKSLRGDKTITHNDARAS
+RRFASASTFKIFNTLIAVQENVVSVAGTAFRWDGKTHDFPDWNRDQTLESAFKVSCVWCYQEIAKQVGEETYRRYLAL
+AKYGALSKVADSTTFWLDGSFTVSAVEQVALLKKIYLRELPFRDDAYDALKRVMLAEQTDSYKLYAKTGWAGRMNPQI
+GWYVGYVETSDDVWFFAINLTLRSETDLGLRQQITKAVLRAERIIP" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      prot {
+                        name {
+                          "Beta-lactamase OXA-10" } ,
+                        ec {
+                          "3.5.2.6" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 256 ,
+                        id
+                          local
+                            str "SWE-1-JRYAIN_FDC1_1" } } } } } } ,
+        seq {
+          id {
+            local
+              str "SWE-1-JRYAIN_FDC1_2" } ,
+          descr {
+            title "hypothetical protein prokka_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 70 ,
+            seq-data
+              ncbieaa "MGAFGTNVHRPVFVGEFGIALGALGQDCHGDGPQSKTANPKVSRLGESGGAIVAR
+SKPTEQNTCVRIRRS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 69 ,
+                        id
+                          local
+                            str "SWE-1-JRYAIN_FDC1_2" } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 9 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "SWE-1-JRYAIN_FDC1_1" ,
+                location
+                  int {
+                    from 161 ,
+                    to 934 ,
+                    strand plus ,
+                    id
+                      local
+                        str "SWE-1-JRYAIN_FDC1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P14489" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus "bla" ,
+                        locus-tag "prokka_00005" } } } } ,
+              {
+                id
+                  local
+                    id 10 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    local
+                      str "SWE-1-JRYAIN_FDC1_2" ,
+                location
+                  int {
+                    from 1081 ,
+                    to 1293 ,
+                    strand minus ,
+                    id
+                      local
+                        str "SWE-1-JRYAIN_FDC1" } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } ,
+                xref {
+                  {
+                    data
+                      gene {
+                        locus-tag "prokka_00006" } } } } } } } } } }

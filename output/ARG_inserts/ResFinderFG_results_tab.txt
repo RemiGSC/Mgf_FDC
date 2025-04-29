@@ -1,0 +1,2 @@
+Hit name	Identity	Query/HSP	Contig	Position in contig	Drug treatment	Accession no.
+beta_lactamase	99.89	900/900	GER-1-KREISCHAIN_FDC1_Extended-spectrum_beta-lactamase_PER-1	1..900	Ampicillin	MG586042.1

@@ -1,0 +1,99 @@
+[13:39:05] This is prokka 1.14.0
+[13:39:05] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[13:39:05] Homepage is https://github.com/tseemann/prokka
+[13:39:05] Local time is Tue Apr 29 13:39:05 2025
+[13:39:05] You are remi.gschwind
+[13:39:05] Operating system is linux
+[13:39:05] You have BioPerl 1.007002
+[13:39:05] System has 32 cores.
+[13:39:05] Will use maximum of 6 cores.
+[13:39:05] Annotating as >>> Bacteria <<<
+[13:39:05] Re-using existing --outdir ../output/prokka_inserts
+[13:39:05] Using filename prefix: inserts.XXX
+[13:39:05] Setting HMMER_NCPU=1
+[13:39:05] Writing log to: ../output/prokka_inserts/inserts.log
+[13:39:05] Command: /usr/bin/prokka --cpus 6 --locustag prokka --gcode 11 --outdir ../output/prokka_inserts --prefix inserts ../data/mgf_inserts_FDCr.fasta --force
+[13:39:05] Appending to PATH: /opt/progs/prokka-1.14.0/bin/../binaries/linux
+[13:39:05] Appending to PATH: /opt/progs/prokka-1.14.0/bin/../binaries/linux/../common
+[13:39:05] Appending to PATH: /opt/progs/prokka-1.14.0/bin
+[13:39:05] Looking for 'aragorn' - found /opt/progs/prokka-1.14.0/bin/../binaries/linux/aragorn
+[13:39:05] Determined aragorn version is 1.2
+[13:39:05] Looking for 'blastp' - found /opt/progs/prokka-1.14.0/bin/../binaries/linux/blastp
+[13:39:06] Determined blastp version is 2.9
+[13:39:06] Looking for 'cmpress' - found /opt/progs/prokka-1.14.0/bin/../binaries/linux/cmpress
+[13:39:06] Determined cmpress version is 1.1
+[13:39:06] Looking for 'cmscan' - found /opt/progs/prokka-1.14.0/bin/../binaries/linux/cmscan
+[13:39:06] Determined cmscan version is 1.1
+[13:39:06] Looking for 'egrep' - found /usr/bin/egrep
+[13:39:06] Looking for 'find' - found /usr/bin/find
+[13:39:06] Looking for 'grep' - found /usr/bin/grep
+[13:39:06] Looking for 'hmmpress' - found /opt/progs/prokka-1.14.0/bin/../binaries/linux/hmmpress
+[13:39:06] Determined hmmpress version is 3.1
+[13:39:06] Looking for 'hmmscan' - found /opt/progs/prokka-1.14.0/bin/../binaries/linux/hmmscan
+[13:39:06] Determined hmmscan version is 3.1
+[13:39:06] Looking for 'java' - found /usr/bin/java
+[13:39:06] Looking for 'less' - found /usr/bin/less
+[13:39:06] Looking for 'makeblastdb' - found /opt/progs/prokka-1.14.0/bin/../binaries/linux/makeblastdb
+[13:39:06] Determined makeblastdb version is 2.9
+[13:39:06] Looking for 'minced' - found /opt/progs/prokka-1.14.0/bin/../binaries/linux/../common/minced
+[13:39:07] Determined minced version is 2.0
+[13:39:07] Looking for 'parallel' - found /opt/progs/prokka-1.14.0/bin/../binaries/linux/../common/parallel
+[13:39:07] Determined parallel version is 20150122
+[13:39:07] Looking for 'prodigal' - found /opt/progs/prokka-1.14.0/bin/../binaries/linux/prodigal
+[13:39:07] Determined prodigal version is 2.6
+[13:39:07] Looking for 'prokka-genbank_to_fasta_db' - found /opt/progs/prokka-1.14.0/bin/prokka-genbank_to_fasta_db
+[13:39:07] Looking for 'sed' - found /usr/bin/sed
+[13:39:07] Looking for 'tbl2asn' - found /opt/progs/prokka-1.14.0/bin/../binaries/linux/tbl2asn
+[13:39:07] Determined tbl2asn version is 25.7
+[13:39:07] Using genetic code table 11.
+[13:39:07] Loading and checking input file: ../data/mgf_inserts_FDCr.fasta
+[13:39:07] Wrote 4 contigs totalling 6321 bp.
+[13:39:07] Predicting tRNAs and tmRNAs
+[13:39:07] Running: aragorn -l -gc11  -w \.\.\/output\/prokka_inserts\/inserts\.fna
+[13:39:07] Found 0 tRNAs
+[13:39:07] Predicting Ribosomal RNAs
+[13:39:07] You need either Barrnap or RNAmmer installed to predict rRNAs!
+[13:39:07] Skipping ncRNA search, enable with --rfam if desired.
+[13:39:07] Total of 0 tRNA + rRNA features
+[13:39:07] Searching for CRISPR repeats
+[13:39:07] Found 0 CRISPRs
+[13:39:07] Predicting coding sequences
+[13:39:07] Contigs total 6321 bp, so using meta mode
+[13:39:07] Running: prodigal -i \.\.\/output\/prokka_inserts\/inserts\.fna -c -m -g 11 -p meta -f sco -q
+[13:39:08] Found 6 CDS
+[13:39:08] Connecting features back to sequences
+[13:39:08] Not using genus-specific database. Try --usegenus to enable it.
+[13:39:08] Annotating CDS, please be patient.
+[13:39:08] Will use 6 CPUs for similarity searching.
+[13:39:08] There are still 6 unannotated CDS left (started with 6)
+[13:39:08] Will use blast to search against /opt/progs/prokka-1.14.0/db/kingdom/Bacteria/IS with 6 CPUs
+[13:39:08] Running: cat \.\.\/output\/prokka_inserts\/IS\.faa | parallel --gnu --plain -j 6 --block 132 --recstart '>' --pipe blastp -query - -db /opt/progs/prokka-1.14.0/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\.\/output\/prokka_inserts\/IS\.blast 2> /dev/null
+[13:39:08] Deleting unwanted file: ../output/prokka_inserts/IS.faa
+[13:39:08] Deleting unwanted file: ../output/prokka_inserts/IS.blast
+[13:39:08] There are still 5 unannotated CDS left (started with 6)
+[13:39:08] Will use blast to search against /opt/progs/prokka-1.14.0/db/kingdom/Bacteria/AMR with 6 CPUs
+[13:39:08] Running: cat \.\.\/output\/prokka_inserts\/AMR\.faa | parallel --gnu --plain -j 6 --block 105 --recstart '>' --pipe blastp -query - -db /opt/progs/prokka-1.14.0/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\.\/output\/prokka_inserts\/AMR\.blast 2> /dev/null
+[13:39:09] Deleting unwanted file: ../output/prokka_inserts/AMR.faa
+[13:39:09] Deleting unwanted file: ../output/prokka_inserts/AMR.blast
+[13:39:09] There are still 5 unannotated CDS left (started with 6)
+[13:39:09] Will use blast to search against /opt/progs/prokka-1.14.0/db/kingdom/Bacteria/sprot with 6 CPUs
+[13:39:09] Running: cat \.\.\/output\/prokka_inserts\/sprot\.faa | parallel --gnu --plain -j 6 --block 105 --recstart '>' --pipe blastp -query - -db /opt/progs/prokka-1.14.0/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \.\.\/output\/prokka_inserts\/sprot\.blast 2> /dev/null
+[13:39:09] Modify product: Probable beta-lactamase YbxI => putative beta-lactamase YbxI
+[13:39:09] Cleaned 1 /product names
+[13:39:09] Deleting unwanted file: ../output/prokka_inserts/sprot.faa
+[13:39:09] Deleting unwanted file: ../output/prokka_inserts/sprot.blast
+[13:39:09] There are still 1 unannotated CDS left (started with 6)
+[13:39:09] Will use hmmer3 to search against /opt/progs/prokka-1.14.0/db/hmm/HAMAP.hmm with 6 CPUs
+[13:39:09] Running: cat \.\.\/output\/prokka_inserts\/HAMAP\.hmm\.faa | parallel --gnu --plain -j 6 --block 6 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /opt/progs/prokka-1.14.0/db/hmm/HAMAP.hmm /dev/stdin > \.\.\/output\/prokka_inserts\/HAMAP\.hmm\.hmmer3 2> /dev/null
+[13:39:10] Deleting unwanted file: ../output/prokka_inserts/HAMAP.hmm.faa
+[13:39:10] Deleting unwanted file: ../output/prokka_inserts/HAMAP.hmm.hmmer3
+[13:39:10] Labelling remaining 1 proteins as 'hypothetical protein'
+[13:39:10] Found 4 unique /gene codes.
+[13:39:10] Fixed 0 colliding /gene names.
+[13:39:10] Adding /locus_tag identifiers
+[13:39:10] Assigned 6 locus_tags to CDS and RNA features.
+[13:39:10] Writing outputs to ../output/prokka_inserts/
+[13:39:10] Generating annotation statistics file
+[13:39:10] Generating Genbank and Sequin files
+[13:39:10] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.0 from https://github.com/tseemann/prokka' -Z \.\.\/output\/prokka_inserts\/inserts\.err -i \.\.\/output\/prokka_inserts\/inserts\.fsa 2> /dev/null
+[13:39:10] Could not run command: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.0 from https://github.com/tseemann/prokka' -Z \.\.\/output\/prokka_inserts\/inserts\.err -i \.\.\/output\/prokka_inserts\/inserts\.fsa 2> /dev/null

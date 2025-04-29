@@ -1,0 +1,362 @@
+LOCUS       contig_1                2113 bp    DNA     linear   UNK 29-APR-2025
+DEFINITION  contig_1, whole genome shotgun sequence.
+ACCESSION   contig_1
+VERSION     contig_1
+KEYWORDS    .
+SOURCE      None
+  ORGANISM  .
+            .
+COMMENT     Annotated with Bakta
+            Software: v1.11.0
+            Database: v6.0, full
+            DOI: 10.1099/mgen.0.000685
+            URL: github.com/oschwengers/bakta
+            
+            ##Genome Annotation Summary:##
+            Annotation Date                :: 04/29/2025, 08:39:10
+            CDSs                           ::     2
+            tRNAs                          ::     0
+            tmRNAs                         ::     0
+            rRNAs                          ::     0
+            ncRNAs                         ::     0
+            regulatory ncRNAs              ::     0
+            CRISPR Arrays                  ::     0
+            oriCs/oriVs                    ::     0
+            oriTs                          ::     0
+            gaps                           ::     0
+            pseudogenes                    ::     0
+FEATURES             Location/Qualifiers
+     source          1..2113
+                     /mol_type="genomic DNA"
+     gene            210..1109
+                     /locus_tag="JFLCJL_01"
+                     /gene="blaVEB-3"
+     CDS             210..1109
+                     /db_xref="COG:COG2367"
+                     /db_xref="COG:V"
+                     /db_xref="EC:3.5.2.6"
+                     /db_xref="GO:0008800"
+                     /db_xref="GO:0030655"
+                     /db_xref="GO:0046677"
+                     /db_xref="NCBIProtein:WP_020956917.1"
+                     /db_xref="RefSeq:WP_020956917.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniParc:UPI0000253A1E"
+                     /db_xref="UniRef:UniRef100_D0UY02"
+                     /db_xref="UniRef:UniRef50_O87489"
+                     /db_xref="UniRef:UniRef90_O87489"
+                     /product="extended-spectrum class A beta-lactamase VEB-3"
+                     /locus_tag="JFLCJL_01"
+                     /protein_id="gnl|Bakta|JFLCJL_01"
+                     /translation="MKIVKRILLVLLSLFFTVVYSNAQTDNLTLKIENVLKAKNARIGV
+                     AIFNSNEKDTFKINNDFHFPMQSVMKFPIALAVLSEIDKGNLSFEQKIEITPQDLLPKT
+                     WSPIKEEFPNGTTLTIEQILNYTVSESDNIGCDILLKLIGGTDSVQKFLNANHFTDISI
+                     KANEEQMHKDWNTQYQNWATPTAMNKLLIDTYNNKNQLLSKKSYDFIWKIMRETTTGSN
+                     RLKGQLPKNTIVAHKTGTSGINNGIAAATNDVGVITLPNGQLIFISVFVAESKETSEIN
+                     EKIISDIAKITWNYYLNK"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:RefSeq:WP_020956917.1"
+                     /gene="blaVEB-3"
+     gene            complement(1145..2083)
+                     /locus_tag="JFLCJL_02"
+     CDS             complement(1145..2083)
+                     /db_xref="SO:0001217"
+                     /db_xref="UniRef:UniRef50_D3VK07"
+                     /product="Transposase"
+                     /locus_tag="JFLCJL_02"
+                     /protein_id="gnl|Bakta|JFLCJL_02"
+                     /translation="MPAKLDCFDDILLQDGSSFRVHDGLAEVFPSRFPTHPAAIECHMT
+                     LSLKHQMPKTMTITADTASERAYLPKTELIRNQLLLADAGYVDFNYFSQLSEHGGSFIV
+                     RGGKNLNPVIIEARNGQGRLLPKLAGMKLKEIDRKTNRSEVLDLKIKRGQDEFRLVRRW
+                     FAEEKRFCIWVTNLAATTWSAEEIMMIYRCRWQVELLFKELKSDTNWRRFATGQQAIME
+                     GLVWASLLALIIRRYIAMQSMLSVSVYKAGKNVDVWLLPILEAYIHQAWSEITARLEWA
+                     IAYISKNAQKSRQRKSKKNRTLDGIFETLNS"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA sequence:UniRef:UniRef50_D3VK07"
+ORIGIN
+        1 gaattattgg gacatgagtc aactaaaaca acagaaatat atacacatgt cagcaggaag
+       61 gtgatacaaa atgtgaaaag tccatttgac gatttatagg taatacgaaa caaagattcg
+      121 catataaagg aaaattggag tgatatacga atattttatt cggatattag ggagttagcg
+      181 gtaatttaac cagataggag tacagacata tgaaaatcgt aaaaaggata ttattagtat
+      241 tgttaagttt attttttaca gttgtgtatt caaatgctca aactgacaac ttaactttga
+      301 aaattgagaa tgttttaaag gcaaaaaatg ccagaatagg agtagcaata ttcaacagca
+      361 atgagaagga tacttttaag attaataacg acttccattt cccgatgcaa agcgttatga
+      421 aatttccgat tgctttagcc gttttgtctg agatagataa agggaatctt tcttttgaac
+      481 aaaaaataga gattacccct caagaccttt tgcctaaaac gtggagtccg attaaagagg
+      541 aattccctaa tggaacaact ttgacgattg aacaaatact aaattataca gtatcagaga
+      601 gcgacaatat tggttgtgat attttgctaa aattaatcgg aggaactgat tctgttcaaa
+      661 aattcttgaa tgctaatcat ttcactgata tttcaatcaa agcaaacgaa gaacaaatgc
+      721 acaaggattg gaatacccaa tatcaaaatt gggcaacccc aacagcgatg aacaaactgt
+      781 taatagatac ttataataat aagaaccaat tactttctaa aaaaagttat gattttattt
+      841 ggaaaattat gagagaaaca acaacaggaa gtaaccgatt aaaaggacaa ttaccaaaga
+      901 atacaattgt tgctcataaa acagggactt ccggaataaa taatggaatt gcagcagcca
+      961 ctaatgatgt tggggtaatt actttaccga atggacaatt aatttttata agcgtatttg
+     1021 ttgcagagtc caaagaaact tcggaaatta atgaaaagat tatttcagac attgcaaaaa
+     1081 taacgtggaa ttactatttg aataaataaa agggtatagg aagtataaac ccatagactg
+     1141 gaccttaaga attaagtgtt tcaaaaatcc catctaaggt cctatttttc ttagattttc
+     1201 tttgtcgtga tttttgtgcg ttctttgata tatacgctat ggcccattcc agccgagccg
+     1261 ttatttccga ccatgcttga tgaatataag cctccagtat tggtaacagc cagacatcga
+     1321 cgtttttccc ggctttgtac accgaaacgg acagcatact ttgcatggcg atgtacctgc
+     1381 ggatgatcaa ggccagcaaa ctggcccaga ccaatccttc cataatggct tgctggcccg
+     1441 ttgcaaaacg tcgccagttt gtatcggatt tcagctcttt aaacagtaac tcaacctgcc
+     1501 atcgacaccg gtaaatcatc atgatctcct cggctgacca cgtcgttgct gctaaattgg
+     1561 tgacccagat acagaatcgt ttttcttcgg caaaccagcg acggactaac cggaattcat
+     1621 cctgcccgcg cttaattttt aagtctaaaa cctctgaacg gttggttttt cggtcgattt
+     1681 ctttgagttt catacccgcg agtttgggta atagtcgccc ctgaccattg cgagcctcaa
+     1741 taattactgg attgaggttt ttaccacctc tgacgatgaa tgaaccgcca tgctcagata
+     1801 attgactgaa atagttgaag tctacatacc cggcatccgc caacagcaat tgattacgaa
+     1861 tcagttccgt tttcggcaaa tatgcccgct ctgaggctgt atcggccgtg atcgtcatgg
+     1921 ttttcggcat ttgatgtttg agcgataacg tcatatgaca ttcaatcgca gccggatggg
+     1981 ttggaaatcg acttgggaaa acttcggcta agccatcgtg cactcggaaa gaactgccat
+     2041 cctgcaacag gatatcgtca aaacaatcga gtttggcggg caactttgct ttaagtgccc
+     2101 gaacaaactg cgc
+//
+LOCUS       contig_2                1176 bp    DNA     linear   UNK 29-APR-2025
+DEFINITION  contig_2, whole genome shotgun sequence.
+ACCESSION   contig_2
+VERSION     contig_2
+KEYWORDS    .
+SOURCE      None
+  ORGANISM  .
+            .
+COMMENT     Annotated with Bakta
+            Software: v1.11.0
+            Database: v6.0, full
+            DOI: 10.1099/mgen.0.000685
+            URL: github.com/oschwengers/bakta
+            
+            ##Genome Annotation Summary:##
+            Annotation Date                :: 04/29/2025, 08:39:10
+            CDSs                           ::     1
+            tRNAs                          ::     0
+            tmRNAs                         ::     0
+            rRNAs                          ::     0
+            ncRNAs                         ::     0
+            regulatory ncRNAs              ::     0
+            CRISPR Arrays                  ::     0
+            oriCs/oriVs                    ::     0
+            oriTs                          ::     0
+            gaps                           ::     0
+            pseudogenes                    ::     0
+FEATURES             Location/Qualifiers
+     source          1..1176
+                     /mol_type="genomic DNA"
+     gene            252..1082
+                     /locus_tag="JFLCJL_03"
+                     /gene="blaOXA"
+     CDS             252..1082
+                     /db_xref="NCBIFam:NF012161.0"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniRef:UniRef50_A0AAP3GBB3"
+                     /product="class D beta-lactamase"
+                     /locus_tag="JFLCJL_03"
+                     /protein_id="gnl|Bakta|JFLCJL_03"
+                     /translation="MDIRRIKIFPLLMFFLLIVGVIGGVTGQSAQPNKVLEVSSVNVDE
+                     FFKNTEGTFILKDVESGKMFIYDDKRAEERRSPNSTFKIMNSLIGLQVQAVKDEYEIKR
+                     WDGIDRSLSVWNQDHTLGSAMRNSVVWYYQAMARDVGEQRMQEWIDKCSYGNRDISGGI
+                     DRFWLTSSLQISPREQVDFLEKLYKESLPFDKGVMKTVKRIMIQQEGDDYTLYGKTGSS
+                     GLLNNNSVGWYVGFVIVKGHPYIFATNIDTPVEFAGLKAKELTINILKKYKLVL"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA
+                     sequence:UniRef:UniRef50_A0AAP3GBB3"
+                     /gene="blaOXA"
+ORIGIN
+        1 agattggagt cattgatttt cataaagccc tagccgatga cagtggttta atgatcaaag
+       61 aggggctgca ttatgatggt attcacccaa atgcagccgg atataaagtc atgactgatg
+      121 ttgctgccaa gtttctgcag gacaaagcaa caaaatataa ttgaaatgtt agtttgttgt
+      181 tattgttgat gagggggttg tcatatatat tttaaataaa gataaaatag gtacagcaag
+      241 aggtgggaat tatggatata agacgcatta agatttttcc gttactgatg ttttttttgc
+      301 tgatagtggg tgtcatagga ggggttacgg gtcaatcggc tcaacccaat aaggtgttgg
+      361 aagtgtccag tgtcaatgta gatgaatttt ttaaaaatac agaaggcaca tttattctaa
+      421 aagatgtaga atcaggaaag atgtttattt acgatgataa acgggctgaa gagcggcgat
+      481 cgccaaactc cacgtttaaa attatgaact ctttgattgg actgcaagta caggccgtaa
+      541 aagatgaata tgagattaaa cgatgggatg gtattgaccg ttcactgagt gtctggaatc
+      601 aagatcatac ccttggatca gcaatgagaa attctgtggt ctggtattat caagctatgg
+      661 ctcgtgatgt tggtgaacag cgaatgcagg aatggattga caaatgttcc tacggcaacc
+      721 gagacattag tggcgggatt gatcggtttt ggctaactag ttccctccaa atttctccta
+      781 gagaacaagt tgattttctg gaaaagcttt ataaagagag cttgcctttt gataagggcg
+      841 tcatgaaaac tgtcaaacgg attatgattc agcaagaggg agatgattat actctttatg
+      901 gtaaaacagg cagtagcgga ttactcaata ataattctgt gggatggtat gtaggcttcg
+      961 ttattgtgaa aggccatcca tacatatttg ccacaaacat tgacactccc gtagaattcg
+     1021 ctggactgaa agcgaaagaa cttactatca atattctcaa aaaatataag ttggtacttt
+     1081 aaaatacgct gcagccgcgc aacgaatatt acctttgttc tctgaagtaa ttacaaaata
+     1141 aaagcaggcc acctctttga agaatctcca aagagg
+//
+LOCUS       contig_3                1716 bp    DNA     linear   UNK 29-APR-2025
+DEFINITION  contig_3, whole genome shotgun sequence.
+ACCESSION   contig_3
+VERSION     contig_3
+KEYWORDS    .
+SOURCE      None
+  ORGANISM  .
+            .
+COMMENT     Annotated with Bakta
+            Software: v1.11.0
+            Database: v6.0, full
+            DOI: 10.1099/mgen.0.000685
+            URL: github.com/oschwengers/bakta
+            
+            ##Genome Annotation Summary:##
+            Annotation Date                :: 04/29/2025, 08:39:10
+            CDSs                           ::     1
+            tRNAs                          ::     0
+            tmRNAs                         ::     0
+            rRNAs                          ::     0
+            ncRNAs                         ::     0
+            regulatory ncRNAs              ::     0
+            CRISPR Arrays                  ::     0
+            oriCs/oriVs                    ::     0
+            oriTs                          ::     0
+            gaps                           ::     0
+            pseudogenes                    ::     0
+FEATURES             Location/Qualifiers
+     source          1..1716
+                     /mol_type="genomic DNA"
+     gene            complement(472..1515)
+                     /locus_tag="JFLCJL_04"
+     CDS             complement(472..1515)
+                     /db_xref="SO:0001217"
+                     /db_xref="UniRef:UniRef50_UPI00063BF791"
+                     /product="Cell division protein FtsI/penicillin binding
+                     protein 2"
+                     /locus_tag="JFLCJL_04"
+                     /protein_id="gnl|Bakta|JFLCJL_04"
+                     /translation="MLSQYQLHASRRSFSKIALTALAILAPLCTAYAAKATLPNSTAKK
+                     TETSSLAPRIQQIAEKEITEAVKRYQAKSGAIAVADPHTGQILAFAEAGSVHGNDSWSS
+                     RLFPAASTIKPFVAAAALEAGVGSESQIYDCHSPYDISGTKFTNWSPNFGEVSMTEAIA
+                     KSVNICLIKVAQDLGSDKFRKKLAEFGFDTYSQWRNDKSDALQLANASLGLSIPVTLET
+                     ITKAYAILANKGHLFPENSGNIVSEASAEAVTRMLVEAVENGTGKRAAIPGLSVAGKTG
+                     TLADKISPNSSALALFGGYAPADAPRFAVFVLIEDGQPVEKNEGATGGNLAAPVFHELT
+                     TKSLNSK"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA
+                     sequence:UniRef:UniRef50_UPI00063BF791"
+ORIGIN
+        1 caataaagag gcacttgcct catagggaat cgacgaactg acgcgagagc tagggttaca
+       61 gcgggattaa ggtgggctcc agagatatgc cccaatgcgt ggatcattac aaaaacaaca
+      121 agtccaaaca taatcggaat gataaaagat ggtagagctt ggggattgcc ttggcaagct
+      181 gcgatactgc cacagccaaa aaagattaac ataaatgttc caatgatttc agcgacacac
+      241 ttagtgagtt gatttttagc cattaatttc ttcctttatt cttcaatttt caatgggcta
+      301 gcctagacta aaattgttaa tagcggttaa tatatttaga atctaataaa gaatattact
+      361 ttttttcttt ttaagatttt ggagctagtc taagcttttt catggacagg gtgctcgctc
+      421 tagagttcta gaacgaggta taggaatgag accaataaga agcaagagtt tttatttaga
+      481 gttcagactt tttgtggtta gctcatgaaa gacaggagct gctaaatttc ctccagtggc
+      541 gccctcattc ttttcaacgg gttgaccatc ttcaatcaac acaaaaacgg caaagcgagg
+      601 agcatcagct ggggcataac caccgaagag agccaatgcc gatgaatttg gagagatctt
+      661 gtctgcaaga gtgcctgttt tgcctgcgac gcttagacct ggaattgctg cgcgttttcc
+      721 tgtcccattt tcaacagctt caacaagcat acgggtgaca gcctctgcac tagcctcaga
+      781 gacgatattt ccagagtttt ctggaaacaa atgcccttta tttgctaaaa ttgcataggc
+      841 ttttgttatt gtttcaagag ttaccgggat actaagccct aatgatgcat tggcgagttg
+      901 taaagcatcg cttttgtcat tgcgccattg gctgtaggta tcaaaaccaa attcagctaa
+      961 ctttttgcga aatttgtctg atccaagatc ttgggcgact ttgatcagac aaatattcac
+     1021 tgactttgcg atggcttcag tcatcgagac ctcaccaaaa tttggactcc aattcgtaaa
+     1081 ttttgtccca cttatatcat agggtgagtg acaatcataa atttgtgatt cggacccaac
+     1141 accagcctct aaagcagcag ctgctacaaa aggcttgatg gttgatgcag cagggaaaag
+     1201 gcgtgaactc caactatcat tgccatgtac agatcctgct tcagcaaaag caagaatttg
+     1261 acctgtatga ggatcagcta cagcaattgc tccagactta gcttgatagc gcttgacagc
+     1321 ttctgtgatt tctttttcag cgatttgctg aattcttggg gcaagtgagg atgtttcagt
+     1381 ttttttcgct gtagagttgg gtagggttgc tttagcagca taggctgtgc agagtggggc
+     1441 taaaattgct aacgcagtaa gtgcaatctt agaaaatgag cgacgtgaag catgcaattg
+     1501 gtattgtgat aacatacaaa ttctcctaga aatgaaagat tttttgtttt cttcatgttc
+     1561 ccaagtcatt ccaactgcgc atgcgaattt caggtggatt gcctcagagt atttggaagc
+     1621 tgtctgtgca actgtgaaca ggcaagtccc atagtcatat gcagagatat tctggtggcc
+     1681 aaccagagcc tcgtcacatg ataattcctg tagttc
+//
+LOCUS       contig_4                1316 bp    DNA     linear   UNK 29-APR-2025
+DEFINITION  contig_4, whole genome shotgun sequence.
+ACCESSION   contig_4
+VERSION     contig_4
+KEYWORDS    .
+SOURCE      None
+  ORGANISM  .
+            .
+COMMENT     Annotated with Bakta
+            Software: v1.11.0
+            Database: v6.0, full
+            DOI: 10.1099/mgen.0.000685
+            URL: github.com/oschwengers/bakta
+            
+            ##Genome Annotation Summary:##
+            Annotation Date                :: 04/29/2025, 08:39:10
+            CDSs                           ::     2
+            tRNAs                          ::     0
+            tmRNAs                         ::     0
+            rRNAs                          ::     0
+            ncRNAs                         ::     0
+            regulatory ncRNAs              ::     0
+            CRISPR Arrays                  ::     0
+            oriCs/oriVs                    ::     0
+            oriTs                          ::     0
+            gaps                           ::     0
+            pseudogenes                    ::     0
+FEATURES             Location/Qualifiers
+     source          1..1316
+                     /mol_type="genomic DNA"
+     gene            162..935
+                     /locus_tag="JFLCJL_05"
+                     /gene="blaOXA"
+     CDS             162..935
+                     /db_xref="EC:3.5.2.6"
+                     /db_xref="GO:0008800"
+                     /db_xref="NCBIProtein:WP_109545072.1"
+                     /db_xref="SO:0001217"
+                     /db_xref="UniRef:UniRef50_A0A8T7D7W0"
+                     /db_xref="UniRef:UniRef90_A0A0H3U8X1"
+                     /product="OXA-372 family carbapenem-hydrolyzing class D
+                     beta-lactamase"
+                     /locus_tag="JFLCJL_05"
+                     /protein_id="gnl|Bakta|JFLCJL_05"
+                     /translation="MKHIFLVFMILCSNFAIAEDKAIAAIFSAEGVDGTIILKSLRGDK
+                     TITHNDARASRRFASASTFKIFNTLIAVQENVVSVAGTAFRWDGKTHDFPDWNRDQTLE
+                     SAFKVSCVWCYQEIAKQVGEETYRRYLALAKYGALSKVADSTTFWLDGSFTVSAVEQVA
+                     LLKKIYLRELPFRDDAYDALKRVMLAEQTDSYKLYAKTGWAGRMNPQIGWYVGYVETSD
+                     DVWFFAINLTLRSETDLGLRQQITKAVLRAERIIP"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+                     /inference="similar to AA
+                     sequence:UniRef:UniRef90_A0A0H3U8X1"
+                     /gene="blaOXA"
+     gene            complement(1082..1294)
+                     /locus_tag="JFLCJL_06"
+     CDS             complement(1082..1294)
+                     /product="hypothetical protein"
+                     /locus_tag="JFLCJL_06"
+                     /protein_id="gnl|Bakta|JFLCJL_06"
+                     /translation="MGAFGTNVHRPVFVGEFGIALGALGQDCHGDGPQSKTANPKVSRL
+                     GESGGAIVARSKPTEQNTCVRIRRS"
+                     /codon_start=1
+                     /transl_table=11
+                     /inference="ab initio prediction:Prodigal:2.6"
+ORIGIN
+        1 gaaaccatga ttcaggcgat ggggggaaca gtatgggtag ttaaaagtct gaagtctgcc
+       61 cccggccaaa ttcagaaatt cgagcggttt cccgatagga gtcattgcag ccaatgcgcc
+      121 cctactatac aatattgggc tcaacctaaa ctgggtaacc tatgaagcat atttttttgg
+      181 tctttatgat tctgtgctca aattttgcta tcgctgagga taaagcgatt gcggctattt
+      241 tttccgcaga aggtgttgat gggaccatca ttttgaagtc gttgcgtgga gataagacaa
+      301 tcacacacaa cgatgcacgc gcttctcgcc ggttcgcctc agcctcgact ttcaagatat
+      361 tcaacacatt gattgcagtt caagaaaacg tggtgagtgt ggcgggtact gcattccgat
+      421 gggatggaaa aacgcatgac ttccccgact ggaaccgtga ccaaacactt gaaagcgcat
+      481 tcaaagtttc ttgcgtgtgg tgctatcagg aaatcgccaa gcaagtgggg gaagaaactt
+      541 atcgacgcta tcttgcgctt gcaaagtatg gtgctctgag caaggtggca gacagtacaa
+      601 ccttttggct tgatggcagc tttacggtca gcgcagtcga gcaagtggct ctgttgaaaa
+      661 aaatctatct gcgagaactt ccgtttcgcg atgacgccta cgacgcttta aagcgggtga
+      721 tgctggcaga gcagactgac agctacaagc tttacgcaaa gactggttgg gcaggaagaa
+      781 tgaaccctca aattgggtgg tacgttggat atgttgaaac atccgatgat gtatggtttt
+      841 ttgccatcaa tttgaccttg aggtcggaaa ctgacttagg tttgcgccag caaataacaa
+      901 aggctgtgct tagggctgaa cgcattattc cctgaggaga acccttggga aaaggtccgc
+      961 ttttacaggc gggccagttc cgctaagggg cggatgcggt ctgtgctagt accaaccggt
+     1021 gcggaaactt gcgggggact gagcgttccc cttatctgtt agcaagaggc agcaggagtt
+     1081 gtcaggagcg tctgatgcgt acgcaggtgt tttgttcggt tggtttgctg cgtgctacaa
+     1141 tagcaccacc agattctcca agacggctga ccttcgggtt ggccgttttg ctttgcggac
+     1201 catccccatg acaatcctgc ccaagtgccc ccagtgcaat tccgaattca cctacgaaga
+     1261 cggggcgatg tacgtttgtc ccgaatgcgc ccatgagtgg gccaaggagg ggattg
+//

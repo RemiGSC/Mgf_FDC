@@ -1,0 +1,44 @@
+>Feature GER-1-KREISCHAIN_FDC1
+210	1109	CDS
+			EC_number	3.5.2.6
+			gene	per1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37321
+			locus_tag	prokka_00001
+			product	Extended-spectrum beta-lactamase PER-1
+2083	1145	CDS
+			db_xref	COG:COG3385
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:ISfinder:ISVa14
+			locus_tag	prokka_00002
+			product	IS4 family transposase ISVa14
+>Feature GER-3-ELBE_FDC1
+252	1082	CDS
+			EC_number	3.5.2.6
+			db_xref	COG:COG2602
+			gene	ybxI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54427
+			locus_tag	prokka_00003
+			product	putative beta-lactamase YbxI
+>Feature GER-5-KREISCHAOUT_FDCa
+1515	472	CDS
+			EC_number	3.4.16.4
+			db_xref	COG:COG0768
+			gene	ftsI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:G3XD46
+			locus_tag	prokka_00004
+			product	Peptidoglycan D,D-transpeptidase FtsI
+>Feature SWE-1-JRYAIN_FDC1
+162	935	CDS
+			EC_number	3.5.2.6
+			gene	bla
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14489
+			locus_tag	prokka_00005
+			product	Beta-lactamase OXA-10
+1294	1082	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_00006
+			product	hypothetical protein

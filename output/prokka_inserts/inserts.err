@@ -1,0 +1,111 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:6 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all same)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all same)
+DISC_FEATURE_COUNT:CDS: 6 present
+DISC_COUNT_NUCLEOTIDES:4 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:6 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:4 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:4 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:4 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:4 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:4 sequences do not include structured comments.
+MISSING_PROJECT:10 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::6 proteins have invalid IDs.
+../output/prokka_inserts/inserts:GER-1-KREISCHAIN_FDC1_1 (length 299)
+../output/prokka_inserts/inserts:GER-1-KREISCHAIN_FDC1_2 (length 312)
+../output/prokka_inserts/inserts:GER-3-ELBE_FDC1_1 (length 276)
+../output/prokka_inserts/inserts:GER-5-KREISCHAOUT_FDCa_1 (length 347)
+../output/prokka_inserts/inserts:SWE-1-JRYAIN_FDC1_1 (length 257)
+../output/prokka_inserts/inserts:SWE-1-JRYAIN_FDC1_2 (length 70)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all same)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::4 sources have 'strain' for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all same)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::4 sources have 'Genus species' for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 6 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::4 nucleotide Bioseqs are present
+../output/prokka_inserts/inserts:GER-1-KREISCHAIN_FDC1 (length 2113)
+../output/prokka_inserts/inserts:GER-3-ELBE_FDC1 (length 1176)
+../output/prokka_inserts/inserts:GER-5-KREISCHAOUT_FDCa (length 1716)
+../output/prokka_inserts/inserts:SWE-1-JRYAIN_FDC1 (length 1316)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::6 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_inserts/inserts:CDS	Extended-spectrum beta-lactamase PER-1	GER-1-KREISCHAIN_FDC1:210-1109	prokka_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_inserts/inserts:CDS	IS4 family transposase ISVa14	GER-1-KREISCHAIN_FDC1:c2083-1145	prokka_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_inserts/inserts:CDS	putative beta-lactamase YbxI	GER-3-ELBE_FDC1:252-1082	prokka_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_inserts/inserts:CDS	Peptidoglycan D,D-transpeptidase FtsI	GER-5-KREISCHAOUT_FDCa:c1515-472	prokka_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_inserts/inserts:CDS	Beta-lactamase OXA-10	SWE-1-JRYAIN_FDC1:162-935	prokka_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_inserts/inserts:CDS	hypothetical protein	SWE-1-JRYAIN_FDC1:c1294-1082	prokka_00006
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::4 comment descriptors were found (all same)
+../output/prokka_inserts/inserts:GER-1-KREISCHAIN_FDC1:Annotated using prokka 1.14.0 from https://github.com/tseemann/prokka
+../output/prokka_inserts/inserts:GER-3-ELBE_FDC1:Annotated using prokka 1.14.0 from https://github.com/tseemann/prokka
+../output/prokka_inserts/inserts:GER-5-KREISCHAOUT_FDCa:Annotated using prokka 1.14.0 from https://github.com/tseemann/prokka
+../output/prokka_inserts/inserts:SWE-1-JRYAIN_FDC1:Annotated using prokka 1.14.0 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::4 bioseqs are missing GenomeAssembly structured comments
+../output/prokka_inserts/inserts:GER-1-KREISCHAIN_FDC1 (length 2113)
+../output/prokka_inserts/inserts:GER-3-ELBE_FDC1 (length 1176)
+../output/prokka_inserts/inserts:GER-5-KREISCHAOUT_FDCa (length 1716)
+../output/prokka_inserts/inserts:SWE-1-JRYAIN_FDC1 (length 1316)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::4 molecule types are not set as mRNA.
+../output/prokka_inserts/inserts:GER-1-KREISCHAIN_FDC1 (length 2113)
+../output/prokka_inserts/inserts:GER-3-ELBE_FDC1 (length 1176)
+../output/prokka_inserts/inserts:GER-5-KREISCHAOUT_FDCa (length 1716)
+../output/prokka_inserts/inserts:SWE-1-JRYAIN_FDC1 (length 1316)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::4 technique are not set as TSA
+../output/prokka_inserts/inserts:GER-1-KREISCHAIN_FDC1 (length 2113)
+../output/prokka_inserts/inserts:GER-3-ELBE_FDC1 (length 1176)
+../output/prokka_inserts/inserts:GER-5-KREISCHAOUT_FDCa (length 1716)
+../output/prokka_inserts/inserts:SWE-1-JRYAIN_FDC1 (length 1316)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::4 sequences do not include structured comments.
+../output/prokka_inserts/inserts:GER-1-KREISCHAIN_FDC1 (length 2113)
+../output/prokka_inserts/inserts:GER-3-ELBE_FDC1 (length 1176)
+../output/prokka_inserts/inserts:GER-5-KREISCHAOUT_FDCa (length 1716)
+../output/prokka_inserts/inserts:SWE-1-JRYAIN_FDC1 (length 1316)
+
+DiscRep_ALL:MISSING_PROJECT::10 sequences do not include project.
+../output/prokka_inserts/inserts:GER-1-KREISCHAIN_FDC1 (length 2113)
+../output/prokka_inserts/inserts:GER-1-KREISCHAIN_FDC1_1 (length 299)
+../output/prokka_inserts/inserts:GER-1-KREISCHAIN_FDC1_2 (length 312)
+../output/prokka_inserts/inserts:GER-3-ELBE_FDC1 (length 1176)
+../output/prokka_inserts/inserts:GER-3-ELBE_FDC1_1 (length 276)
+../output/prokka_inserts/inserts:GER-5-KREISCHAOUT_FDCa (length 1716)
+../output/prokka_inserts/inserts:GER-5-KREISCHAOUT_FDCa_1 (length 347)
+../output/prokka_inserts/inserts:SWE-1-JRYAIN_FDC1 (length 1316)
+../output/prokka_inserts/inserts:SWE-1-JRYAIN_FDC1_1 (length 257)
+../output/prokka_inserts/inserts:SWE-1-JRYAIN_FDC1_2 (length 70)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::4 Molinfos are missing field technique
+../output/prokka_inserts/inserts:GER-1-KREISCHAIN_FDC1 (length 2113)
+../output/prokka_inserts/inserts:GER-3-ELBE_FDC1 (length 1176)
+../output/prokka_inserts/inserts:GER-5-KREISCHAOUT_FDCa (length 1716)
+../output/prokka_inserts/inserts:SWE-1-JRYAIN_FDC1 (length 1316)
+

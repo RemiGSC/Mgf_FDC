@@ -1,0 +1,3 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaVEB-3	100.00	900/900	100.0	1..900	GER-1-KREISCHAIN_FDC1_Extended-spectrum_beta-lactamase_PER-1	1..900	Unknown Beta-lactam	AY536519
+blaOXA-372	93.15	774/774	100.0	1..774	SWE-1-JRYAIN_FDC1_Beta-lactamase_OXA-10	1..774	Amoxicillin, Ampicillin, Ertapenem, Imipenem, Meropenem, Temocillin	KJ746496

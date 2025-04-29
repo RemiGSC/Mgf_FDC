@@ -1,0 +1,12 @@
+# Annotated with Bakta
+# Software: v1.11.0
+# Database: v6.0, full
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	210	1109	+	JFLCJL_01	blaVEB-3	extended-spectrum class A beta-lactamase VEB-3	COG:COG2367, COG:V, EC:3.5.2.6, GO:0008800, GO:0030655, GO:0046677, NCBIProtein:WP_020956917.1, RefSeq:WP_020956917.1, SO:0001217, UniParc:UPI0000253A1E, UniRef:UniRef100_D0UY02, UniRef:UniRef50_O87489, UniRef:UniRef90_O87489
+contig_1	cds	1145	2083	-	JFLCJL_02		Transposase	SO:0001217, UniRef:UniRef50_D3VK07
+contig_2	cds	252	1082	+	JFLCJL_03	blaOXA	class D beta-lactamase	NCBIFam:NF012161.0, SO:0001217, UniRef:UniRef50_A0AAP3GBB3
+contig_3	cds	472	1515	-	JFLCJL_04		Cell division protein FtsI/penicillin binding protein 2	SO:0001217, UniRef:UniRef50_UPI00063BF791
+contig_4	cds	162	935	+	JFLCJL_05	blaOXA	OXA-372 family carbapenem-hydrolyzing class D beta-lactamase	EC:3.5.2.6, GO:0008800, NCBIProtein:WP_109545072.1, SO:0001217, UniRef:UniRef50_A0A8T7D7W0, UniRef:UniRef90_A0A0H3U8X1
+contig_4	cds	1082	1294	-	JFLCJL_06		hypothetical protein	
