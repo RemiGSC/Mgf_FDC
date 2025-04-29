@@ -1,0 +1,198 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.526)
+
+
+yeeO_GER1_spade ttg-----------------------aatatctcctctgctttacgccaggttgttc---
+yeeO_GER3_spade ttattccgacacaactggctttttttcacacttttgcggctcgggtcgagggtatttcca
+yeeO_GER5_spade ttattccgacacaactggctttttttcacacttttgcggctcgggtcgagggtatttcca
+yeeO_k12_spades ttattccgacacaactggctttttttcacacttttgcggctcgggtcgagggtatttcca
+yeeO_SWE1_spade ttattccgacacaactggctttttttcacacttttgcggctcgggtcgagggtatttcca
+                **.                        *.*..*.. * ***. .  * *** *.**.   
+
+yeeO_GER1_spade ------------------------------------------------------------
+yeeO_GER3_spade tagccaacgtccagtaaccattcgccagtaaaacagcacggcccgcacagcccagtcggc
+yeeO_GER5_spade tagccaacgtccagtaaccattcgccagtaaaacagcacggcccgcacagcccagtcggc
+yeeO_k12_spades tagccaacgtccagtaaccattcgccagtaaaacagcacggcccgcacagcccagtcggc
+yeeO_SWE1_spade tagccaacgtccagtaaccattcgccagtaaaacagcacggcccgcacagcccagtcggc
+                                                                            
+
+yeeO_GER1_spade ----------------acggcactcgctggcacgctaaacgcaagagctacaaagtgttg
+yeeO_GER3_spade aaacattcccatccagacaccaaccacaccccagccaagcatgattcccagcacataacc
+yeeO_GER5_spade aaacattcccatccagacaccaaccacaccccagccaagcatgattcccagcacataacc
+yeeO_k12_spades aaacattcccatccagacaccaaccacaccccagccaagcatgattcccagcacataacc
+yeeO_SWE1_spade aaacattcccatccagacaccaaccacaccccagccaagcatgattcccagcacataacc
+                                **. ** .*.*   *  **.**.*...*   *.*  * .*. . 
+
+yeeO_GER1_spade ttctggcgcgagataaccccgcttgct----gttcctatcttcatggagaatgcctgtgt
+yeeO_GER3_spade gactacaacccgacaaccccacatgctcaacatcgaaacccacatggcg-----------
+yeeO_GER5_spade gactacaacccgacaaccccacatgctcaacatcgaaacccacatggcg-----------
+yeeO_k12_spades gactacaacccgacaaccccacatgctcaacatcgaaacccacatggcg-----------
+yeeO_SWE1_spade gactacaacccgacaaccccacatgctcaacatcgaaacccacatggcg-----------
+                  **.  .*  **.******.* ****    .*.   *.*. ***** *           
+
+yeeO_GER1_spade cctgttgatgggggttctgagcacttttctggtcagctggctg----ggaaaagatgcga
+yeeO_GER3_spade -----taacgggcatcacgagcacctttaaatccagcgggtagcacccatgaggcggacc
+yeeO_GER5_spade -----taacgggcatcacgagcacctttaaatccagcgggtagcacccatgaggcggacc
+yeeO_k12_spades -----taacgggcatcacgagcacctttaaatccagcgggtagcacccatgaggcggacc
+yeeO_SWE1_spade -----taacgggcatcacgagcacctttaaatccagcgggtagcacccatgaggcggacc
+                     *.*.*** .*. .******.***  . .**** **. *     . .*.*  *   
+
+yeeO_GER1_spade tggccggcgtgggattggcggacagcttcaatatggtcattatggctttttttgctgcta
+yeeO_GER3_spade aaataggcataaataaagcatttagccaaatcagaatcacaacgacatgtttaac--ctg
+yeeO_GER5_spade aaataggcataaataaagcatttagccaaatcagaatcacaacgacatgtttaac--ctg
+yeeO_k12_spades aaataggcataaataaagcatttagccaaatcagaatcacaacgacatgtttaac--ctg
+yeeO_SWE1_spade aaataggcataaataaagcatttagccaaatcagaatcacaacgacatgtttaac--ctg
+                 ... ***.*...   .**.  .***.  * .* ..***. *.*.* * *** .*  **.
+
+yeeO_GER1_spade tcgatcttggtactactgtcgttgtggcatttagtctcggtaagcgggatcgacgacgag
+yeeO_GER3_spade tggatcctgggtgtaaaacgatgcca-----taaccccggcaaagggagccgttagccag
+yeeO_GER5_spade tggatcctgggtgtaaaacgatgcca-----taaccccggcaaagggagccgttagccag
+yeeO_k12_spades tggatcctgggtgtaaaacgatgcca-----taaccccggcaaagggagccgttagccag
+yeeO_SWE1_spade tggatcctgggtgtaaaacgatgcca-----taaccccggcaaagggagccgttagccag
+                * ****.***   **  .. .*  ..     **..*.***.**. **...** ...* **
+
+yeeO_GER1_spade ----------------cgagggtggcgacgcggcagtcat-tggtgatcatgacgttgtt
+yeeO_GER3_spade gcgatggccgttaatccaagagtggaaagccagaacacatgccgcaactgaatctctgct
+yeeO_GER5_spade gcgatggccgttaatccaagagtggaaagccagaacacatgccgcaactgaatctctgct
+yeeO_k12_spades gcgatggccgttaatccaagagtggaaagccagaacacatgccgcaactgaatctctgct
+yeeO_SWE1_spade gcgatggccgttaatccaagagtggaaagccagaacacatgccgcaactgaatctctgct
+                                *.**.**** .*  *.* *  *** . *..*... . * .**.*
+
+yeeO_GER1_spade tg------ccgtactgttggcaacgcttattcatcatt--ttggcgaacaaattattgat
+yeeO_GER3_spade tgcgctatctgccctacccccaaccttcggcctgtaatgatcgtagaagcagagccgagc
+yeeO_GER5_spade tgcgctatctgccctacccccaaccttcggcctgtaatgatcgtagaagcagagccgagc
+yeeO_k12_spades tgcgctatctgccctacccccaaccttcggcctgtaatgatcgtagaagcagagccgagc
+yeeO_SWE1_spade tgcgctatctgccctacccccaaccttcggcctgtaatgatcgtagaagcagagccgagc
+                **      *.*. **...  **** .*.. .*  .* *  *.*  ***  *.   . ...
+
+yeeO_GER1_spade ttcgtcgcgggtgatgccacgacagaagttaaagcactggcgttgacttatctggagctg
+yeeO_GER3_spade gcacttccgggtaagttgataagagccgcaattgaaaacgcgataaaatttccggcaata
+yeeO_GER5_spade gcacttccgggtaagttgataagagccgcaattgaaaacgcgataaaatttccggcaata
+yeeO_k12_spades gcacttccgggtaagttgataagagccgcaattgaaaacgcgataaaatttccggcaata
+yeeO_SWE1_spade gcacttccgggtaagttgataagagccgcaattgaaaacgcgataaaatttccggcaata
+                 .  *. *****.*  . *..* **  *. *  * *   *** *.*  * **.** . *.
+
+yeeO_GER1_spade acggtactcagttatccagcagctgccatcactcttattggtagcggggcacttcgtggt
+yeeO_GER3_spade acactggtccccatcccggca---acgaacatttgggttaataaccgaccactggtaaat
+yeeO_GER5_spade acactggtccccatcccggca---acgaacatttgggttaataaccgaccactggtaaat
+yeeO_k12_spades acactggtccccatcccggca---acgaacatttgggttaataaccgaccactggtaaat
+yeeO_SWE1_spade acactggtccccatcccggca---acgaacatttgggttaataaccgaccactggtaaat
+                **. *. **  .  .**.***   .* * **.*.  .**..**.* *. ****    ..*
+
+yeeO_GER1_spade gcagggaatacgaaaataccgctattgattaacggtagcctgaatattcttaatattatt
+yeeO_GER3_spade aacactgattcgacactcgcg----ggaataccaatccccatgacttcccagata-----
+yeeO_GER5_spade aacactgattcgacactcgcg----ggaataccaatccccatgacttcccagata-----
+yeeO_k12_spades aacactgattcgacactcgcg----ggaataccaatccccatgacttcccagata-----
+yeeO_SWE1_spade aacactgattcgacactcgcg----ggaataccaatccccatgacttcccagata-----
+                .  .  .** *** * *  **     ** ** *..*  **  .*. *.*. .***     
+
+yeeO_GER1_spade attagcggcatattgatttacggccttttctcctggccgggactgggatttgtcggggca
+yeeO_GER3_spade ---------atgctaaaattcagcggtttaaaatagctctttaacgaaatccttagcgca
+yeeO_GER5_spade ---------atgctaaaattcagcggtttaaaatagctctttaacgaaatccttagcgca
+yeeO_k12_spades ---------atgctaaaattcagcggtttaaaatagctctttaacgaaatccttagcgca
+yeeO_SWE1_spade ---------atgctaaaattcagcggtttaaaatagctctttaacgaaatccttagcgca
+                         **..*.*  * *.**  ***    *.**.       *.* *. *..* ***
+
+yeeO_GER1_spade gggctgggtttaaccatttctcgttatattggcgcagttgcaattttgtgggtgctggcg
+yeeO_GER3_spade ggattaaaaccaatcgccagcacccacaaaattgcaactgcgccaatataacgagaaatg
+yeeO_GER5_spade ggattaaaaccaatcgccagcacccacaaaattgcaactgcgccaatataacgagaaatg
+yeeO_k12_spades ggattaaaaccaatcgccagcacccacaaaattgcaactgcgccaatataacgagaaatg
+yeeO_SWE1_spade ggattaaaaccaatcgccagcacccacaaaattgcaactgcgccaatataacgagaaatg
+                **..*... ..**.*...  .  ..*.*  . .***..***. .  *.*..  .  ...*
+
+yeeO_GER1_spade attggttttaatcctgcgctaaggatttcgttaaagagctattttaaaccgctgaatttt
+yeeO_GER3_spade gttaaacccagccctgccccgacaaatcccagtcccggccaggagaaaaggccgtaaatc
+yeeO_GER5_spade gttaaacccagccctgccccgacaaatcccagtcccggccaggagaaaaggccgtaaatc
+yeeO_k12_spades gttaaacccagccctgccccgacaaatcccagtcccggccaggagaaaaggccgtaaatc
+yeeO_SWE1_spade gttaaacccagccctgccccgacaaatcccagtcccggccaggagaaaaggccgtaaatc
+                .**.. ...*..***** *..* .* *.*       .**.*    ***  **.* *  *.
+
+yeeO_GER1_spade agcat--------------tatctgggaagtcatggggattggtattc----ccgcgagt
+yeeO_GER3_spade aatatgccgctaataataatattaagaatattcaggctaccgttaatcaatagcggtatt
+yeeO_GER5_spade aatatgccgctaataataatattaagaatattcaggctaccgttaatcaatagcggtatt
+yeeO_k12_spades aatatgccgctaataataatattaagaatattcaggctaccgttaatcaatagcggtatt
+yeeO_SWE1_spade aatatgccgctaataataatattaagaatattcaggctaccgttaatcaatagcggtatt
+                *..**              ***. .*.* .*.  **  *..* ** **     **  * *
+
+yeeO_GER1_spade gtcgaatcagtgttatttaccagtggtcggttattaacccaa---atgttcgttgccggg
+yeeO_GER3_spade ttcgtattccctgcaccacgaagtgccccgctaccaataagagtgatggcagctgctgga
+yeeO_GER5_spade ttcgtattccctgcaccacgaagtgccccgctaccaataagagtgatggcagctgctgga
+yeeO_k12_spades ttcgtattccctgcaccacgaagtgccccgctaccaataagagtgatggcagctgctgga
+yeeO_SWE1_spade ttcgtattccctgcaccacgaagtgccccgctaccaataagagtgatggcagctgctgga
+                 *** **.  .  .*..    **** .* *.**..**.  .*   *** . *.***.**.
+
+yeeO_GER1_spade atggggaccagtgttattgccggaaattttatcgcgttttcaattgcggctcttatcaac
+yeeO_GER3_spade taactgagtaccgtcagctccagataagtcaacgccagtgctttaacttctgtcgtggca
+yeeO_GER5_spade taactgagtaccgtcagctccagataagtcaacgccagtgctttaacttctgtcgtggca
+yeeO_k12_spades taactgagtaccgtcagctccagataagtcaacgccagtgctttaacttctgtcgtggca
+yeeO_SWE1_spade taactgagtaccgtcagctccagataagtcaacgccagtgctttaacttctgtcgtggca
+                  .  ** .* .**.* . **.** *  *.* ***   * *  * .*  ** *..* .  
+
+yeeO_GER1_spade ttacccggaagtgcgctcggctctgcttctacgatcattacaggccgaaggttgggggta
+yeeO_GER3_spade tcacccgcgacgaaatcaataatttgttcgccaa--aatgatgaataagcgttgccaaca
+yeeO_GER5_spade tcacccgcgacgaaatcaataatttgttcgccaa--aatgatgaataagcgttgccaaca
+yeeO_k12_spades tcacccgcgacgaaatcaataatttgttcgccaa--aatgatgaataagcgttgccaaca
+yeeO_SWE1_spade tcacccgcgacgaaatcaataatttgttcgccaa--aatgatgaataagcgttgccaaca
+                *.***** .*  . ... .   .*  ***  *.*  * *.  *. ..*. ****  ...*
+
+yeeO_GER1_spade gggcagatagcgcaagcagagattcagttgcggcatgtgttctggctttccactcttgga
+yeeO_GER3_spade gtacg------gcaaacaacgtcatgatcacca-atgactgccgcgtcgccaccctcg--
+yeeO_GER5_spade gtacg------gcaaacaacgtcatgatcacca-atgactgccgcgtcgccaccctcg--
+yeeO_k12_spades gtacg------gcaaacaacgtcatgatcacca-atgactgccgcgtcgccaccctcg--
+yeeO_SWE1_spade gtacg------gcaaacaacgtcatgatcacca-atgactgccgcgtcgccaccctcg--
+                * .*.      ****.**. * . ...*..* . ***  * *.*  *. ****.**.*  
+
+yeeO_GER1_spade ttaacggccatcgcctggctaacggctccctttgccggggtta-----tggcatcgtttt
+yeeO_GER3_spade --------------ctcgtcgtcgatcccgcttaccgagactaaatgccacaacgacagt
+yeeO_GER5_spade --------------ctcgtcgtcgatcccgcttaccgagactaaatgccacaacgacagt
+yeeO_k12_spades --------------ctcgtcgtcgatcccgcttaccgagactaaatgccacaacgacagt
+yeeO_SWE1_spade --------------ctcgtcgtcgatcccgcttaccgagactaaatgccacaacgacagt
+                              ** *... **...** .**.***.*..**     ..  *. ..  *
+
+yeeO_GER1_spade acacccaggatccacag--gttaaacatgtcgttgtgattctgatttggctaaatgcttt
+yeeO_GER3_spade agtaccaagatcgatagcagcaaaaaaagccataatgaccatattgaagctgtccgccaa
+yeeO_GER5_spade agtaccaagatcgatagcagcaaaaaaagccataatgaccatattgaagctgtccgccaa
+yeeO_k12_spades agtaccaagatcgatagcagcaaaaaaagccataatgaccatattgaagctgtccgccaa
+yeeO_SWE1_spade agtaccaagatcgatagcagcaaaaaaagccataatgaccatattgaagctgtccgccaa
+                *   ***.**** *.**  *. *** * *.*.* .***.. *. *  .***.  .**.  
+
+yeeO_GER1_spade atttatgcctatttggtccgcctcatgggtgctacccgctggatttaaaggtgctcgtga
+yeeO_GER3_spade tcccacgccggccatcgcatcttt----tcccagccagctgaccagaaaagtgctcagaa
+yeeO_GER5_spade tcccacgccggccatcgcatcttt----tcccagccagctgaccagaaaagtgctcagaa
+yeeO_k12_spades tcccacgccggccatcgcatcttt----tcccagccagctgaccagaaaagtgctcagaa
+yeeO_SWE1_spade tcccacgccggccatcgcatcttt----tcccagccagctgaccagaaaagtgctcagaa
+                 ...*.*** ...    *  *.*.     . * .** ****. .  ***.******. .*
+
+yeeO_GER1_spade tgcccgtta----------------cgccatgtgggtttcgatgttgagcatgtggggtt
+yeeO_GER3_spade cccccatcaacaggacacaggcattctccatgaagataggaac----agcaagcggggtt
+yeeO_GER5_spade cccccatcaacaggacacaggcattctccatgaagataggaac----agcaagcggggtt
+yeeO_k12_spades cccccatcaacaggacacaggcattctccatgaagataggaac----agcaagcggggtt
+yeeO_SWE1_spade cccccatcaacaggacacaggcattctccatgaagataggaac----agcaagcggggtt
+                . ***.*.*                * ***** .*.*   .*.    **** *.******
+
+yeeO_GER1_spade gtcgggttgtagtcggttatgtgctgggaatcatgcttggctggggtgtggttggtgtct
+yeeO_GER3_spade atctcgcgccagaacaacactttgtagctcttgcgtttagcgtgccagcgagtgccgt--
+yeeO_GER5_spade atctcgcgccagaacaacactttgtagctcttgcgtttagcgtgccagcgagtgccgt--
+yeeO_k12_spades atctcgcgccagaacaacactttgtagctcttgcgtttagcgtgccagcgagtgccgt--
+yeeO_SWE1_spade atctcgcgccagaacaacactttgtagctcttgcgtttagcgtgccagcgagtgccgt--
+                .**  *.  .**   . .*. *  *.*   *...*.**.**  *   *.*. ** .**  
+
+yeeO_GER1_spade ggatgggaatgtttgccgactgggctgtgcgggccgtgctgttttactggcgaatggtta
+yeeO_GER3_spade ------------------------------------------------------------
+yeeO_GER5_spade ------------------------------------------------------------
+yeeO_k12_spades ------------------------------------------------------------
+yeeO_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+yeeO_GER1_spade ctggacgttggctatggaaataccctcgacccgagccgcaaaagtgtgaaaaaaagccag
+yeeO_GER3_spade -----------------gaacaacctggcgtaaagcagaggagatat-------------
+yeeO_GER5_spade -----------------gaacaacctggcgtaaagcagaggagatat-------------
+yeeO_k12_spades -----------------gaacaacctggcgtaaagcagaggagatat-------------
+yeeO_SWE1_spade -----------------gaacaacctggcgtaaagcagaggagatat-------------
+                                 .**.* *** *  . .*** * ..*..*.*             
+
+yeeO_GER1_spade ttgtgtcggaataa
+yeeO_GER3_spade ----------tcaa
+yeeO_GER5_spade ----------tcaa
+yeeO_k12_spades ----------tcaa
+yeeO_SWE1_spade ----------tcaa
+                           .**

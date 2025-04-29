@@ -1,0 +1,350 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.526)
+
+
+fruA_GER1_spade atgaaaacgctgctgattattgacgctaatctcggtcaggcacgcgcctatatggcgaag
+fruA_GER1_spade atgg--------------------------------------------------------
+fruA_GER3_spade atgaaaacgctgctgattattgacgctaatctcggtcaggcacgcgcctatatggcgaag
+fruA_GER3_spade atgg--------------------------------------------------------
+fruA_GER5_spade atgaaaacgctgctgattattgacgctaatctcggtcaggcacgcgcctatatggcgaag
+fruA_GER5_spade atgg--------------------------------------------------------
+fruA_k12_spades atgaaaacgctgctgattattgacgctaatctcggtcaggcacgcgcctatatggcgaag
+fruA_k12_spades atgg--------------------------------------------------------
+fruA_SWE1_spade atgaaaacgctgctgattattgacgctaatctcggtcaggcacgcgcctatatggcgaag
+fruA_SWE1_spade atgg--------------------------------------------------------
+                ***.                                                        
+
+fruA_GER1_spade accctgctgggcgcggcggcgcgaaaagcaaaactggaaatcatcgacaatccgaacgac
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade accctgctgggcgcggcggcgcgaaaagcaaaactggaaatcatcgacaatccgaacgac
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade accctgctgggcgcggcggcgcgaaaagcaaaactggaaatcatcgacaatccgaacgac
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades accctgctgggcgcggcggcgcgaaaagcaaaactggaaatcatcgacaatccgaacgac
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade accctgctgggcgcggcggcgcgaaaagcaaaactggaaatcatcgacaatccgaacgac
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade gctgaaatggcgattgttctcggtgattccatcccgaacgacagcgcgctgaacggtaaa
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade gctgaaatggcgattgttctcggtgattccatcccgaacgacagcgcgctgaacggtaaa
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade gctgaaatggcgattgttctcggtgattccatcccgaacgacagcgcgctgaacggtaaa
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades gctgaaatggcgattgttctcggtgattccatcccgaacgacagcgcgctgaacggtaaa
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade gctgaaatggcgattgttctcggtgattccatcccgaacgacagcgcgctgaacggtaaa
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade aatgtctggctgggcgatatttcccgggcagttgcgcaccctgagctgttcctgagtgaa
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade aatgtctggctgggcgatatttcccgggcagttgcgcaccctgagctgttcctgagtgaa
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade aatgtctggctgggcgatatttcccgggcagttgcgcaccctgagctgttcctgagtgaa
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades aatgtctggctgggcgatatttcccgggcagttgcgcaccctgagctgttcctgagtgaa
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade aatgtctggctgggcgatatttcccgggcagttgcgcaccctgagctgttcctgagtgaa
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade gccaaaggccatgcgaaaccttacactgcgccggtcgctgcgacagcaccagttgccgcc
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade gccaaaggccatgcgaaaccttacactgcgccggtcgctgcgacagcaccagttgccgcc
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade gccaaaggccatgcgaaaccttacactgcgccggtcgctgcgacagcaccagttgccgcc
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades gccaaaggccatgcgaaaccttacactgcgccggtcgctgcgacagcaccagttgccgcc
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade gccaaaggccatgcgaaaccttacactgcgccggtcgctgcgacagcaccagttgccgcc
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade agcggtccgaaacgcgtagttgcggtgactgcttgcccgactggcgtagcacacaccttt
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade agcggtccgaaacgcgtagttgcggtgactgcttgcccgactggcgtagcacacaccttt
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade agcggtccgaaacgcgtagttgcggtgactgcttgcccgactggcgtagcacacaccttt
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades agcggtccgaaacgcgtagttgcggtgactgcttgcccgactggcgtagcacacaccttt
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade agcggtccgaaacgcgtagttgcggtgactgcttgcccgactggcgtagcacacaccttt
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade atggcggctgaagccattgaaaccgaagcgaaaaaacgtggctggtgggtgaaagttgaa
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade atggcggctgaagccattgaaaccgaagcgaaaaaacgtggctggtgggtgaaagttgaa
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade atggcggctgaagccattgaaaccgaagcgaaaaaacgtggctggtgggtgaaagttgaa
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades atggcggctgaagccattgaaaccgaagcgaaaaaacgtggctggtgggtgaaagttgaa
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade atggcggctgaagccattgaaaccgaagcgaaaaaacgtggctggtgggtgaaagttgaa
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade acccgtggttctgttggcgcgggtaatgcaatcactcccgaagaagtcgcagcagcggat
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade acccgtggttctgttggcgcgggtaatgcaatcactcccgaagaagtcgcagcagcggat
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade acccgtggttctgttggcgcgggtaatgcaatcactcccgaagaagtcgcagcagcggat
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades acccgtggttctgttggcgcgggtaatgcaatcactcccgaagaagtcgcagcagcggat
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade acccgtggttctgttggcgcgggtaatgcaatcactcccgaagaagtcgcagcagcggat
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade ctggtgattgtggcggcagatatcgaagtggatctggcgaaatttgctggtaaaccgatg
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade ctggtgattgtggcggcagatatcgaagtggatctggcgaaatttgctggtaaaccgatg
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade ctggtgattgtggcggcagatatcgaagtggatctggcgaaatttgctggtaaaccgatg
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades ctggtgattgtggcggcagatatcgaagtggatctggcgaaatttgctggtaaaccgatg
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade ctggtgattgtggcggcagatatcgaagtggatctggcgaaatttgctggtaaaccgatg
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade tatcgtacctctaccggtctggcgctgaagaaaaccgcgcaggaactggataaagcggtt
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade tatcgtacctctaccggtctggcgctgaagaaaaccgcgcaggaactggataaagcggtt
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade tatcgtacctctaccggtctggcgctgaagaaaaccgcgcaggaactggataaagcggtt
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades tatcgtacctctaccggtctggcgctgaagaaaaccgcgcaggaactggataaagcggtt
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade tatcgtacctctaccggtctggcgctgaagaaaaccgcgcaggaactggataaagcggtt
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade gctgaagcaacgccgtatgaaccggcgggcaaagctcaaacggcgaccactgaaagtaag
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade gctgaagcaacgccgtatgaaccggcgggcaaagctcaaacggcgaccactgaaagtaag
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade gctgaagcaacgccgtatgaaccggcgggcaaagctcaaacggcgaccactgaaagtaag
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades gctgaagcaacgccgtatgaaccggcgggcaaagctcaaacggcgaccactgaaagtaag
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade gctgaagcaacgccgtatgaaccggcgggcaaagctcaaacggcgaccactgaaagtaag
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade aaagagagtgcaggcgcataccgtcacttgctgacgggcgtttcttacatgctgccgatg
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade aaagagagtgcaggcgcataccgtcacttgctgacgggcgtttcttacatgctgccgatg
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade aaagagagtgcaggcgcataccgtcacttgctgacgggcgtttcttacatgctgccgatg
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades aaagagagtgcaggcgcataccgtcacttgctgacgggcgtttcttacatgctgccgatg
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade aaagagagtgcaggcgcataccgtcacttgctgacgggcgtttcttacatgctgccgatg
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade gtcgttgcaggtggtctgtgtatcgcgctttcttttgcttttggtatcgaagcgtttaaa
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade gtcgttgcaggtggtctgtgtatcgcgctttcttttgcttttggtatcgaagcgtttaaa
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade gtcgttgcaggtggtctgtgtatcgcgctttcttttgcttttggtatcgaagcgtttaaa
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades gtcgttgcaggtggtctgtgtatcgcgctttcttttgcttttggtatcgaagcgtttaaa
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade gtcgttgcaggtggtctgtgtatcgcgctttcttttgcttttggtatcgaagcgtttaaa
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade gagccgggtacgttggctgcggcgctgatgcagattggtggtggttcagcctttgcgctg
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade gagccgggtacgttggctgcggcgctgatgcagattggtggtggttcagcctttgcgctg
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade gagccgggtacgttggctgcggcgctgatgcagattggtggtggttcagcctttgcgctg
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades gagccgggtacgttggctgcggcgctgatgcagattggtggtggttcagcctttgcgctg
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade gagccgggtacgttggctgcggcgctgatgcagattggtggtggttcagcctttgcgctg
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade atggtgccggtactggcaggttatattgccttttccattgccgatcgtccgggcctcact
+fruA_GER1_spade -------------------------------------------------cagctcttact
+fruA_GER3_spade atggtgccggtactggcaggttatattgccttttccattgccgatcgtccgggcctcact
+fruA_GER3_spade -------------------------------------------------cagctcttact
+fruA_GER5_spade atggtgccggtactggcaggttatattgccttttccattgccgatcgtccgggcctcact
+fruA_GER5_spade -------------------------------------------------cagctcttact
+fruA_k12_spades atggtgccggtactggcaggttatattgccttttccattgccgatcgtccgggcctcact
+fruA_k12_spades -------------------------------------------------cagctcttact
+fruA_SWE1_spade atggtgccggtactggcaggttatattgccttttccattgccgatcgtccgggcctcact
+fruA_SWE1_spade -------------------------------------------------cagctcttact
+                                                                 *.* .**.***
+
+fruA_GER1_spade ccgggtctgattggc---ggtatgctggcggtcagcaccggttctggcttcattggtggt
+fruA_GER1_spade gcaagctgtattgacctgaatattcagggcaatggcgcttattccgttctgaagcagttg
+fruA_GER3_spade ccgggtctgattggc---ggtatgctggcggtcagcaccggttctggcttcattggtggt
+fruA_GER3_spade gcaagctgtattgacctgaatattcagggcaatggcgcttattccgttctgaagcagttg
+fruA_GER5_spade ccgggtctgattggc---ggtatgctggcggtcagcaccggttctggcttcattggtggt
+fruA_GER5_spade gcaagctgtattgacctgaatattcagggcaatggcgcttattccgttctgaagcagttg
+fruA_k12_spades ccgggtctgattggc---ggtatgctggcggtcagcaccggttctggcttcattggtggt
+fruA_k12_spades gcaagctgtattgacctgaatattcagggcaatggcgcttattccgttctgaagcagttg
+fruA_SWE1_spade ccgggtctgattggc---ggtatgctggcggtcagcaccggttctggcttcattggtggt
+fruA_SWE1_spade gcaagctgtattgacctgaatattcagggcaatggcgcttattccgttctgaagcagttg
+                 *..*..  ****.*   ..*** * **  . ..**.*. .***.* ..* *   .    
+
+fruA_GER1_spade attattgcgggcttcctggctggttacattgcgaagttaatcagtacgcaattgaaactg
+fruA_GER1_spade gcgacaatagcgttacaaaacggttttatcaccgactcacaccagttcctgcaaaccctg
+fruA_GER3_spade attattgcgggcttcctggctggttacattgcgaagttaatcagtacgcaattgaaactg
+fruA_GER3_spade gcgacaatagcgttacaaaacggttttatcaccgactcacaccagttcctgcaaaccctg
+fruA_GER5_spade attattgcgggcttcctggctggttacattgcgaagttaatcagtacgcaattgaaactg
+fruA_GER5_spade gcgacaatagcgttacaaaacggttttatcaccgactcacaccagttcctgcaaaccctg
+fruA_k12_spades attattgcgggcttcctggctggttacattgcgaagttaatcagtacgcaattgaaactg
+fruA_k12_spades gcgacaatagcgttacaaaacggttttatcaccgactcacaccagttcctgcaaaccctg
+fruA_SWE1_spade attattgcgggcttcctggctggttacattgcgaagttaatcagtacgcaattgaaactg
+fruA_SWE1_spade gcgacaatagcgttacaaaacggttttatcaccgactcacaccagttcctgcaaaccctg
+                .. *. ...*  ** * .. .**** .**..* .* *.*  * .  . * .. .*  ***
+
+fruA_GER1_spade ccacagagtatggaggcgc-tgaaaccgatcctgatcattccgctaatttccagtctggt
+fruA_GER1_spade ctgctgcgcgaaaaaatgcactctactggatttggttccggtgtcgccgtgccgcacggt
+fruA_GER3_spade ccacagagtatggaggcgc-tgaaaccgatcctgatcattccgctaatttccagtctggt
+fruA_GER3_spade ctgctgcgcgaaaaaatgcactctactggatttggttccggtgtcgccgtgccgcacggt
+fruA_GER5_spade ccacagagtatggaggcgc-tgaaaccgatcctgatcattccgctaatttccagtctggt
+fruA_GER5_spade ctgctgcgcgaaaaaatgcactctactggatttggttccggtgtcgccgtgccgcacggt
+fruA_k12_spades ccacagagtatggaggcgc-tgaaaccgatcctgatcattccgctaatttccagtctggt
+fruA_k12_spades ctgctgcgcgaaaaaatgcactctactggatttggttccggtgtcgccgtgccgcacggt
+fruA_SWE1_spade ccacagagtatggaggcgc-tgaaaccgatcctgatcattccgctaatttccagtctggt
+fruA_SWE1_spade ctgctgcgcgaaaaaatgcactctactggatttggttccggtgtcgccgtgccgcacggt
+                *..* * *.. ..*...** .   **.*. ..**.*. .  .*... . * * *. .***
+
+fruA_GER1_spade ggtcggtctggcgatgatctacctgatcggtaaaccagttgctggcattctcgaagggct
+fruA_GER1_spade aaaagcgcctgcgttaaacaaccgttcgtattattcgcccgcaaa---gcgcaggctatt
+fruA_GER3_spade ggtcggtctggcgatgatctacctgatcggtaaaccagttgctggcattctcgaagggct
+fruA_GER3_spade aaaagcgcctgcgttaaacaaccgttcgtattattcgcccgcaaa---gcgcaggctatt
+fruA_GER5_spade ggtcggtctggcgatgatctacctgatcggtaaaccagttgctggcattctcgaagggct
+fruA_GER5_spade aaaagcgcctgcgttaaacaaccgttcgtattattcgcccgcaaa---gcgcaggctatt
+fruA_k12_spades ggtcggtctggcgatgatctacctgatcggtaaaccagttgctggcattctcgaagggct
+fruA_k12_spades aaaagcgcctgcgttaaacaaccgttcgtattattcgcccgcaaa---gcgcaggctatt
+fruA_SWE1_spade ggtcggtctggcgatgatctacctgatcggtaaaccagttgctggcattctcgaagggct
+fruA_SWE1_spade aaaagcgcctgcgttaaacaaccgttcgtattattcgcccgcaaa---gcgcaggctatt
+                ..  *  *. *** *.* * ***   .  .* * .*. ..** ..    * *...  ..*
+
+fruA_GER1_spade gactcactggctgcagaccatggggactgcgaatgcggttctgctgggggcgatcctcgg
+fruA_GER1_spade gactggaaagccagcgatggcgaagacgtcaattgctggatctgcctcggcgtgccgcaa
+fruA_GER3_spade gactcactggctgcagaccatggggactgcgaatgcggttctgctgggggcgatcctcgg
+fruA_GER3_spade gactggaaagccagcgatggcgaagacgtcaattgctggatctgcctcggcgtgccgcaa
+fruA_GER5_spade gactcactggctgcagaccatggggactgcgaatgcggttctgctgggggcgatcctcgg
+fruA_GER5_spade gactggaaagccagcgatggcgaagacgtcaattgctggatctgcctcggcgtgccgcaa
+fruA_k12_spades gactcactggctgcagaccatggggactgcgaatgcggttctgctgggggcgatcctcgg
+fruA_k12_spades gactggaaagccagcgatggcgaagacgtcaattgctggatctgcctcggcgtgccgcaa
+fruA_SWE1_spade gactcactggctgcagaccatggggactgcgaatgcggttctgctgggggcgatcctcgg
+fruA_SWE1_spade gactggaaagccagcgatggcgaagacgtcaattgctggatctgcctcggcgtgccgcaa
+                **** .  .**..  **. ..*..***  *.* *** *  ..  .   ****  ** *..
+
+fruA_GER1_spade tggcatgatgtgtactgacatgggcggtccggtaaacaaagcagcgtacgcattcggtgt
+fruA_GER1_spade agcggcgaagaggatcaggtcaaaatcatcggcacactgtgtcgcaaaattattcacaag
+fruA_GER3_spade tggcatgatgtgtactgacatgggcggtccggtaaacaaagcagcgtacgcattcggtgt
+fruA_GER3_spade agcggcgaagaggatcaggtcaaaatcatcggcacactgtgtcgcaaaattattcacaag
+fruA_GER5_spade tggcatgatgtgtactgacatgggcggtccggtaaacaaagcagcgtacgcattcggtgt
+fruA_GER5_spade agcggcgaagaggatcaggtcaaaatcatcggcacactgtgtcgcaaaattattcacaag
+fruA_k12_spades tggcatgatgtgtactgacatgggcggtccggtaaacaaagcagcgtacgcattcggtgt
+fruA_k12_spades agcggcgaagaggatcaggtcaaaatcatcggcacactgtgtcgcaaaattattcacaag
+fruA_SWE1_spade tggcatgatgtgtactgacatgggcggtccggtaaacaaagcagcgtacgcattcggtgt
+fruA_SWE1_spade agcggcgaagaggatcaggtcaaaatcatcggcacactgtgtcgcaaaattattcacaag
+                 *  ..** * * *....  ....    .***.* ** . *. **. *  .****.  . 
+
+fruA_GER1_spade gggtctgctgagtactcaaacctatggcccgatggcggcgattatggcggcaggtatggt
+fruA_GER1_spade gaatttattcatcaactgcaac--------------------------------------
+fruA_GER3_spade gggtctgctgagtactcaaacctatggcccgatggcggcgattatggcggcaggtatggt
+fruA_GER3_spade gaatttattcatcaactgcaac--------------------------------------
+fruA_GER5_spade gggtctgctgagtactcaaacctatggcccgatggcggcgattatggcggcaggtatggt
+fruA_GER5_spade gaatttattcatcaactgcaac--------------------------------------
+fruA_k12_spades gggtctgctgagtactcaaacctatggcccgatggcggcgattatggcggcaggtatggt
+fruA_k12_spades gaatttattcatcaactgcaac--------------------------------------
+fruA_SWE1_spade gggtctgctgagtactcaaacctatggcccgatggcggcgattatggcggcaggtatggt
+fruA_SWE1_spade gaatttattcatcaactgcaac--------------------------------------
+                *..*.*..* * .* ... * *                                      
+
+fruA_GER1_spade gccaccgctggcaatgggtctggcaacaatggtggcgcgtcgcaaattcgacaaagcgca
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade gccaccgctggcaatgggtctggcaacaatggtggcgcgtcgcaaattcgacaaagcgca
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade gccaccgctggcaatgggtctggcaacaatggtggcgcgtcgcaaattcgacaaagcgca
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades gccaccgctggcaatgggtctggcaacaatggtggcgcgtcgcaaattcgacaaagcgca
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade gccaccgctggcaatgggtctggcaacaatggtggcgcgtcgcaaattcgacaaagcgca
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade gcaggaaggtggcaaagccgctctggtattgggactgtgcttcatttcggaaggtgcaat
+fruA_GER1_spade --------agggcgataccgaccaggtgct------------------------------
+fruA_GER3_spade gcaggaaggtggcaaagccgctctggtattgggactgtgcttcatttcggaaggtgcaat
+fruA_GER3_spade --------agggcgataccgaccaggtgct------------------------------
+fruA_GER5_spade gcaggaaggtggcaaagccgctctggtattgggactgtgcttcatttcggaaggtgcaat
+fruA_GER5_spade --------agggcgataccgaccaggtgct------------------------------
+fruA_k12_spades gcaggaaggtggcaaagccgctctggtattgggactgtgcttcatttcggaaggtgcaat
+fruA_k12_spades --------agggcgataccgaccaggtgct------------------------------
+fruA_SWE1_spade gcaggaaggtggcaaagccgctctggtattgggactgtgcttcatttcggaaggtgcaat
+fruA_SWE1_spade --------agggcgataccgaccaggtgct------------------------------
+                        . ***.* .*** .* ***..*                              
+
+fruA_GER1_spade tccgtttgctgctcgtgatccgatgcgtgtgctgccgtgctgtatcgtgggtggggcgct
+fruA_GER1_spade --------------------------------tgccttgttaaatca-------------
+fruA_GER3_spade tccgtttgctgctcgtgatccgatgcgtgtgctgccgtgctgtatcgtgggtggggcgct
+fruA_GER3_spade --------------------------------tgccttgttaaatca-------------
+fruA_GER5_spade tccgtttgctgctcgtgatccgatgcgtgtgctgccgtgctgtatcgtgggtggggcgct
+fruA_GER5_spade --------------------------------tgccttgttaaatca-------------
+fruA_k12_spades tccgtttgctgctcgtgatccgatgcgtgtgctgccgtgctgtatcgtgggtggggcgct
+fruA_k12_spades --------------------------------tgccttgttaaatca-------------
+fruA_SWE1_spade tccgtttgctgctcgtgatccgatgcgtgtgctgccgtgctgtatcgtgggtggggcgct
+fruA_SWE1_spade --------------------------------tgccttgttaaatca-------------
+                                                **** **.*. ***.             
+
+fruA_GER1_spade gactggcgcaatctcaatggcgattggtgcgaaactgatggcaccgcacggtggtctgtt
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade gactggcgcaatctcaatggcgattggtgcgaaactgatggcaccgcacggtggtctgtt
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade gactggcgcaatctcaatggcgattggtgcgaaactgatggcaccgcacggtggtctgtt
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades gactggcgcaatctcaatggcgattggtgcgaaactgatggcaccgcacggtggtctgtt
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade gactggcgcaatctcaatggcgattggtgcgaaactgatggcaccgcacggtggtctgtt
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade tgttctgctgatccctggcgctattacgccggtattgggttacctggtagcaattattgc
+fruA_GER1_spade ---------aaccctcagc-----------------------------------------
+fruA_GER3_spade tgttctgctgatccctggcgctattacgccggtattgggttacctggtagcaattattgc
+fruA_GER3_spade ---------aaccctcagc-----------------------------------------
+fruA_GER5_spade tgttctgctgatccctggcgctattacgccggtattgggttacctggtagcaattattgc
+fruA_GER5_spade ---------aaccctcagc-----------------------------------------
+fruA_k12_spades tgttctgctgatccctggcgctattacgccggtattgggttacctggtagcaattattgc
+fruA_k12_spades ---------aaccctcagc-----------------------------------------
+fruA_SWE1_spade tgttctgctgatccctggcgctattacgccggtattgggttacctggtagcaattattgc
+fruA_SWE1_spade ---------aaccctcagc-----------------------------------------
+                         .*.**...**                                         
+
+fruA_GER1_spade cggtacgctggtggcgggtttggcctatgccttcctgaaacgtccggaagtggacgcagt
+fruA_GER1_spade ------------------------------------------------------------
+fruA_GER3_spade cggtacgctggtggcgggtttggcctatgccttcctgaaacgtccggaagtggacgcagt
+fruA_GER3_spade ------------------------------------------------------------
+fruA_GER5_spade cggtacgctggtggcgggtttggcctatgccttcctgaaacgtccggaagtggacgcagt
+fruA_GER5_spade ------------------------------------------------------------
+fruA_k12_spades cggtacgctggtggcgggtttggcctatgccttcctgaaacgtccggaagtggacgcagt
+fruA_k12_spades ------------------------------------------------------------
+fruA_SWE1_spade cggtacgctggtggcgggtttggcctatgccttcctgaaacgtccggaagtggacgcagt
+fruA_SWE1_spade ------------------------------------------------------------
+                                                                            
+
+fruA_GER1_spade agcgaaagcagcgtaa
+fruA_GER1_spade ----------tcataa
+fruA_GER3_spade agcgaaagcagcgtaa
+fruA_GER3_spade ----------tcataa
+fruA_GER5_spade agcgaaagcagcgtaa
+fruA_GER5_spade ----------tcataa
+fruA_k12_spades agcgaaagcagcgtaa
+fruA_k12_spades ----------tcataa
+fruA_SWE1_spade agcgaaagcagcgtaa
+fruA_SWE1_spade ----------tcataa
+                           *.***

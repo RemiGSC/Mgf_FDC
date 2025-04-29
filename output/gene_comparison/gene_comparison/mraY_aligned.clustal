@@ -1,0 +1,135 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.526)
+
+
+mraY_GER1_spade atgttagtttggctggccgaacatttggtcaaatattattccggctttaacgtcttttcc
+mraY_GER3_spade atgttagtttggctggccgaacatttggtcaaatattattccggctttaacgtcttttcc
+mraY_GER5_spade atgttagtttggctggccgaacatttggtcaaatattattccggctttaacgtcttttcc
+mraY_k12_spades atgttagtttggctggccgaacatttggtcaaatattattccggctttaacgtcttttcc
+mraY_SWE1_spade atgttagtttggctggccgaacatttggtcaaatattattccggctttaacgtcttttcc
+                ************************************************************
+
+mraY_GER1_spade tatctgacgtttcgcgccatcgtcagcctgctgaccgcgctgttcatctcattgtggatg
+mraY_GER3_spade tatctgacgtttcgcgccatcgtcagcctgctgaccgcgctgttcatctcattgtggatg
+mraY_GER5_spade tatctgacgtttcgcgccatcgtcagcctgctgaccgcgctgttcatctcattgtggatg
+mraY_k12_spades tatctgacgtttcgcgccatcgtcagcctgctgaccgcgctgttcatctcattgtggatg
+mraY_SWE1_spade tatctgacgtttcgcgccatcgtcagcctgctgaccgcgctgttcatctcattgtggatg
+                ************************************************************
+
+mraY_GER1_spade ggcccgcgtatgattgctcatttgcaaaaactttcctttggtcaggtggtgcgtaacgac
+mraY_GER3_spade ggcccgcgtatgattgctcatttgcaaaaactttcctttggtcaggtggtgcgtaacgac
+mraY_GER5_spade ggcccgcgtatgattgctcatttgcaaaaactttcctttggtcaggtggtgcgtaacgac
+mraY_k12_spades ggcccgcgtatgattgctcatttgcaaaaactttcctttggtcaggtggtgcgtaacgac
+mraY_SWE1_spade ggcccgcgtatgattgctcatttgcaaaaactttcctttggtcaggtggtgcgtaacgac
+                ************************************************************
+
+mraY_GER1_spade ggtcctgaatcacacttcagcaagcgcggtacgccgaccatgggcgggattatgatcctg
+mraY_GER3_spade ggtcctgaatcacacttcagcaagcgcggtacgccgaccatgggcgggattatgatcctg
+mraY_GER5_spade ggtcctgaatcacacttcagcaagcgcggtacgccgaccatgggcgggattatgatcctg
+mraY_k12_spades ggtcctgaatcacacttcagcaagcgcggtacgccgaccatgggcgggattatgatcctg
+mraY_SWE1_spade ggtcctgaatcacacttcagcaagcgcggtacgccgaccatgggcgggattatgatcctg
+                ************************************************************
+
+mraY_GER1_spade acggcgattgtgatctccgtactgctgtgggcttacccgtccaatccgtacgtctggtgc
+mraY_GER3_spade acggcgattgtgatctccgtactgctgtgggcttacccgtccaatccgtacgtctggtgc
+mraY_GER5_spade acggcgattgtgatctccgtactgctgtgggcttacccgtccaatccgtacgtctggtgc
+mraY_k12_spades acggcgattgtgatctccgtactgctgtgggcttacccgtccaatccgtacgtctggtgc
+mraY_SWE1_spade acggcgattgtgatctccgtactgctgtgggcttacccgtccaatccgtacgtctggtgc
+                ************************************************************
+
+mraY_GER1_spade gtgttggtggtgctggtaggttacggtgttattggctttgttgatgattatcgcaaagtg
+mraY_GER3_spade gtgttggtggtgctggtaggttacggtgttattggctttgttgatgattatcgcaaagtg
+mraY_GER5_spade gtgttggtggtgctggtaggttacggtgttattggctttgttgatgattatcgcaaagtg
+mraY_k12_spades gtgttggtggtgctggtaggttacggtgttattggctttgttgatgattatcgcaaagtg
+mraY_SWE1_spade gtgttggtggtgctggtaggttacggtgttattggctttgttgatgattatcgcaaagtg
+                ************************************************************
+
+mraY_GER1_spade gtgcgtaaagacaccaaagggttgatcgctcgttggaagtatttctggatgtcggtcatt
+mraY_GER3_spade gtgcgtaaagacaccaaagggttgatcgctcgttggaagtatttctggatgtcggtcatt
+mraY_GER5_spade gtgcgtaaagacaccaaagggttgatcgctcgttggaagtatttctggatgtcggtcatt
+mraY_k12_spades gtgcgtaaagacaccaaagggttgatcgctcgttggaagtatttctggatgtcggtcatt
+mraY_SWE1_spade gtgcgtaaagacaccaaagggttgatcgctcgttggaagtatttctggatgtcggtcatt
+                ************************************************************
+
+mraY_GER1_spade gcgctgggtgtcgccttcgccctgtaccttgccggcaaagacacgcccgcaacgcagctg
+mraY_GER3_spade gcgctgggtgtcgccttcgccctgtaccttgccggcaaagacacgcccgcaacgcagctg
+mraY_GER5_spade gcgctgggtgtcgccttcgccctgtaccttgccggcaaagacacgcccgcaacgcagctg
+mraY_k12_spades gcgctgggtgtcgccttcgccctgtaccttgccggcaaagacacgcccgcaacgcagctg
+mraY_SWE1_spade gcgctgggtgtcgccttcgccctgtaccttgccggcaaagacacgcccgcaacgcagctg
+                ************************************************************
+
+mraY_GER1_spade gtggtcccattctttaaagatgtgatgccgcagctggggctgttctacattctgctggct
+mraY_GER3_spade gtggtcccattctttaaagatgtgatgccgcagctggggctgttctacattctgctggct
+mraY_GER5_spade gtggtcccattctttaaagatgtgatgccgcagctggggctgttctacattctgctggct
+mraY_k12_spades gtggtcccattctttaaagatgtgatgccgcagctggggctgttctacattctgctggct
+mraY_SWE1_spade gtggtcccattctttaaagatgtgatgccgcagctggggctgttctacattctgctggct
+                ************************************************************
+
+mraY_GER1_spade tacttcgtcattgtgggtactggcaacgcggtaaacctgaccgatggtctcgacggcctg
+mraY_GER3_spade tacttcgtcattgtgggtactggcaacgcggtaaacctgaccgatggtctcgacggcctg
+mraY_GER5_spade tacttcgtcattgtgggtactggcaacgcggtaaacctgaccgatggtctcgacggcctg
+mraY_k12_spades tacttcgtcattgtgggtactggcaacgcggtaaacctgaccgatggtctcgacggcctg
+mraY_SWE1_spade tacttcgtcattgtgggtactggcaacgcggtaaacctgaccgatggtctcgacggcctg
+                ************************************************************
+
+mraY_GER1_spade gcaattatgccgaccgtatttgtcgccggtggttttgcgctggtggcgtgggcgaccggc
+mraY_GER3_spade gcaattatgccgaccgtatttgtcgccggtggttttgcgctggtggcgtgggcgaccggc
+mraY_GER5_spade gcaattatgccgaccgtatttgtcgccggtggttttgcgctggtggcgtgggcgaccggc
+mraY_k12_spades gcaattatgccgaccgtatttgtcgccggtggttttgcgctggtggcgtgggcgaccggc
+mraY_SWE1_spade gcaattatgccgaccgtatttgtcgccggtggttttgcgctggtggcgtgggcgaccggc
+                ************************************************************
+
+mraY_GER1_spade aatatgaactttgccagctacttgcatataccgtatctgcgacacgccggggaactggtt
+mraY_GER3_spade aatatgaactttgccagctacttgcatataccgtatctgcgacacgccggggaactggtt
+mraY_GER5_spade aatatgaactttgccagctacttgcatataccgtatctgcgacacgccggggaactggtt
+mraY_k12_spades aatatgaactttgccagctacttgcatataccgtatctgcgacacgccggggaactggtt
+mraY_SWE1_spade aatatgaactttgccagctacttgcatataccgtatctgcgacacgccggggaactggtt
+                ************************************************************
+
+mraY_GER1_spade attgtctgtaccgcgatagtcggggcaggactgggcttcctgtggtttaacacctatccg
+mraY_GER3_spade attgtctgtaccgcgatagtcggggcaggactgggcttcctgtggtttaacacctatccg
+mraY_GER5_spade attgtctgtaccgcgatagtcggggcaggactgggcttcctgtggtttaacacctatccg
+mraY_k12_spades attgtctgtaccgcgatagtcggggcaggactgggcttcctgtggtttaacacctatccg
+mraY_SWE1_spade attgtctgtaccgcgatagtcggggcaggactgggcttcctgtggtttaacacctatccg
+                ************************************************************
+
+mraY_GER1_spade gcgcaggtctttatgggcgatgtaggttcgctggcgttaggtggtgcgttaggcattatc
+mraY_GER3_spade gcgcaggtctttatgggcgatgtaggttcgctggcgttaggtggtgcgttaggcattatc
+mraY_GER5_spade gcgcaggtctttatgggcgatgtaggttcgctggcgttaggtggtgcgttaggcattatc
+mraY_k12_spades gcgcaggtctttatgggcgatgtaggttcgctggcgttaggtggtgcgttaggcattatc
+mraY_SWE1_spade gcgcaggtctttatgggcgatgtaggttcgctggcgttaggtggtgcgttaggcattatc
+                ************************************************************
+
+mraY_GER1_spade gccgtactgctacgtcaggaattcctgctggtgattatggggggcgtgttcgtggtagaa
+mraY_GER3_spade gccgtactgctacgtcaggaattcctgctggtgattatggggggcgtgttcgtggtagaa
+mraY_GER5_spade gccgtactgctacgtcaggaattcctgctggtgattatggggggcgtgttcgtggtagaa
+mraY_k12_spades gccgtactgctacgtcaggaattcctgctggtgattatggggggcgtgttcgtggtagaa
+mraY_SWE1_spade gccgtactgctacgtcaggaattcctgctggtgattatggggggcgtgttcgtggtagaa
+                ************************************************************
+
+mraY_GER1_spade acgctttctgtcatcctgcaggtcggctcctttaaactgcgcggacaacgtattttccgc
+mraY_GER3_spade acgctttctgtcatcctgcaggtcggctcctttaaactgcgcggacaacgtattttccgc
+mraY_GER5_spade acgctttctgtcatcctgcaggtcggctcctttaaactgcgcggacaacgtattttccgc
+mraY_k12_spades acgctttctgtcatcctgcaggtcggctcctttaaactgcgcggacaacgtattttccgc
+mraY_SWE1_spade acgctttctgtcatcctgcaggtcggctcctttaaactgcgcggacaacgtattttccgc
+                ************************************************************
+
+mraY_GER1_spade atggcaccgattcatcaccactatgaactgaaaggctggccggaaccgcgcgtcattgtg
+mraY_GER3_spade atggcaccgattcatcaccactatgaactgaaaggctggccggaaccgcgcgtcattgtg
+mraY_GER5_spade atggcaccgattcatcaccactatgaactgaaaggctggccggaaccgcgcgtcattgtg
+mraY_k12_spades atggcaccgattcatcaccactatgaactgaaaggctggccggaaccgcgcgtcattgtg
+mraY_SWE1_spade atggcaccgattcatcaccactatgaactgaaaggctggccggaaccgcgcgtcattgtg
+                ************************************************************
+
+mraY_GER1_spade cgtttctggattatttcgctgatgctggttctgattggtctggcaacgctgaaggtacgt
+mraY_GER3_spade cgtttctggattatttcgctgatgctggttctgattggtctggcaacgctgaaggtacgt
+mraY_GER5_spade cgtttctggattatttcgctgatgctggttctgattggtctggcaacgctgaaggtacgt
+mraY_k12_spades cgtttctggattatttcgctgatgctggttctgattggtctggcaacgctgaaggtacgt
+mraY_SWE1_spade cgtttctggattatttcgctgatgctggttctgattggtctggcaacgctgaaggtacgt
+                ************************************************************
+
+mraY_GER1_spade taa
+mraY_GER3_spade taa
+mraY_GER5_spade taa
+mraY_k12_spades taa
+mraY_SWE1_spade taa
+                ***

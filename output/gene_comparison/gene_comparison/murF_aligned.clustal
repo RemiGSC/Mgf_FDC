@@ -1,0 +1,163 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.526)
+
+
+murF_GER1_spade atgattagcgtaacccttagccaacttaccgacattctcaacggtgaactgcaaggtgca
+murF_GER3_spade atgattagcgtaacccttagccaacttaccgacattctcaacggtgaactgcaaggtgca
+murF_GER5_spade atgattagcgtaacccttagccaacttaccgacattctcaacggtgaactgcaaggtgca
+murF_k12_spades atgattagcgtaacccttagccaacttaccgacattctcaacggtgaactgcaaggtgca
+murF_SWE1_spade atgattagcgtaacccttagccaacttaccgacattctcaacggtgaactgcaaggtgca
+                ************************************************************
+
+murF_GER1_spade gatatcacccttgatgctgtaaccactgatacccgaaaactgacgccgggctgcctgttt
+murF_GER3_spade gatatcacccttgatgctgtaaccactgatacccgaaaactgacgccgggctgcctgttt
+murF_GER5_spade gatatcacccttgatgctgtaaccactgatacccgaaaactgacgccgggctgcctgttt
+murF_k12_spades gatatcacccttgatgctgtaaccactgatacccgaaaactgacgccgggctgcctgttt
+murF_SWE1_spade gatatcacccttgatgctgtaaccactgatacccgaaaactgacgccgggctgcctgttt
+                ************************************************************
+
+murF_GER1_spade gttgccctgaaaggcgaacgttttgatgcccacgattttgccgaccaggcgaaagctggc
+murF_GER3_spade gttgccctgaaaggcgaacgttttgatgcccacgattttgccgaccaggcgaaagctggc
+murF_GER5_spade gttgccctgaaaggcgaacgttttgatgcccacgattttgccgaccaggcgaaagctggc
+murF_k12_spades gttgccctgaaaggcgaacgttttgatgcccacgattttgccgaccaggcgaaagctggc
+murF_SWE1_spade gttgccctgaaaggcgaacgttttgatgcccacgattttgccgaccaggcgaaagctggc
+                ************************************************************
+
+murF_GER1_spade ggcgcaggcgcactactggttagccgtccgctggacatcgacctgccgcagttaatcgtc
+murF_GER3_spade ggcgcaggcgcactactggttagccgtccgctggacatcgacctgccgcagttaatcgtc
+murF_GER5_spade ggcgcaggcgcactactggttagccgtccgctggacatcgacctgccgcagttaatcgtc
+murF_k12_spades ggcgcaggcgcactactggttagccgtccgctggacatcgacctgccgcagttaatcgtc
+murF_SWE1_spade ggcgcaggcgcactactggttagccgtccgctggacatcgacctgccgcagttaatcgtc
+                ************************************************************
+
+murF_GER1_spade aaggatacgcgtctggcgtttggtgaactggctgcatgggttcgccagcaagttccggcg
+murF_GER3_spade aaggatacgcgtctggcgtttggtgaactggctgcatgggttcgccagcaagttccggcg
+murF_GER5_spade aaggatacgcgtctggcgtttggtgaactggctgcatgggttcgccagcaagttccggcg
+murF_k12_spades aaggatacgcgtctggcgtttggtgaactggctgcatgggttcgccagcaagttccggcg
+murF_SWE1_spade aaggatacgcgtctggcgtttggtgaactggctgcatgggttcgccagcaagttccggcg
+                ************************************************************
+
+murF_GER1_spade cgcgtggttgctctgacggggtcctccggcaaaacctccgttaaagagatgacggcggcg
+murF_GER3_spade cgcgtggttgctctgacggggtcctccggcaaaacctccgttaaagagatgacggcggcg
+murF_GER5_spade cgcgtggttgctctgacggggtcctccggcaaaacctccgttaaagagatgacggcggcg
+murF_k12_spades cgcgtggttgctctgacggggtcctccggcaaaacctccgttaaagagatgacggcggcg
+murF_SWE1_spade cgcgtggttgctctgacggggtcctccggcaaaacctccgttaaagagatgacggcggcg
+                ************************************************************
+
+murF_GER1_spade attttaagccagtgcggcaacacgctttatacggcaggcaatctcaacaacgacatcggt
+murF_GER3_spade attttaagccagtgcggcaacacgctttatacggcaggcaatctcaacaacgacatcggt
+murF_GER5_spade attttaagccagtgcggcaacacgctttatacggcaggcaatctcaacaacgacatcggt
+murF_k12_spades attttaagccagtgcggcaacacgctttatacggcaggcaatctcaacaacgacatcggt
+murF_SWE1_spade attttaagccagtgcggcaacacgctttatacggcaggcaatctcaacaacgacatcggt
+                ************************************************************
+
+murF_GER1_spade gtaccgatgacgctgttgcgcttaacgccggaatacgattacgcagttattgaacttggc
+murF_GER3_spade gtaccgatgacgctgttgcgcttaacgccggaatacgattacgcagttattgaacttggc
+murF_GER5_spade gtaccgatgacgctgttgcgcttaacgccggaatacgattacgcagttattgaacttggc
+murF_k12_spades gtaccgatgacgctgttgcgcttaacgccggaatacgattacgcagttattgaacttggc
+murF_SWE1_spade gtaccgatgacgctgttgcgcttaacgccggaatacgattacgcagttattgaacttggc
+                ************************************************************
+
+murF_GER1_spade gcgaaccatcagggcgaaatagcctggactgtgagtctgactcgcccggaagctgcgctg
+murF_GER3_spade gcgaaccatcagggcgaaatagcctggactgtgagtctgactcgcccggaagctgcgctg
+murF_GER5_spade gcgaaccatcagggcgaaatagcctggactgtgagtctgactcgcccggaagctgcgctg
+murF_k12_spades gcgaaccatcagggcgaaatagcctggactgtgagtctgactcgcccggaagctgcgctg
+murF_SWE1_spade gcgaaccatcagggcgaaatagcctggactgtgagtctgactcgcccggaagctgcgctg
+                ************************************************************
+
+murF_GER1_spade gtcaacaacctggcagcggcgcatctggaaggttttggctcgcttgcgggtgtcgcgaaa
+murF_GER3_spade gtcaacaacctggcagcggcgcatctggaaggttttggctcgcttgcgggtgtcgcgaaa
+murF_GER5_spade gtcaacaacctggcagcggcgcatctggaaggttttggctcgcttgcgggtgtcgcgaaa
+murF_k12_spades gtcaacaacctggcagcggcgcatctggaaggttttggctcgcttgcgggtgtcgcgaaa
+murF_SWE1_spade gtcaacaacctggcagcggcgcatctggaaggttttggctcgcttgcgggtgtcgcgaaa
+                ************************************************************
+
+murF_GER1_spade gcgaaaggtgaaatctttagcggcctgccggaaaacggtatcgccattatgaacgccgac
+murF_GER3_spade gcgaaaggtgaaatctttagcggcctgccggaaaacggtatcgccattatgaacgccgac
+murF_GER5_spade gcgaaaggtgaaatctttagcggcctgccggaaaacggtatcgccattatgaacgccgac
+murF_k12_spades gcgaaaggtgaaatctttagcggcctgccggaaaacggtatcgccattatgaacgccgac
+murF_SWE1_spade gcgaaaggtgaaatctttagcggcctgccggaaaacggtatcgccattatgaacgccgac
+                ************************************************************
+
+murF_GER1_spade aacaacgactggctgaactggcagagcgtaattggctcacgcaaagtgtggcgtttctca
+murF_GER3_spade aacaacgactggctgaactggcagagcgtaattggctcacgcaaagtgtggcgtttctca
+murF_GER5_spade aacaacgactggctgaactggcagagcgtaattggctcacgcaaagtgtggcgtttctca
+murF_k12_spades aacaacgactggctgaactggcagagcgtaattggctcacgcaaagtgtggcgtttctca
+murF_SWE1_spade aacaacgactggctgaactggcagagcgtaattggctcacgcaaagtgtggcgtttctca
+                ************************************************************
+
+murF_GER1_spade cccaatgccgccaacagcgatttcaccgccaccaatatccatgtgacctcgcacggtacg
+murF_GER3_spade cccaatgccgccaacagcgatttcaccgccaccaatatccatgtgacctcgcacggtacg
+murF_GER5_spade cccaatgccgccaacagcgatttcaccgccaccaatatccatgtgacctcgcacggtacg
+murF_k12_spades cccaatgccgccaacagcgatttcaccgccaccaatatccatgtgacctcgcacggtacg
+murF_SWE1_spade cccaatgccgccaacagcgatttcaccgccaccaatatccatgtgacctcgcacggtacg
+                ************************************************************
+
+murF_GER1_spade gaatttaccctacaaaccccaaccggtagcgtcgatgttctgctgccgttgccggggcgt
+murF_GER3_spade gaatttaccctacaaaccccaaccggtagcgtcgatgttctgctgccgttgccggggcgt
+murF_GER5_spade gaatttaccctacaaaccccaaccggtagcgtcgatgttctgctgccgttgccggggcgt
+murF_k12_spades gaatttaccctacaaaccccaaccggtagcgtcgatgttctgctgccgttgccggggcgt
+murF_SWE1_spade gaatttaccctacaaaccccaaccggtagcgtcgatgttctgctgccgttgccggggcgt
+                ************************************************************
+
+murF_GER1_spade cacaatattgcgaatgcgctggcagccgctgcgctctccatgtccgtgggcgcaacgctt
+murF_GER3_spade cacaatattgcgaatgcgctggcagccgctgcgctctccatgtccgtgggcgcaacgctt
+murF_GER5_spade cacaatattgcgaatgcgctggcagccgctgcgctctccatgtccgtgggcgcaacgctt
+murF_k12_spades cacaatattgcgaatgcgctggcagccgctgcgctctccatgtccgtgggcgcaacgctt
+murF_SWE1_spade cacaatattgcgaatgcgctggcagccgctgcgctctccatgtccgtgggcgcaacgctt
+                ************************************************************
+
+murF_GER1_spade gatgctatcaaagcggggctggcaaatctgaaagctgttccaggccgtctgttccccatc
+murF_GER3_spade gatgctatcaaagcggggctggcaaatctgaaagctgttccaggccgtctgttccccatc
+murF_GER5_spade gatgctatcaaagcggggctggcaaatctgaaagctgttccaggccgtctgttccccatc
+murF_k12_spades gatgctatcaaagcggggctggcaaatctgaaagctgttccaggccgtctgttccccatc
+murF_SWE1_spade gatgctatcaaagcggggctggcaaatctgaaagctgttccaggccgtctgttccccatc
+                ************************************************************
+
+murF_GER1_spade caactggcagaaaaccagttgctgctcgacgactcctacaacgccaatgtcggttcaatg
+murF_GER3_spade caactggcagaaaaccagttgctgctcgacgactcctacaacgccaatgtcggttcaatg
+murF_GER5_spade caactggcagaaaaccagttgctgctcgacgactcctacaacgccaatgtcggttcaatg
+murF_k12_spades caactggcagaaaaccagttgctgctcgacgactcctacaacgccaatgtcggttcaatg
+murF_SWE1_spade caactggcagaaaaccagttgctgctcgacgactcctacaacgccaatgtcggttcaatg
+                ************************************************************
+
+murF_GER1_spade actgcagcagtccaggtactggctgaaatgccgggctaccgcgtgctggtggtgggcgat
+murF_GER3_spade actgcagcagtccaggtactggctgaaatgccgggctaccgcgtgctggtggtgggcgat
+murF_GER5_spade actgcagcagtccaggtactggctgaaatgccgggctaccgcgtgctggtggtgggcgat
+murF_k12_spades actgcagcagtccaggtactggctgaaatgccgggctaccgcgtgctggtggtgggcgat
+murF_SWE1_spade actgcagcagtccaggtactggctgaaatgccgggctaccgcgtgctggtggtgggcgat
+                ************************************************************
+
+murF_GER1_spade atggcggaactgggcgctgaaagcgaagcctgccatgtacaggtgggcgaggcggcaaaa
+murF_GER3_spade atggcggaactgggcgctgaaagcgaagcctgccatgtacaggtgggcgaggcggcaaaa
+murF_GER5_spade atggcggaactgggcgctgaaagcgaagcctgccatgtacaggtgggcgaggcggcaaaa
+murF_k12_spades atggcggaactgggcgctgaaagcgaagcctgccatgtacaggtgggcgaggcggcaaaa
+murF_SWE1_spade atggcggaactgggcgctgaaagcgaagcctgccatgtacaggtgggcgaggcggcaaaa
+                ************************************************************
+
+murF_GER1_spade gctgctggtattgaccgcgtgttaagcgtgggtaaacaaagccatgctatcagcaccgcc
+murF_GER3_spade gctgctggtattgaccgcgtgttaagcgtgggtaaacaaagccatgctatcagcaccgcc
+murF_GER5_spade gctgctggtattgaccgcgtgttaagcgtgggtaaacaaagccatgctatcagcaccgcc
+murF_k12_spades gctgctggtattgaccgcgtgttaagcgtgggtaaacaaagccatgctatcagcaccgcc
+murF_SWE1_spade gctgctggtattgaccgcgtgttaagcgtgggtaaacaaagccatgctatcagcaccgcc
+                ************************************************************
+
+murF_GER1_spade agcggcgttggcgaacattttgctgataaaactgcgttaattacgcgtcttaaattactg
+murF_GER3_spade agcggcgttggcgaacattttgctgataaaactgcgttaattacgcgtcttaaattactg
+murF_GER5_spade agcggcgttggcgaacattttgctgataaaactgcgttaattacgcgtcttaaattactg
+murF_k12_spades agcggcgttggcgaacattttgctgataaaactgcgttaattacgcgtcttaaattactg
+murF_SWE1_spade agcggcgttggcgaacattttgctgataaaactgcgttaattacgcgtcttaaattactg
+                ************************************************************
+
+murF_GER1_spade attgctgagcaacaggtaattacgattttagttaagggttcacgtagtgccgccatggaa
+murF_GER3_spade attgctgagcaacaggtaattacgattttagttaagggttcacgtagtgccgccatggaa
+murF_GER5_spade attgctgagcaacaggtaattacgattttagttaagggttcacgtagtgccgccatggaa
+murF_k12_spades attgctgagcaacaggtaattacgattttagttaagggttcacgtagtgccgccatggaa
+murF_SWE1_spade attgctgagcaacaggtaattacgattttagttaagggttcacgtagtgccgccatggaa
+                ************************************************************
+
+murF_GER1_spade gaggtagtacgcgctttacaggagaatgggacatgttag
+murF_GER3_spade gaggtagtacgcgctttacaggagaatgggacatgttag
+murF_GER5_spade gaggtagtacgcgctttacaggagaatgggacatgttag
+murF_k12_spades gaggtagtacgcgctttacaggagaatgggacatgttag
+murF_SWE1_spade gaggtagtacgcgctttacaggagaatgggacatgttag
+                ***************************************
