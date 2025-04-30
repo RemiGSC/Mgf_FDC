@@ -6,7 +6,7 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 - Microbial composition diversity of each sample.
 	- Taxonomic profiling of each metagenome was performed using mOTU v3.1.
 	- Output file is: data/Metagenomic_seq_motusv3.0.tsv. It was used as input file for the rest of the analysis.
-	- Bray Curtis disimilarity analysis was run and pcoa was made using the R script: script/script_pcoa.txt
+	- Bray Curtis disimilarity analysis was run and pcoa was made using the R script: script/script_pcoa.txt; (software versions can be found in script/session_info_pcoa.txt).
 	- Figure was then modified using Inkscape to include legends of functional metagenomic analysis.
 - Metagenomic reads were used for contig assembly using ngless .
 	- ngless contigs can be found in output/ngless_contigs/
@@ -60,8 +60,8 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 - Abundance analysis of ARGs identified using functional metagenomics in metagenomic sequencing of each sample. 
 	- Abundance was studied by mapping metagenomic sequencing reads to ARGs identified by functional metagenomics using bowtie2 in end-to-end mode with --sensitive mapping. 
 	- Output file for relative abundance of each gene in métagénomes is: data/relativeab_ARGs_metagenomic_seq.csv. It was used as input file for the rest of the analysis. 
-	- Barplot were realised using the following script:  script/script_barplot/
-	- Maps were obtained using the following script: script/script_map.txt
+	- Barplot were realised using the following script:  script/script_barplot.txt; (software versions can be found in script/session_info_barplot.txt).
+	- Maps were obtained using the following script: script/script_map.txt; (software versions can be found in script/session_info_map.txt).
 	- Figure was then arranged using inkscape
 - GMGC distribution
 	- Each protein encoded by FDC ARGs identified using functional metagenomics was analyzed on GMGC webserver (https://gmgc.embl.de/index.cgi). 
@@ -99,7 +99,7 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 	- Protein file /data/mgf_protein_FDCr.fasta was used on AlphaFold 3 webserver for protein folding predictions.
 		- Resulting .cif files are found in output/alphafold/
 	- Each protein was aligned to every other protein using Pymol (v3.1.4) with the command: super p1, p2.
-	- Heatmap of the result matrix was done using the script: script/script_heatmap.txt
+	- Heatmap of the result matrix was done using the script: script/script_heatmap.txt; (software versions can be found in script/session_info_heatmap.txt).
 	- Figure was done using Inkscape.
 
 
