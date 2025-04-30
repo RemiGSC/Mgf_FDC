@@ -55,6 +55,10 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 			Number of sequences:910289766
 		- results of this analysis are found in ARG_protein_blastp/ folder.
 
+- Insert cartography was done using clinker.
+	- clinker output/bakta_inserts/*.gbff -p plot.html
+	- plot was then modified using inkscape to add inserts sample name, their size and red color for the ARG.
+
 ## DISTRIBUTION
 
 - Abundance analysis of ARGs identified using functional metagenomics in metagenomic sequencing of each sample. 
@@ -101,6 +105,11 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 	- Each protein was aligned to every other protein using Pymol (v3.1.4) with the command: super p1, p2.
 	- Heatmap of the result matrix was done using the script: script/script_heatmap.txt; (software versions can be found in script/session_info_heatmap.txt).
 	- Figure was done using Inkscape.
+- Bakta analysis was done using the webserver on the contig assembled from metagenomic reads and found to hold the ARG identified in GER-5-KREISCHAOUT.
+	- Bakta output are found in output/bakta_contig_ger5/
+	- Clinker and Inkscape were then used to produce the corresponding figure.
+	- clinker output/bakta_contig_ger5/*.gbff -p output/bakta_contig_ger5/plot.html
+	- The final figure can be found in output/
 
 
 

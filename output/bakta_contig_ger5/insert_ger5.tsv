@@ -1,0 +1,7 @@
+# Annotated with Bakta
+# Software: v1.11.0
+# Database: v6.0, full
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	472	1515	-	OKAKKH_01		Cell division protein FtsI/penicillin binding protein 2	SO:0001217, UniRef:UniRef50_UPI00063BF791

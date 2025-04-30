@@ -1,0 +1,86 @@
+ID   contig_1; ; linear; DNA; ; UNC; 1716 BP.
+XX
+AC   contig_1;
+XX
+DE   contig_1, whole genome shotgun sequence
+XX
+OS   .
+OC   .
+XX
+CC   Annotated with Bakta
+CC   Software: v1.11.0
+CC   Database: v6.0, full
+CC   DOI: 10.1099/mgen.0.000685
+CC   URL: github.com/oschwengers/bakta
+CC   
+CC   ##Genome Annotation Summary:##
+CC   Annotation Date                :: 04/30/2025, 09:19:42
+CC   CDSs                           ::     1
+CC   tRNAs                          ::     0
+CC   tmRNAs                         ::     0
+CC   rRNAs                          ::     0
+CC   ncRNAs                         ::     0
+CC   regulatory ncRNAs              ::     0
+CC   CRISPR Arrays                  ::     0
+CC   oriCs/oriVs                    ::     0
+CC   oriTs                          ::     0
+CC   gaps                           ::     0
+CC   pseudogenes                    ::     0
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..1716
+FT                   /mol_type="genomic DNA"
+FT   gene            complement(472..1515)
+FT                   /locus_tag="OKAKKH_01"
+FT   CDS             complement(472..1515)
+FT                   /db_xref="SO:0001217"
+FT                   /db_xref="UniRef:UniRef50_UPI00063BF791"
+FT                   /product="Cell division protein FtsI/penicillin binding
+FT                   protein 2"
+FT                   /locus_tag="OKAKKH_01"
+FT                   /protein_id="gnl|Bakta|OKAKKH_01"
+FT                   /translation="MLSQYQLHASRRSFSKIALTALAILAPLCTAYAAKATLPNSTAKK
+FT                   TETSSLAPRIQQIAEKEITEAVKRYQAKSGAIAVADPHTGQILAFAEAGSVHGNDSWSS
+FT                   RLFPAASTIKPFVAAAALEAGVGSESQIYDCHSPYDISGTKFTNWSPNFGEVSMTEAIA
+FT                   KSVNICLIKVAQDLGSDKFRKKLAEFGFDTYSQWRNDKSDALQLANASLGLSIPVTLET
+FT                   ITKAYAILANKGHLFPENSGNIVSEASAEAVTRMLVEAVENGTGKRAAIPGLSVAGKTG
+FT                   TLADKISPNSSALALFGGYAPADAPRFAVFVLIEDGQPVEKNEGATGGNLAAPVFHELT
+FT                   TKSLNSK"
+FT                   /codon_start=1
+FT                   /transl_table=11
+FT                   /inference="ab initio prediction:Prodigal:2.6"
+FT                   /inference="similar to AA
+FT                   sequence:UniRef:UniRef50_UPI00063BF791"
+XX
+SQ   Sequence 1716 BP; 487 A; 342 C; 384 G; 503 T; 0 other;
+     caataaagag gcacttgcct catagggaat cgacgaactg acgcgagagc tagggttaca        60
+     gcgggattaa ggtgggctcc agagatatgc cccaatgcgt ggatcattac aaaaacaaca       120
+     agtccaaaca taatcggaat gataaaagat ggtagagctt ggggattgcc ttggcaagct       180
+     gcgatactgc cacagccaaa aaagattaac ataaatgttc caatgatttc agcgacacac       240
+     ttagtgagtt gatttttagc cattaatttc ttcctttatt cttcaatttt caatgggcta       300
+     gcctagacta aaattgttaa tagcggttaa tatatttaga atctaataaa gaatattact       360
+     ttttttcttt ttaagatttt ggagctagtc taagcttttt catggacagg gtgctcgctc       420
+     tagagttcta gaacgaggta taggaatgag accaataaga agcaagagtt tttatttaga       480
+     gttcagactt tttgtggtta gctcatgaaa gacaggagct gctaaatttc ctccagtggc       540
+     gccctcattc ttttcaacgg gttgaccatc ttcaatcaac acaaaaacgg caaagcgagg       600
+     agcatcagct ggggcataac caccgaagag agccaatgcc gatgaatttg gagagatctt       660
+     gtctgcaaga gtgcctgttt tgcctgcgac gcttagacct ggaattgctg cgcgttttcc       720
+     tgtcccattt tcaacagctt caacaagcat acgggtgaca gcctctgcac tagcctcaga       780
+     gacgatattt ccagagtttt ctggaaacaa atgcccttta tttgctaaaa ttgcataggc       840
+     ttttgttatt gtttcaagag ttaccgggat actaagccct aatgatgcat tggcgagttg       900
+     taaagcatcg cttttgtcat tgcgccattg gctgtaggta tcaaaaccaa attcagctaa       960
+     ctttttgcga aatttgtctg atccaagatc ttgggcgact ttgatcagac aaatattcac      1020
+     tgactttgcg atggcttcag tcatcgagac ctcaccaaaa tttggactcc aattcgtaaa      1080
+     ttttgtccca cttatatcat agggtgagtg acaatcataa atttgtgatt cggacccaac      1140
+     accagcctct aaagcagcag ctgctacaaa aggcttgatg gttgatgcag cagggaaaag      1200
+     gcgtgaactc caactatcat tgccatgtac agatcctgct tcagcaaaag caagaatttg      1260
+     acctgtatga ggatcagcta cagcaattgc tccagactta gcttgatagc gcttgacagc      1320
+     ttctgtgatt tctttttcag cgatttgctg aattcttggg gcaagtgagg atgtttcagt      1380
+     ttttttcgct gtagagttgg gtagggttgc tttagcagca taggctgtgc agagtggggc      1440
+     taaaattgct aacgcagtaa gtgcaatctt agaaaatgag cgacgtgaag catgcaattg      1500
+     gtattgtgat aacatacaaa ttctcctaga aatgaaagat tttttgtttt cttcatgttc      1560
+     ccaagtcatt ccaactgcgc atgcgaattt caggtggatt gcctcagagt atttggaagc      1620
+     tgtctgtgca actgtgaaca ggcaagtccc atagtcatat gcagagatat tctggtggcc      1680
+     aaccagagcc tcgtcacatg ataattcctg tagttc                                1716
+//

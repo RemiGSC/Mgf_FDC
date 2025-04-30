@@ -1,0 +1,28 @@
+# Annotated with Bakta
+# Software: v1.11.0
+# Database: v6.0, full
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Score	Evalue	Query Cov	Subject Cov	Id	Accession
+contig_1	cds	71	301	+	OCINHB_001	-	-	-	-	-	-
+contig_1	cds	411	842	+	OCINHB_002	-	-	-	-	-	-
+contig_1	cds	843	1856	-	OCINHB_003	-	-	-	-	-	-
+contig_1	cds	2098	3459	+	OCINHB_004	-	-	-	-	-	-
+contig_1	cds	3495	4268	+	OCINHB_005	251.0	1.5e-80	0.957	0.976	0.504	UniRef:UniRef90_K2BXT8
+contig_1	cds	4261	5007	-	OCINHB_006	207.0	1.9e-63	0.847	0.833	0.543	UniRef:UniRef90_A0A2H0LAR4
+contig_1	cds	5216	7141	-	OCINHB_007	634.0	1.2e-219	0.989	1.003	0.544	UniRef:UniRef90_A0A3A5L9H5
+contig_1	cds	7388	7600	+	OCINHB_008	-	-	-	-	-	-
+contig_1	cds	7694	8080	+	OCINHB_009	-	-	-	-	-	-
+contig_1	cds	8091	8882	-	OCINHB_010	-	-	-	-	-	-
+contig_1	cds	8946	9551	+	OCINHB_011	-	-	-	-	-	-
+contig_1	cds	9972	11036	-	OCINHB_012	469.0	2.4e-163	0.994	0.986	0.634	UniRef:UniRef90_A0A4P8L6R1
+contig_1	cds	11317	12363	+	OCINHB_013	367.0	1.7e-123	0.997	0.997	0.516	UniRef:UniRef90_K1ZWG7
+contig_1	cds	12521	15835	+	OCINHB_014	-	-	-	-	-	-
+contig_1	cds	15951	17519	-	OCINHB_015	-	-	-	-	-	-
+contig_1	cds	17509	17895	-	OCINHB_016	132.0	2.2e-37	0.930	0.895	0.555	UniRef:UniRef90_A0A958QMX0
+contig_1	cds	17970	18551	-	OCINHB_017	-	-	-	-	-	-
+contig_1	cds	18722	19168	+	OCINHB_018	-	-	-	-	-	-
+contig_1	cds	19203	19700	+	OCINHB_019	-	-	-	-	-	-
+contig_1	cds	19795	21621	-	OCINHB_020	-	-	-	-	-	-
+contig_1	cds	21993	22712	+	OCINHB_021	-	-	-	-	-	-
+contig_1	cds	22735	23466	+	OCINHB_022	-	-	-	-	-	-

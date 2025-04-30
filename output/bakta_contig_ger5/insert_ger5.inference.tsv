@@ -1,0 +1,7 @@
+# Annotated with Bakta
+# Software: v1.11.0
+# Database: v6.0, full
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Score	Evalue	Query Cov	Subject Cov	Id	Accession
+contig_1	cds	472	1515	-	OKAKKH_01	311.0	7.4e-102	0.905	0.994	0.541	UniRef:UniRef90_UPI00063BF791
