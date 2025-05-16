@@ -1,0 +1,101 @@
+>Feature k141_225848
+411	842	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00001
+			product	hypothetical protein
+1856	843	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00002
+			product	hypothetical protein
+2098	3459	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00003
+			product	hypothetical protein
+3495	4268	CDS
+			EC_number	3.1.2.6
+			db_xref	COG:COG0491
+			gene	gloB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8ZRM2
+			locus_tag	prokka_contig_ger5_00004
+			product	Hydroxyacylglutathione hydrolase
+5007	4261	CDS
+			gene	aqpZ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01146
+			locus_tag	prokka_contig_ger5_00005
+			product	Aquaporin Z
+7141	5216	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00006
+			product	hypothetical protein
+7548	7138	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00007
+			product	hypothetical protein
+7694	8080	CDS
+			gene	crcB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00454
+			locus_tag	prokka_contig_ger5_00008
+			product	Putative fluoride ion transporter CrcB
+8882	8091	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00009
+			product	hypothetical protein
+9075	9551	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00010
+			product	hypothetical protein
+11036	9972	CDS
+			EC_number	1.6.99.1
+			db_xref	COG:COG1902
+			gene	namA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54550
+			locus_tag	prokka_contig_ger5_00011
+			product	NADPH dehydrogenase
+11317	12363	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00012
+			product	hypothetical protein
+12521	15835	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00013
+			product	hypothetical protein
+17519	15951	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00014
+			product	hypothetical protein
+17895	17509	CDS
+			gene	copY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q47839
+			locus_tag	prokka_contig_ger5_00015
+			product	Transcriptional repressor CopY
+18551	17970	CDS
+			gene	bm3R1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P43506
+			locus_tag	prokka_contig_ger5_00016
+			product	HTH-type transcriptional repressor Bm3R1
+18722	19168	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00017
+			product	hypothetical protein
+19203	19700	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00018
+			product	hypothetical protein
+21621	19795	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00019
+			product	hypothetical protein
+21993	22712	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00020
+			product	hypothetical protein
+22735	23466	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	prokka_contig_ger5_00021
+			product	hypothetical protein

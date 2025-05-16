@@ -1,0 +1,22 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+prokka_contig_ger5_00001	CDS	432				hypothetical protein
+prokka_contig_ger5_00002	CDS	1014				hypothetical protein
+prokka_contig_ger5_00003	CDS	1362				hypothetical protein
+prokka_contig_ger5_00004	CDS	774	gloB	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase
+prokka_contig_ger5_00005	CDS	747	aqpZ			Aquaporin Z
+prokka_contig_ger5_00006	CDS	1926				hypothetical protein
+prokka_contig_ger5_00007	CDS	411				hypothetical protein
+prokka_contig_ger5_00008	CDS	387	crcB			Putative fluoride ion transporter CrcB
+prokka_contig_ger5_00009	CDS	792				hypothetical protein
+prokka_contig_ger5_00010	CDS	477				hypothetical protein
+prokka_contig_ger5_00011	CDS	1065	namA	1.6.99.1	COG1902	NADPH dehydrogenase
+prokka_contig_ger5_00012	CDS	1047				hypothetical protein
+prokka_contig_ger5_00013	CDS	3315				hypothetical protein
+prokka_contig_ger5_00014	CDS	1569				hypothetical protein
+prokka_contig_ger5_00015	CDS	387	copY			Transcriptional repressor CopY
+prokka_contig_ger5_00016	CDS	582	bm3R1			HTH-type transcriptional repressor Bm3R1
+prokka_contig_ger5_00017	CDS	447				hypothetical protein
+prokka_contig_ger5_00018	CDS	498				hypothetical protein
+prokka_contig_ger5_00019	CDS	1827				hypothetical protein
+prokka_contig_ger5_00020	CDS	720				hypothetical protein
+prokka_contig_ger5_00021	CDS	732				hypothetical protein

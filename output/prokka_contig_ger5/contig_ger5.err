@@ -1,0 +1,162 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:21 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:CDS: 21 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:21 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:22 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::21 proteins have invalid IDs.
+../output/prokka_contig_ger5/contig_ger5:k141_225848_1 (length 143)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_2 (length 337)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_3 (length 453)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_4 (length 257)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_5 (length 248)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_6 (length 641)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_7 (length 136)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_8 (length 128)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_9 (length 263)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_10 (length 158)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_11 (length 354)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_12 (length 348)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_13 (length 1104)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_14 (length 522)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_15 (length 128)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_16 (length 193)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_17 (length 148)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_18 (length 165)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_19 (length 608)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_20 (length 239)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_21 (length 243)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 21 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+../output/prokka_contig_ger5/contig_ger5:k141_225848 (length 23490)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::21 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:411-842	prokka_contig_ger5_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:c1856-843	prokka_contig_ger5_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:2098-3459	prokka_contig_ger5_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	Hydroxyacylglutathione hydrolase	k141_225848:3495-4268	prokka_contig_ger5_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	Aquaporin Z	k141_225848:c5007-4261	prokka_contig_ger5_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:c7141-5216	prokka_contig_ger5_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:c7548-7138	prokka_contig_ger5_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	Putative fluoride ion transporter CrcB	k141_225848:7694-8080	prokka_contig_ger5_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:c8882-8091	prokka_contig_ger5_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:9075-9551	prokka_contig_ger5_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	NADPH dehydrogenase	k141_225848:c11036-9972	prokka_contig_ger5_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:11317-12363	prokka_contig_ger5_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:12521-15835	prokka_contig_ger5_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:c17519-15951	prokka_contig_ger5_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	Transcriptional repressor CopY	k141_225848:c17895-17509	prokka_contig_ger5_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	HTH-type transcriptional repressor Bm3R1	k141_225848:c18551-17970	prokka_contig_ger5_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:18722-19168	prokka_contig_ger5_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:19203-19700	prokka_contig_ger5_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:c21621-19795	prokka_contig_ger5_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:21993-22712	prokka_contig_ger5_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+../output/prokka_contig_ger5/contig_ger5:CDS	hypothetical protein	k141_225848:22735-23466	prokka_contig_ger5_00021
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+../output/prokka_contig_ger5/contig_ger5:k141_225848:Annotated using prokka 1.14.0 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+../output/prokka_contig_ger5/contig_ger5:k141_225848 (length 23490)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+../output/prokka_contig_ger5/contig_ger5:k141_225848 (length 23490)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+../output/prokka_contig_ger5/contig_ger5:k141_225848 (length 23490)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+../output/prokka_contig_ger5/contig_ger5:k141_225848 (length 23490)
+
+DiscRep_ALL:MISSING_PROJECT::22 sequences do not include project.
+../output/prokka_contig_ger5/contig_ger5:k141_225848 (length 23490)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_1 (length 143)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_2 (length 337)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_3 (length 453)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_4 (length 257)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_5 (length 248)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_6 (length 641)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_7 (length 136)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_8 (length 128)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_9 (length 263)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_10 (length 158)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_11 (length 354)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_12 (length 348)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_13 (length 1104)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_14 (length 522)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_15 (length 128)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_16 (length 193)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_17 (length 148)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_18 (length 165)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_19 (length 608)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_20 (length 239)
+../output/prokka_contig_ger5/contig_ger5:k141_225848_21 (length 243)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+../output/prokka_contig_ger5/contig_ger5:k141_225848 (length 23490)
+

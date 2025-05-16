@@ -205,7 +205,7 @@ ggplot(df_pcoa, aes(x = Axis1, y = Axis2)) +
              color = "red", # Cercles rouges
              size = 10, 
              stroke = 2) +
-  labs(x = "Axis 1 - 24.79 %", y = "Axis 2 - 12.32 %") + 
+  labs(x = "Axis 1 - 24.79% variance", y = "Axis 2 - 12.32% variance") + 
   scale_color_brewer(palette = "Paired") +
   scale_shape_manual(values = c(15, 17, 16, 18), labels = c("France", "Germany", "Pakistan", "Sweden")) +
   theme_classic() +

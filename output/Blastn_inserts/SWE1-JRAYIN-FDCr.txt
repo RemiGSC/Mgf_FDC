@@ -1,0 +1,2691 @@
+RID: 2E2PNGPJ013	
+Job Title: Inserts BLASTN			
+Program: BLASTN 
+Query: SWE-1-JRYAIN_FDC1 ID: lcl|Query_6446997(dna) Length: 1316
+Database: core_nt Core nucleotide BLAST database
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Citrobacter freundii transposon Tn6256, complete sequence         Citrobacter ... NA              546        1322   1322  71%   0.0   91.37  13117      KP851978.1       
+Morganella morganii strain NRZ-35208 OXA-372 family...            Morganella m... NA              582        1297   1297  59%   0.0   97.16  774        MH211331.1       
+Morganella morganii NRZ-35208 blaOXA gene for OXA-372 family...   Morganella m... NA              582        1297   1297  59%   0.0   97.16  774        NG_057486.1      
+Pseudomonas indoloxydans 207512 blaOXA gene for OXA-372 family... Ectopseudomo... NA              301        1288   1288  59%   0.0   96.90  774        NG_076676.1      
+Ectopseudomonas oleovorans strain 207512 OXA-372 family...        Ectopseudomo... NA              301        1288   1288  59%   0.0   96.90  774        MZ449319.1       
+Citrobacter freundii class D beta-lactamase OXA-372 (blaOXA-37... Citrobacter ... NA              546        1158   1158  59%   0.0   93.15  774        KJ746496.1       
+Citrobacter freundii Cfr-FI-07 blaOXA gene for...                 Citrobacter ... NA              546        1158   1158  59%   0.0   93.15  774        NG_049663.1      
+Pseudomonas aeruginosa strain ARGA00461 OXA-372 family...         Pseudomonas ... NA              287        1090   1090  59%   0.0   91.21  774        PQ507915.1       
+Pseudomonas aeruginosa ARGA00461 blaOXA gene for OXA-372 famil... Pseudomonas ... NA              287        1090   1090  59%   0.0   91.21  774        NG_244128.1      
+Citrobacter freundii strain VASTUM_9_9 OXA-372 family...          Citrobacter ... NA              546        1090   1090  59%   0.0   91.21  774        OM322820.1       
+Quatrionicoccus australiensis strain D9 chromosome, complete...   Quatrionicoc... NA              138118     114    114   7%    3e-20 87.10  4171110    CP075188.1       
+Sulfuritalea hydrogenivorans sk43H DNA, complete genome           Sulfuritalea... NA              1223802    109    109   7%    1e-18 86.67  3802648    AP012547.1       
+Chlorobium limicola DSM 245 chromosome, complete genome           Chlorobium l... NA              290315     108    108   38%   4e-18 65.69  2763181    CP001097.1       
+Dechloromonas denitrificans strain 110 chromosome, complete...    Dechloromona... NA              281362     105    105   8%    1e-17 82.52  4619274    CP075185.1       
+Dechloromonas denitrificans strain G6 chromosome, complete genome Dechloromona... NA              281362     105    105   8%    1e-17 82.52  4580459    CP075186.1       
+Geobacter sp. SVR DNA, complete genome                            Geobacter sp... NA              2495594    101    101   7%    6e-16 82.65  4717360    AP024469.1       
+Chlorobaculum parvum NCIB 8327, complete genome                   Chlorobaculu... NA              517417     97.8   169   39%   8e-15 65.97  2289249    CP001099.1       
+Azoarcus sp. DD4 chromosome, complete genome                      Azoarcus sp.... NA              2027405    97.8   97.8  8%    8e-15 81.19  5400077    CP022958.1       
+Herbaspirillum hiltneri N3, complete genome                       Herbaspirill... NA              1262470    96.9   96.9  7%    8e-15 81.63  4965474    CP011409.1       
+Caballeronia sp. TF1N1 chromosome 3a                              Caballeronia... NA              2878153    96.0   96.0  8%    3e-14 80.77  1196112    CP084628.1       
+Rhodoferax sp. BAB1 chromosome, complete genome                   Rhodoferax s... NA              2741720    96.0   96.0  6%    3e-14 84.71  3820375    CP054424.1       
+Thiobacillus sedimenti strain SCUT-2 chromosome, complete genome  Thiobacillus... NA              3110231    95.1   95.1  7%    3e-14 82.61  3010981    CP141769.1       
+Azonexus hydrophilus strain NCP973 chromosome, complete genome    Azonexus hyd... NA              418702     95.1   95.1  8%    3e-14 80.95  3423569    CP151406.1       
+Thauera sp. JM12B12 chromosome, complete genome                   Thauera sp. ... NA              3142262    94.2   94.2  7%    9e-14 83.15  4171389    CP154859.1       
+Castellaniella ginsengisoli strain 153920 chromosome              Castellaniel... NA              546114     94.2   94.2  6%    9e-14 86.75  3014423    CP158252.1       
+Sulfurimicrobium lacus skT11 DNA, complete genome                 Sulfurimicro... NA              2715678    93.3   93.3  6%    9e-14 85.19  3826324    AP022853.1       
+MAG: Thiobacillus sp. isolate SSC5 chromosome, complete genome    Thiobacillus... NA              924        93.3   93.3  7%    9e-14 82.42  3548924    CP059257.1       
+Geomonas subterranea strain RG2 chromosome, complete genome       Geomonas sub... NA              2847989    93.3   93.3  8%    9e-14 80.20  4991523    CP077683.1       
+Geomonas subterranea strain RG3 chromosome, complete genome       Geomonas sub... NA              2847989    93.3   93.3  8%    9e-14 80.20  4991984    CP078096.1       
+Thauera chlorobenzoica strain 3CB1 chromosome, complete genome    Thauera chlo... NA              96773      92.4   92.4  6%    3e-13 84.34  3735506    CP018839.1       
+Paucibacter sediminis strain S2-9 chromosome, complete genome     Paucibacter ... NA              3019553    92.4   92.4  8%    3e-13 79.61  5324202    CP116346.1       
+Sulfuriferula sp. AH1 chromosome, complete genome                 Sulfuriferul... NA              1985873    92.4   92.4  8%    3e-13 79.61  2877007    CP021138.1       
+Thauera aromatica K172 chromosome, complete genome                Thauera arom... NA              44139      92.4   92.4  6%    3e-13 84.34  3658031    CP028339.1       
+Metapseudomonas otitidis strain BC12 chromosome, complete genome  Metapseudomo... NA              319939     91.5   91.5  8%    3e-13 80.00  6113211    CP102328.1       
+Thauera sp. K11 chromosome, complete genome                       Thauera sp. K11 NA              2005884    90.6   90.6  7%    1e-12 82.76  5150567    CP023439.1       
+Sulfuriferula sp. HF6a chromosome, complete genome                Sulfuriferul... NA              3345113    88.7   88.7  7%    4e-12 81.32  3261505    CP170193.1       
+Dechloromonas denitrificans strain 98 chromosome, complete genome Dechloromona... NA              281362     88.7   88.7  8%    4e-12 78.30  3457400    CP075187.1       
+Sulfuriferula sp. GW1 chromosome, complete genome                 Sulfuriferul... NA              3345111    88.7   88.7  7%    4e-12 81.32  3363341    CP170197.1       
+Metapseudomonas lalkuanensis strain ACYW.190 chromosome,...       Metapseudomo... NA              2604832    88.7   88.7  8%    4e-12 79.21  5837226    CP084625.1       
+Metapseudomonas lalkuanensis strain PE08 chromosome, complete...  Metapseudomo... NA              2604832    88.7   88.7  8%    4e-12 79.21  6056953    CP043311.1       
+Halomonas beimenensis strain NTU-111 chromosome, complete genome  Halomonas be... NA              475662     87.8   87.8  7%    4e-12 80.65  4053030    CP021435.1       
+Cobetia amphilecti strain MC13-5 chromosome                       Cobetia amph... NA              1055104    87.8   87.8  7%    4e-12 80.65  4341109    CP073342.1       
+Cobetia sp. 4B chromosome, complete genome                        Cobetia sp. 4B  NA              2758724    87.8   87.8  7%    4e-12 80.65  4319205    CP059843.1       
+Cobetia sp. AM6 DNA, complete genome                              Cobetia sp. AM6 NA              2661553    87.8   87.8  7%    4e-12 80.65  4229996    AP021868.1       
+MAG: Dechloromonas sp. isolate SSB2 chromosome                    Dechloromona... NA              1917218    87.8   87.8  7%    4e-12 80.65  3452223    CP054864.1       
+Cobetia amphilecti strain N-80 chromosome, complete genome        Cobetia amph... NA              1055104    87.8   87.8  7%    4e-12 80.65  4160095    CP084115.1       
+Aquitalea aquatilis strain THG-DN7.12 chromosome, complete genome Aquitalea aq... NA              1537400    87.8   87.8  6%    4e-12 83.13  4359891    CP039731.1       
+Cobetia sp. UIB-001 chromosome, complete genome                   Cobetia sp. ... NA              2717697    87.8   87.8  7%    4e-12 80.65  4177640    CP058244.1       
+Pseudomonas otitidis DNA, complete genome, strain: WP8-S17-CRE-03 Metapseudomo... NA              319939     86.9   86.9  8%    1e-11 79.00  6198093    AP022213.1       
+Geobacter sulfurreducens PCA, complete genome                     Geobacter su... NA              243231     86.9   86.9  6%    1e-11 85.33  3814128    AE017180.2       
+Geobacter sulfurreducens KN400, complete genome                   Geobacter su... NA              663917     86.9   86.9  6%    1e-11 85.33  3714272    CP002031.1       
+Ectopseudomonas khazarica strain ODT-83 chromosome, complete...   Ectopseudomo... NA              2502979    86.9   86.9  7%    1e-11 80.61  5384159    CP068551.1       
+Metapseudomonas otitidis strain CSMC7.1 chromosome, complete...   Metapseudomo... NA              319939     86.9   86.9  8%    1e-11 79.00  6202375    CP082244.1       
+Metapseudomonas otitidis strain 149 chromosome                    Metapseudomo... NA              319939     86.9   86.9  8%    1e-11 79.00  5912545    CP133395.1       
+Methylococcus sp. EFPC2 chromosome, complete genome               Methylococcu... NA              2812648    86.9   86.9  7%    1e-11 80.41  4443394    CP070491.1       
+Metapseudomonas otitidis strain TL17 chromosome, complete genome  Metapseudomo... NA              319939     86.9   86.9  8%    1e-11 79.00  6062106    CP126342.1       
+Geobacter sulfurreducens strain YM35 chromosome, complete genome  Geobacter su... NA              35554      86.9   86.9  6%    1e-11 85.33  3745223    CP074693.1       
+Pseudomonas otitidis MrB4 DNA, complete genome                    Metapseudomo... NA              319939     86.9   86.9  8%    1e-11 79.00  6089454    AP022642.1       
+Geobacter sulfurreducens strain PL chromosome, complete genome    Geobacter su... NA              35554      86.9   86.9  6%    1e-11 85.33  3783299    CP072789.1       
+Geobacter sp. 60473 DNA, complete genome                          Geobacter sp... NA              3080755    86.9   86.9  6%    1e-11 85.33  3793644    AP028967.1       
+Metapseudomonas otitidis strain Tg_9B chromosome, complete genome Metapseudomo... NA              319939     86.9   86.9  8%    1e-11 79.00  6050884    CP132337.1       
+Geobacter sulfurreducens strain PCA_v2 chromosome, complete...    Geobacter su... NA              35554      86.9   86.9  6%    1e-11 85.33  3828539    CP078092.1       
+Geobacter sulfurreducens strain AM-1 genome                       Geobacter su... NA              35554      86.9   86.9  6%    1e-11 85.33  4566144    CP010430.1       
+Stutzerimonas stutzeri strain 2020WEIHUA_G chromosome, complet... Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4591234    CP062162.1       
+Stutzerimonas stutzeri strain J15 chromosome, complete genome     Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4683655    CP101739.1       
+Stutzerimonas stutzeri strain S116 chromosome, complete genome    Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4440952    CP078509.1       
+Stutzerimonas stutzeri strain FDAARGOS_875 chromosome, complet... Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4535380    CP065750.1       
+Pseudomonas stutzeri A1501, complete genome                       Stutzerimona... NA              379731     86.0   141   11%   1e-11 81.61  4567418    CP000304.1       
+Methyloversatilis sp. RAC08 chromosome, complete genome           Methyloversa... NA              1842540    86.0   86.0  7%    1e-11 80.43  3937190    CP016448.1       
+Stutzerimonas stutzeri strain YWX-1 chromosome, complete genome   Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4488441    CP078087.1       
+Stutzerimonas stutzeri strain ZDHY95 chromosome, complete genome  Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4500524    CP063358.1       
+Pelobacter propionicus DSM 2379, complete genome                  Pelobacter p... NA              338966     86.0   86.0  8%    1e-11 78.43  4008000    CP000482.1       
+Stutzerimonas stutzeri strain SB-1 chromosome, complete genome    Stutzerimona... NA              316        86.0   86.0  7%    1e-11 81.61  4473665    CP088004.1       
+Stutzerimonas stutzeri strain CSW02 chromosome, complete genome   Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4572900    CP140616.1       
+Stutzerimonas stutzeri strain MJL19 chromosome, complete genome   Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4572525    CP140298.1       
+Stutzerimonas stutzeri strain XX1 chromosome, complete genome     Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4424182    CP091174.1       
+Pseudomonas stutzeri strain SLG510A3-8, complete genome           Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4650155    CP011854.1       
+Stutzerimonas stutzeri strain NRCB010 chromosome, complete genome Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4570338    CP098731.1       
+Stutzerimonas stutzeri strain 1W1-1A chromosome, complete genome  Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4454378    CP027664.1       
+Pseudomonas stutzeri F2a DNA, complete genome                     Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4545686    AP024722.1       
+Stutzerimonas stutzeri strain CGMCC 1.1803 chromosome, complet... Stutzerimona... NA              316        86.0   141   11%   1e-11 81.61  4547930    CP002881.1       
+Sideroxyarcus emersonii MIZ01 DNA, complete genome                Sideroxyarcu... NA              2764705    85.1   85.1  7%    5e-11 80.90  2738141    AP023423.1       
+Castellaniella ginsengisoli strain 141555 chromosome              Castellaniel... NA              546114     85.1   85.1  6%    5e-11 84.34  2951880    CP158267.1       
+Thauera sp. MZ1T, complete genome                                 Thauera amin... NA              164330     85.1   85.1  8%    5e-11 78.79  4496212    CP001281.2       
+Dechloromonas sp. TW-R-39-2 chromosome, complete genome           Dechloromona... NA              2654218    84.2   84.2  8%    5e-11 77.36  3462267    CP045202.1       
+Ferribacterium limneticum strain 77 chromosome, complete genome   Ferribacteri... NA              76259      84.2   84.2  7%    5e-11 80.22  4150051    CP075189.1       
+Geobacter metallireducens GS-15, complete genome                  Geobacter me... NA              269799     84.2   84.2  7%    5e-11 80.22  3997420    CP000148.1       
+Sideroxydans sp. CL21 genome assembly, chromosome: 1              Sideroxydans... NA              2600596    84.2   84.2  7%    5e-11 80.22  3772857    LR699166.1       
+Uncultured bacterium clone AMP1_S_US_C2 beta-lactamase OXA-198... uncultured b... NA              77133      84.2   84.2  8%    5e-11 77.36  777        MG586024.1       
+Ferrimonas balearica DSM 9799, complete genome                    Ferrimonas b... NA              550540     84.2   84.2  7%    5e-11 80.22  4279159    CP002209.1       
+Cobetia sp. cqz5-12 chromosome, complete genome                   Cobetia sp. ... NA              2609415    83.3   83.3  7%    2e-10 79.57  4209007    CP044522.1       
+Dechloromonas aquae strain ZY10 chromosome, complete genome       Dechloromona... NA              2664436    83.3   83.3  6%    2e-10 81.93  3568927    CP144212.1       
+Stutzerimonas stutzeri strain SGAir0442 chromosome, complete...   Stutzerimona... NA              316        83.3   138   11%   2e-10 83.33  4524655    CP025149.2       
+Geomonas oryzisoli strain RG10 chromosome, complete genome        Geomonas ory... NA              2847992    83.3   83.3  8%    2e-10 76.85  4846465    CP076723.1       
+Cobetia amphilecti strain CI.11.F.A3 chromosome, complete genome  Cobetia amph... NA              1055104    83.3   83.3  7%    2e-10 79.57  4132234    CP136695.1       
+Cobetia sp. D5 isolate Qingdao chromosome, complete genome        Cobetia sp. D5  NA              3105867    83.3   83.3  7%    2e-10 79.57  4233985    CP142020.1       
+Ferribacterium limneticum strain 128 chromosome, complete genome  Ferribacteri... NA              76259      82.4   82.4  8%    2e-10 77.14  4215797    CP075191.1       
+Pseudomonas sp. REST10 chromosome                                 Pseudomonas ... NA              2512235    82.4   82.4  7%    2e-10 79.59  5073673    CP035677.1       
+Cobetia marina strain KMM 1449 chromosome, complete genome        Cobetia marina  NA              28258      82.4   82.4  7%    2e-10 78.95  4184796    CP173426.1       
+Ferribacterium limneticum strain 132 chromosome, complete genome  Ferribacteri... NA              76259      82.4   82.4  8%    2e-10 77.14  4215942    CP075192.1       
+
+Alignments:
+
+>Citrobacter freundii transposon Tn6256, complete sequence
+Sequence ID: KP851978.1 Length: 13117
+Range 1: 4616 to 5554
+
+Score:1322 bits(1465), Expect:0.0, 
+Identities:858/939(91%),  Gaps:2/939(0%), Strand: Plus/Plus
+
+Query  56    CTGCCCCCGGCCAAATTCAGAAATTCGAGCGGTTTCCCGATAGGAGTCATTGCAGCCAAT  115
+             ||||  ||||||| |  | |   || ||||||||||||||||||||||||||||||||||
+Sbjct  4616  CTGCTGCCGGCCAGAAGCCGCCGTTTGAGCGGTTTCCCGATAGGAGTCATTGCAGCCAAT  4675
+
+Query  116   GCGCCCCTACTATACAATATTGGGCTCAACCTAAACTGGGTAACCTATGAAGCATAtttt  175
+             ||| |||||||||||||| ||||||||||| ||| | |||||| | |||| |||||||||
+Sbjct  4676  GCGACCCTACTATACAATGTTGGGCTCAACTTAATCCGGGTAATCCATGATGCATATTTT  4735
+
+Query  176   tttGGTCTTTATGATTCTGTGCTCAAATTTTGCTATCGCTGAGGATAAAGCGATTGCGGC  235
+             |||||||||| ||||||| ||||||||||||||| |||||||||| ||||| ||| ||||
+Sbjct  4736  TTTGGTCTTTCTGATTCTTTGCTCAAATTTTGCTCTCGCTGAGGACAAAGCTATTTCGGC  4795
+
+Query  236   TATTTTTTCCGCAGAAGGTGTTGATGGGACCATCATTTTGAAGTCGTTGCGTGGAGATAA  295
+             |||||||||| |||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  4796  TATTTTTTCCACAGAAGGTGTTGATGGGACCATCATTTTGAAGTCGTTGCGAGGAGATAA  4855
+
+Query  296   GACAATCACACACAACGATGCACGCGCTTCTCGCCGGTTCGCCTCAGCCTCGACTTTCAA  355
+             ||||||||| ||||| |||||||||||||||||||| ||||| |||||||||||||||||
+Sbjct  4856  GACAATCACGCACAATGATGCACGCGCTTCTCGCCGATTCGCGTCAGCCTCGACTTTCAA  4915
+
+Query  356   GATATTCAACACATTGATTGCAGTTCAAGAAAACGTGGTGAGTGTGGCGGGTACTGCATT  415
+             ||||||||||||  ||||||||||||||||||||||||||||| || |||||||||||||
+Sbjct  4916  GATATTCAACACGCTGATTGCAGTTCAAGAAAACGTGGTGAGTTTGTCGGGTACTGCATT  4975
+
+Query  416   CCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGACCAAACACTTGAAAG  475
+             ||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||
+Sbjct  4976  CCGATGGGATGGAAAAACGCATGACATCCCCGACTGGAACCGTGACCAAACACTTGAAAG  5035
+
+Query  476   CGCATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAGCAAGTGGGGGAAGA  535
+             |||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||
+Sbjct  5036  CGCATTCAAAGTTTCTTGTGTGTGGTGCTATCAGGAAATCGCCAAGCAAGTGGGGGAAGA  5095
+
+Query  536   AACTTATCGACGCTATCTTGCGCTTGCAAAGTATGGTGCTCTGAGCAAGGTGGCAGACAG  595
+             ||| ||||| ||||| ||| ||||||| | |||||||| ||||| ||| || || |||| 
+Sbjct  5096  AACCTATCGCCGCTACCTTACGCTTGCGAGGTATGGTGTTCTGACCAACGTAGCCGACAC  5155
+
+Query  596   TACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCAGTCGAGCAAGTGGCTCTGTT  655
+             ||||||||||||||||||||||||||||||||||||||| ||||||||  | ||||||||
+Sbjct  5156  TACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCCGTCGAGCAGATTGCTCTGTT  5215
+
+Query  656   GaaaaaaaTCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTACGACGCTTTAAAGCG  715
+             | |||| ||||||||||||||||||||||| || ||||| ||||||||||||||||||| 
+Sbjct  5216  GGAAAAGATCTATCTGCGAGAACTTCCGTTCCGTGATGAAGCCTACGACGCTTTAAAGCA  5275
+
+Query  716   GGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAGACTGGTTGGGCAGG  775
+             ||| ||||||||||||||||| ||||||||||| ||||||||||||||||| ||||||| 
+Sbjct  5276  GGTAATGCTGGCAGAGCAGACCGACAGCTACAAACTTTACGCAAAGACTGGCTGGGCAGC  5335
+
+Query  776   AAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACATCCGATGATGTATG  835
+             ||| |||||||| ||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  5336  AAGGATGAACCCCCAAATTGGGTGGTACGTTGGATATGTTGAAACATCCGATGACGTATG  5395
+
+Query  836   GTTTTTTGCCATCAATTTGACCTTGAGGTCGGAAACTGACTTAGGTTTGCGCCAGCAAAT  895
+             ||||||||||||||||||||||||||||||||||  ||||||||||||||||||| ||||
+Sbjct  5396  GTTTTTTGCCATCAATTTGACCTTGAGGTCGGAACTTGACTTAGGTTTGCGCCAGAAAAT  5455
+
+Query  896   AACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGAG-GAGAACCCTTGGGAA-AA  953
+             ||||||||||| ||||||||||||||||||||||||||||| |  |||||| ||||| ||
+Sbjct  5456  AACAAAGGCTGCGCTTAGGGCTGAACGCATTATTCCCTGAGTGGAAACCCTAGGGAACAA  5515
+
+Query  954   GGTCCGCTTTTACAGGCGGGCCAGTTCCGCTAAGGGGCG  992
+             | ||||||||||||| || ||||||||||||  ||| ||
+Sbjct  5516  GTTCCGCTTTTACAGTCGCGCCAGTTCCGCTTTGGGTCG  5554
+
+
+
+
+>Morganella morganii strain NRZ-35208 OXA-372 family carbapenem-hydrolyzing class D beta-lactamase OXA-641 (blaOXA) gene, blaOXA-641 allele, complete cds
+Sequence ID: MH211331.1 Length: 774
+Range 1: 1 to 774
+
+Score:1297 bits(1438), Expect:0.0, 
+Identities:752/774(97%),  Gaps:0/774(0%), Strand: Plus/Plus
+
+Query  162  ATGAAGCATAtttttttGGTCTTTATGATTCTGTGCTCAAATTTTGCTATCGCTGAGGAT  221
+            |||||||||||||||||||||||| ||||||| ||||||||||||||| |||||||||| 
+Sbjct  1    ATGAAGCATATTTTTTTGGTCTTTCTGATTCTTTGCTCAAATTTTGCTCTCGCTGAGGAC  60
+
+Query  222  AAAGCGATTGCGGCTATTTTTTCCGCAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  281
+            ||||| ||| |||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  61   AAAGCTATTTCGGCTATTTTTTCCACAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  120
+
+Query  282  TTGCGTGGAGATAAGACAATCACACACAACGATGCACGCGCTTCTCGCCGGTTCGCCTCA  341
+            ||||| ||||||||||||||||| ||||| |||||||||||||||||||| ||||| |||
+Sbjct  121  TTGCGAGGAGATAAGACAATCACGCACAATGATGCACGCGCTTCTCGCCGATTCGCGTCA  180
+
+Query  342  GCCTCGACTTTCAAGATATTCAACACATTGATTGCAGTTCAAGAAAACGTGGTGAGTGTG  401
+            ||||||||||||||||||||||||||  ||||||||||||||||||||||||||||| ||
+Sbjct  181  GCCTCGACTTTCAAGATATTCAACACGCTGATTGCAGTTCAAGAAAACGTGGTGAGTTTG  240
+
+Query  402  GCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  461
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  241  TCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  300
+
+Query  462  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAG  521
+            |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||
+Sbjct  301  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGTGTGTGGTGCTATCAGGAAATCGCCAAG  360
+
+Query  522  CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAAGTATGGTGCTCTGAGC  581
+            ||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||
+Sbjct  361  CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAGGTATGGTGCTCTGAGC  420
+
+Query  582  AAGGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCAGTCGAG  641
+            || |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  421  AACGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCCGTCGAG  480
+
+Query  642  CAAGTGGCTCTGTTGaaaaaaaTCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTAC  701
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  481  CAAGTGGCTCTGTTGAAAAAAATCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTAC  540
+
+Query  702  GACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAG  761
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  541  GACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAG  600
+
+Query  762  ACTGGTTGGGCAGGAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACA  821
+            ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  601  ACTGGCTGGGCAGGAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACA  660
+
+Query  822  TCCGATGATGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAAACTGACTTAGGT  881
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  661  TCCGATGATGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCAGAAACTGACTTAGGT  720
+
+Query  882  TTGCGCCAGCAAATAACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGA  935
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  721  TTGCGCCAGCAAATAACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGA  774
+
+
+
+
+>Morganella morganii NRZ-35208 blaOXA gene for OXA-372 family carbapenem-hydrolyzing class D beta-lactamase OXA-641, complete CDS
+Sequence ID: NG_057486.1 Length: 774
+Range 1: 1 to 774
+
+Score:1297 bits(1438), Expect:0.0, 
+Identities:752/774(97%),  Gaps:0/774(0%), Strand: Plus/Plus
+
+Query  162  ATGAAGCATAtttttttGGTCTTTATGATTCTGTGCTCAAATTTTGCTATCGCTGAGGAT  221
+            |||||||||||||||||||||||| ||||||| ||||||||||||||| |||||||||| 
+Sbjct  1    ATGAAGCATATTTTTTTGGTCTTTCTGATTCTTTGCTCAAATTTTGCTCTCGCTGAGGAC  60
+
+Query  222  AAAGCGATTGCGGCTATTTTTTCCGCAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  281
+            ||||| ||| |||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  61   AAAGCTATTTCGGCTATTTTTTCCACAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  120
+
+Query  282  TTGCGTGGAGATAAGACAATCACACACAACGATGCACGCGCTTCTCGCCGGTTCGCCTCA  341
+            ||||| ||||||||||||||||| ||||| |||||||||||||||||||| ||||| |||
+Sbjct  121  TTGCGAGGAGATAAGACAATCACGCACAATGATGCACGCGCTTCTCGCCGATTCGCGTCA  180
+
+Query  342  GCCTCGACTTTCAAGATATTCAACACATTGATTGCAGTTCAAGAAAACGTGGTGAGTGTG  401
+            ||||||||||||||||||||||||||  ||||||||||||||||||||||||||||| ||
+Sbjct  181  GCCTCGACTTTCAAGATATTCAACACGCTGATTGCAGTTCAAGAAAACGTGGTGAGTTTG  240
+
+Query  402  GCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  461
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  241  TCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  300
+
+Query  462  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAG  521
+            |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||
+Sbjct  301  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGTGTGTGGTGCTATCAGGAAATCGCCAAG  360
+
+Query  522  CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAAGTATGGTGCTCTGAGC  581
+            ||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||
+Sbjct  361  CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAGGTATGGTGCTCTGAGC  420
+
+Query  582  AAGGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCAGTCGAG  641
+            || |||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  421  AACGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCCGTCGAG  480
+
+Query  642  CAAGTGGCTCTGTTGaaaaaaaTCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTAC  701
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  481  CAAGTGGCTCTGTTGAAAAAAATCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTAC  540
+
+Query  702  GACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAG  761
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  541  GACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAG  600
+
+Query  762  ACTGGTTGGGCAGGAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACA  821
+            ||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  601  ACTGGCTGGGCAGGAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACA  660
+
+Query  822  TCCGATGATGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAAACTGACTTAGGT  881
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  661  TCCGATGATGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCAGAAACTGACTTAGGT  720
+
+Query  882  TTGCGCCAGCAAATAACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGA  935
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  721  TTGCGCCAGCAAATAACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGA  774
+
+
+
+
+>Pseudomonas indoloxydans 207512 blaOXA gene for OXA-372 family carbapenem-hydrolyzing class D beta-lactamase OXA-1016, complete CDS
+Sequence ID: NG_076676.1 Length: 774
+Range 1: 1 to 774
+
+Score:1288 bits(1428), Expect:0.0, 
+Identities:750/774(97%),  Gaps:0/774(0%), Strand: Plus/Plus
+
+Query  162  ATGAAGCATAtttttttGGTCTTTATGATTCTGTGCTCAAATTTTGCTATCGCTGAGGAT  221
+            |||||||||||||||||||||||| ||||||| ||||||||||||||| |||||||||| 
+Sbjct  1    ATGAAGCATATTTTTTTGGTCTTTCTGATTCTTTGCTCAAATTTTGCTCTCGCTGAGGAC  60
+
+Query  222  AAAGCGATTGCGGCTATTTTTTCCGCAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  281
+            ||||| ||| |||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  61   AAAGCTATTTCGGCTATTTTTTCCACAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  120
+
+Query  282  TTGCGTGGAGATAAGACAATCACACACAACGATGCACGCGCTTCTCGCCGGTTCGCCTCA  341
+            ||||| ||||||||||||||||| ||||| |||||||||||||||||||| ||||| |||
+Sbjct  121  TTGCGAGGAGATAAGACAATCACGCACAATGATGCACGCGCTTCTCGCCGATTCGCGTCA  180
+
+Query  342  GCCTCGACTTTCAAGATATTCAACACATTGATTGCAGTTCAAGAAAACGTGGTGAGTGTG  401
+            ||||||||||||||||||||||||||  ||||||||||||||||||||||||||||| ||
+Sbjct  181  GCCTCGACTTTCAAGATATTCAACACGCTGATTGCAGTTCAAGAAAACGTGGTGAGTTTG  240
+
+Query  402  GCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  461
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  241  TCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  300
+
+Query  462  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAG  521
+            |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||
+Sbjct  301  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGTGTGTGGTGCTATCAGGAAATCGCCAAG  360
+
+Query  522  CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAAGTATGGTGCTCTGAGC  581
+            ||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||
+Sbjct  361  CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAGGTATGGTGCTCTGAGC  420
+
+Query  582  AAGGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCAGTCGAG  641
+            || ||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||
+Sbjct  421  AACGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTATACGGTCAGCGCCGTCGAG  480
+
+Query  642  CAAGTGGCTCTGTTGaaaaaaaTCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTAC  701
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  481  CAAGTGGCTCTGTTGAAAAAAATCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTAC  540
+
+Query  702  GACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAG  761
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  541  GACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAG  600
+
+Query  762  ACTGGTTGGGCAGGAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACA  821
+            ||||| ||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  601  ACTGGCTGGGCAGCAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACA  660
+
+Query  822  TCCGATGATGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAAACTGACTTAGGT  881
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  661  TCCGATGATGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCAGAAACTGACTTAGGT  720
+
+Query  882  TTGCGCCAGCAAATAACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGA  935
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  721  TTGCGCCAGCAAATAACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGA  774
+
+
+
+
+>Ectopseudomonas oleovorans strain 207512 OXA-372 family carbapenem-hydrolyzing class D beta-lactamase OXA-1016 (blaOXA) gene, blaOXA-1016 allele, complete cds
+Sequence ID: MZ449319.1 Length: 774
+Range 1: 1 to 774
+
+Score:1288 bits(1428), Expect:0.0, 
+Identities:750/774(97%),  Gaps:0/774(0%), Strand: Plus/Plus
+
+Query  162  ATGAAGCATAtttttttGGTCTTTATGATTCTGTGCTCAAATTTTGCTATCGCTGAGGAT  221
+            |||||||||||||||||||||||| ||||||| ||||||||||||||| |||||||||| 
+Sbjct  1    ATGAAGCATATTTTTTTGGTCTTTCTGATTCTTTGCTCAAATTTTGCTCTCGCTGAGGAC  60
+
+Query  222  AAAGCGATTGCGGCTATTTTTTCCGCAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  281
+            ||||| ||| |||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  61   AAAGCTATTTCGGCTATTTTTTCCACAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  120
+
+Query  282  TTGCGTGGAGATAAGACAATCACACACAACGATGCACGCGCTTCTCGCCGGTTCGCCTCA  341
+            ||||| ||||||||||||||||| ||||| |||||||||||||||||||| ||||| |||
+Sbjct  121  TTGCGAGGAGATAAGACAATCACGCACAATGATGCACGCGCTTCTCGCCGATTCGCGTCA  180
+
+Query  342  GCCTCGACTTTCAAGATATTCAACACATTGATTGCAGTTCAAGAAAACGTGGTGAGTGTG  401
+            ||||||||||||||||||||||||||  ||||||||||||||||||||||||||||| ||
+Sbjct  181  GCCTCGACTTTCAAGATATTCAACACGCTGATTGCAGTTCAAGAAAACGTGGTGAGTTTG  240
+
+Query  402  GCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  461
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  241  TCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  300
+
+Query  462  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAG  521
+            |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||
+Sbjct  301  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGTGTGTGGTGCTATCAGGAAATCGCCAAG  360
+
+Query  522  CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAAGTATGGTGCTCTGAGC  581
+            ||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||
+Sbjct  361  CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAGGTATGGTGCTCTGAGC  420
+
+Query  582  AAGGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCAGTCGAG  641
+            || ||||||||||||||||||||||||||||||||||||| |||||||||||| ||||||
+Sbjct  421  AACGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTATACGGTCAGCGCCGTCGAG  480
+
+Query  642  CAAGTGGCTCTGTTGaaaaaaaTCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTAC  701
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  481  CAAGTGGCTCTGTTGAAAAAAATCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTAC  540
+
+Query  702  GACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAG  761
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  541  GACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAG  600
+
+Query  762  ACTGGTTGGGCAGGAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACA  821
+            ||||| ||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  601  ACTGGCTGGGCAGCAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACA  660
+
+Query  822  TCCGATGATGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAAACTGACTTAGGT  881
+            |||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+Sbjct  661  TCCGATGATGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCAGAAACTGACTTAGGT  720
+
+Query  882  TTGCGCCAGCAAATAACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGA  935
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  721  TTGCGCCAGCAAATAACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGA  774
+
+
+
+
+>Citrobacter freundii class D beta-lactamase OXA-372 (blaOXA-372) gene, complete cds
+Sequence ID: KJ746496.1 Length: 774
+Range 1: 1 to 774
+
+Score:1158 bits(1283), Expect:0.0, 
+Identities:721/774(93%),  Gaps:0/774(0%), Strand: Plus/Plus
+
+Query  162  ATGAAGCATAtttttttGGTCTTTATGATTCTGTGCTCAAATTTTGCTATCGCTGAGGAT  221
+            |||| ||||||||||||||||||| ||||||| ||||||||||||||| |||||||||| 
+Sbjct  1    ATGATGCATATTTTTTTGGTCTTTCTGATTCTTTGCTCAAATTTTGCTCTCGCTGAGGAC  60
+
+Query  222  AAAGCGATTGCGGCTATTTTTTCCGCAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  281
+            ||||| ||| |||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  61   AAAGCTATTTCGGCTATTTTTTCCACAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  120
+
+Query  282  TTGCGTGGAGATAAGACAATCACACACAACGATGCACGCGCTTCTCGCCGGTTCGCCTCA  341
+            ||||| ||||||||||||||||| ||||| |||||||||||||||||||| ||||| |||
+Sbjct  121  TTGCGAGGAGATAAGACAATCACGCACAATGATGCACGCGCTTCTCGCCGATTCGCGTCA  180
+
+Query  342  GCCTCGACTTTCAAGATATTCAACACATTGATTGCAGTTCAAGAAAACGTGGTGAGTGTG  401
+            ||||||||||||||||||||||||||  ||||||||||||||||||||||||||||| ||
+Sbjct  181  GCCTCGACTTTCAAGATATTCAACACGCTGATTGCAGTTCAAGAAAACGTGGTGAGTTTG  240
+
+Query  402  GCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  461
+             |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||
+Sbjct  241  TCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACATCCCCGACTGGAACCGTGAC  300
+
+Query  462  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAG  521
+            |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||
+Sbjct  301  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGTGTGTGGTGCTATCAGGAAATCGCCAAG  360
+
+Query  522  CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAAGTATGGTGCTCTGAGC  581
+            ||||||||||||||||| ||||| ||||| ||| ||||||| | |||||||| ||||| |
+Sbjct  361  CAAGTGGGGGAAGAAACCTATCGCCGCTACCTTACGCTTGCGAGGTATGGTGTTCTGACC  420
+
+Query  582  AAGGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCAGTCGAG  641
+            || || || |||| ||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  421  AACGTAGCCGACACTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCCGTCGAG  480
+
+Query  642  CAAGTGGCTCTGTTGaaaaaaaTCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTAC  701
+            ||  | ||||||||| |||| ||||||||||||||||||||||| || ||||| ||||||
+Sbjct  481  CAGATTGCTCTGTTGGAAAAGATCTATCTGCGAGAACTTCCGTTCCGTGATGAAGCCTAC  540
+
+Query  702  GACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAG  761
+            ||||||||||||| ||| ||||||||||||||||| ||||||||||| ||||||||||||
+Sbjct  541  GACGCTTTAAAGCAGGTAATGCTGGCAGAGCAGACCGACAGCTACAAACTTTACGCAAAG  600
+
+Query  762  ACTGGTTGGGCAGGAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACA  821
+            ||||| ||||||| ||| |||||||| |||||||||||||||||||||||||||||||||
+Sbjct  601  ACTGGCTGGGCAGCAAGGATGAACCCCCAAATTGGGTGGTACGTTGGATATGTTGAAACA  660
+
+Query  822  TCCGATGATGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAAACTGACTTAGGT  881
+            |||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||
+Sbjct  661  TCCGATGACGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAACTTGACTTAGGT  720
+
+Query  882  TTGCGCCAGCAAATAACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGA  935
+            ||||||||| ||||||||||||||| ||||||||||||||||||||||||||||
+Sbjct  721  TTGCGCCAGAAAATAACAAAGGCTGCGCTTAGGGCTGAACGCATTATTCCCTGA  774
+
+
+
+
+>Citrobacter freundii Cfr-FI-07 blaOXA gene for carbapenem-hydrolyzing class D beta-lactamase OXA-372, complete CDS
+Sequence ID: NG_049663.1 Length: 774
+Range 1: 1 to 774
+
+Score:1158 bits(1283), Expect:0.0, 
+Identities:721/774(93%),  Gaps:0/774(0%), Strand: Plus/Plus
+
+Query  162  ATGAAGCATAtttttttGGTCTTTATGATTCTGTGCTCAAATTTTGCTATCGCTGAGGAT  221
+            |||| ||||||||||||||||||| ||||||| ||||||||||||||| |||||||||| 
+Sbjct  1    ATGATGCATATTTTTTTGGTCTTTCTGATTCTTTGCTCAAATTTTGCTCTCGCTGAGGAC  60
+
+Query  222  AAAGCGATTGCGGCTATTTTTTCCGCAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  281
+            ||||| ||| |||||||||||||| |||||||||||||||||||||||||||||||||||
+Sbjct  61   AAAGCTATTTCGGCTATTTTTTCCACAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  120
+
+Query  282  TTGCGTGGAGATAAGACAATCACACACAACGATGCACGCGCTTCTCGCCGGTTCGCCTCA  341
+            ||||| ||||||||||||||||| ||||| |||||||||||||||||||| ||||| |||
+Sbjct  121  TTGCGAGGAGATAAGACAATCACGCACAATGATGCACGCGCTTCTCGCCGATTCGCGTCA  180
+
+Query  342  GCCTCGACTTTCAAGATATTCAACACATTGATTGCAGTTCAAGAAAACGTGGTGAGTGTG  401
+            ||||||||||||||||||||||||||  ||||||||||||||||||||||||||||| ||
+Sbjct  181  GCCTCGACTTTCAAGATATTCAACACGCTGATTGCAGTTCAAGAAAACGTGGTGAGTTTG  240
+
+Query  402  GCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  461
+             |||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||
+Sbjct  241  TCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACATCCCCGACTGGAACCGTGAC  300
+
+Query  462  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAG  521
+            |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||
+Sbjct  301  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGTGTGTGGTGCTATCAGGAAATCGCCAAG  360
+
+Query  522  CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAAGTATGGTGCTCTGAGC  581
+            ||||||||||||||||| ||||| ||||| ||| ||||||| | |||||||| ||||| |
+Sbjct  361  CAAGTGGGGGAAGAAACCTATCGCCGCTACCTTACGCTTGCGAGGTATGGTGTTCTGACC  420
+
+Query  582  AAGGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCAGTCGAG  641
+            || || || |||| ||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  421  AACGTAGCCGACACTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCCGTCGAG  480
+
+Query  642  CAAGTGGCTCTGTTGaaaaaaaTCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTAC  701
+            ||  | ||||||||| |||| ||||||||||||||||||||||| || ||||| ||||||
+Sbjct  481  CAGATTGCTCTGTTGGAAAAGATCTATCTGCGAGAACTTCCGTTCCGTGATGAAGCCTAC  540
+
+Query  702  GACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAG  761
+            ||||||||||||| ||| ||||||||||||||||| ||||||||||| ||||||||||||
+Sbjct  541  GACGCTTTAAAGCAGGTAATGCTGGCAGAGCAGACCGACAGCTACAAACTTTACGCAAAG  600
+
+Query  762  ACTGGTTGGGCAGGAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACA  821
+            ||||| ||||||| ||| |||||||| |||||||||||||||||||||||||||||||||
+Sbjct  601  ACTGGCTGGGCAGCAAGGATGAACCCCCAAATTGGGTGGTACGTTGGATATGTTGAAACA  660
+
+Query  822  TCCGATGATGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAAACTGACTTAGGT  881
+            |||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||
+Sbjct  661  TCCGATGACGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAACTTGACTTAGGT  720
+
+Query  882  TTGCGCCAGCAAATAACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGA  935
+            ||||||||| ||||||||||||||| ||||||||||||||||||||||||||||
+Sbjct  721  TTGCGCCAGAAAATAACAAAGGCTGCGCTTAGGGCTGAACGCATTATTCCCTGA  774
+
+
+
+
+>Pseudomonas aeruginosa strain ARGA00461 OXA-372 family carbapenem-hydrolyzing class D beta-lactamase OXA-1054 (blaOXA) gene, blaOXA-1054 allele, complete cds
+Sequence ID: PQ507915.1 Length: 774
+Range 1: 1 to 774
+
+Score:1090 bits(1208), Expect:0.0, 
+Identities:706/774(91%),  Gaps:0/774(0%), Strand: Plus/Plus
+
+Query  162  ATGAAGCATAtttttttGGTCTTTATGATTCTGTGCTCAAATTTTGCTATCGCTGAGGAT  221
+            ||||||||||| ||||| || ||| ||||||||| |||||| |||||| |||||||||||
+Sbjct  1    ATGAAGCATATATTTTTTGTTTTTCTGATTCTGTACTCAAACTTTGCTCTCGCTGAGGAT  60
+
+Query  222  AAAGCGATTGCGGCTATTTTTTCCGCAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  281
+            ||||||||| ||||  ||||| |||||||||||||| | || ||||||||||||||||||
+Sbjct  61   AAAGCGATTTCGGCCCTTTTTACCGCAGAAGGTGTTCAAGGAACCATCATTTTGAAGTCG  120
+
+Query  282  TTGCGTGGAGATAAGACAATCACACACAACGATGCACGCGCTTCTCGCCGGTTCGCCTCA  341
+            |||||||| |||||||||||||| ||||||||||||||||||||| |||||||| | |||
+Sbjct  121  TTGCGTGGGGATAAGACAATCACGCACAACGATGCACGCGCTTCTAGCCGGTTCACATCA  180
+
+Query  342  GCCTCGACTTTCAAGATATTCAACACATTGATTGCAGTTCAAGAAAACGTGGTGAGTGTG  401
+            |||||||| ||||||||||||||||| |||||||| ||||||||||||||||||||| ||
+Sbjct  181  GCCTCGACGTTCAAGATATTCAACACGTTGATTGCTGTTCAAGAAAACGTGGTGAGTTTG  240
+
+Query  402  GCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  461
+            ||||| ||  |||||  |||| ||||||||||| |||| |||||||| ||||||||||||
+Sbjct  241  GCGGGCACGACATTCAAATGGAATGGAAAAACGTATGATTTCCCCGATTGGAACCGTGAC  300
+
+Query  462  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAG  521
+            |||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||
+Sbjct  301  CAAACACTTGAAAGCGCATTCAAATTCTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAG  360
+
+Query  522  CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAAGTATGGTGCTCTGAGC  581
+            ||||||||||||||||| ||||| ||||| ||| ||||||| | |||||||| ||||| |
+Sbjct  361  CAAGTGGGGGAAGAAACCTATCGCCGCTACCTTACGCTTGCGAGGTATGGTGTTCTGACC  420
+
+Query  582  AAGGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCAGTCGAG  641
+            || || || |||| ||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  421  AACGTAGCCGACACTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCCGTCGAG  480
+
+Query  642  CAAGTGGCTCTGTTGaaaaaaaTCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTAC  701
+            ||  | ||||||||| |||| ||||||||||||||||||||||| || ||||| ||||||
+Sbjct  481  CAGATTGCTCTGTTGGAAAAGATCTATCTGCGAGAACTTCCGTTCCGTGATGAAGCCTAC  540
+
+Query  702  GACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAG  761
+            ||||||||||||| ||| ||||||||||||||||| ||||||||||| ||||||||||||
+Sbjct  541  GACGCTTTAAAGCAGGTAATGCTGGCAGAGCAGACCGACAGCTACAAACTTTACGCAAAG  600
+
+Query  762  ACTGGTTGGGCAGGAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACA  821
+            ||||| ||||||| ||| |||||||| |||||||||||||||||||||||||||||||||
+Sbjct  601  ACTGGCTGGGCAGCAAGGATGAACCCCCAAATTGGGTGGTACGTTGGATATGTTGAAACA  660
+
+Query  822  TCCGATGATGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAAACTGACTTAGGT  881
+            |||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||
+Sbjct  661  TCCGATGACGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAACTTGACTTAGGT  720
+
+Query  882  TTGCGCCAGCAAATAACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGA  935
+            ||||||||| ||||||||||||||| ||||||||||||||||||||||||||||
+Sbjct  721  TTGCGCCAGAAAATAACAAAGGCTGCGCTTAGGGCTGAACGCATTATTCCCTGA  774
+
+
+
+
+>Pseudomonas aeruginosa ARGA00461 blaOXA gene for OXA-372 family carbapenem-hydrolyzing class D beta-lactamase OXA-1054, complete CDS
+Sequence ID: NG_244128.1 Length: 774
+Range 1: 1 to 774
+
+Score:1090 bits(1208), Expect:0.0, 
+Identities:706/774(91%),  Gaps:0/774(0%), Strand: Plus/Plus
+
+Query  162  ATGAAGCATAtttttttGGTCTTTATGATTCTGTGCTCAAATTTTGCTATCGCTGAGGAT  221
+            ||||||||||| ||||| || ||| ||||||||| |||||| |||||| |||||||||||
+Sbjct  1    ATGAAGCATATATTTTTTGTTTTTCTGATTCTGTACTCAAACTTTGCTCTCGCTGAGGAT  60
+
+Query  222  AAAGCGATTGCGGCTATTTTTTCCGCAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  281
+            ||||||||| ||||  ||||| |||||||||||||| | || ||||||||||||||||||
+Sbjct  61   AAAGCGATTTCGGCCCTTTTTACCGCAGAAGGTGTTCAAGGAACCATCATTTTGAAGTCG  120
+
+Query  282  TTGCGTGGAGATAAGACAATCACACACAACGATGCACGCGCTTCTCGCCGGTTCGCCTCA  341
+            |||||||| |||||||||||||| ||||||||||||||||||||| |||||||| | |||
+Sbjct  121  TTGCGTGGGGATAAGACAATCACGCACAACGATGCACGCGCTTCTAGCCGGTTCACATCA  180
+
+Query  342  GCCTCGACTTTCAAGATATTCAACACATTGATTGCAGTTCAAGAAAACGTGGTGAGTGTG  401
+            |||||||| ||||||||||||||||| |||||||| ||||||||||||||||||||| ||
+Sbjct  181  GCCTCGACGTTCAAGATATTCAACACGTTGATTGCTGTTCAAGAAAACGTGGTGAGTTTG  240
+
+Query  402  GCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  461
+            ||||| ||  |||||  |||| ||||||||||| |||| |||||||| ||||||||||||
+Sbjct  241  GCGGGCACGACATTCAAATGGAATGGAAAAACGTATGATTTCCCCGATTGGAACCGTGAC  300
+
+Query  462  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAG  521
+            |||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||
+Sbjct  301  CAAACACTTGAAAGCGCATTCAAATTCTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAG  360
+
+Query  522  CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAAGTATGGTGCTCTGAGC  581
+            ||||||||||||||||| ||||| ||||| ||| ||||||| | |||||||| ||||| |
+Sbjct  361  CAAGTGGGGGAAGAAACCTATCGCCGCTACCTTACGCTTGCGAGGTATGGTGTTCTGACC  420
+
+Query  582  AAGGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCAGTCGAG  641
+            || || || |||| ||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  421  AACGTAGCCGACACTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCCGTCGAG  480
+
+Query  642  CAAGTGGCTCTGTTGaaaaaaaTCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTAC  701
+            ||  | ||||||||| |||| ||||||||||||||||||||||| || ||||| ||||||
+Sbjct  481  CAGATTGCTCTGTTGGAAAAGATCTATCTGCGAGAACTTCCGTTCCGTGATGAAGCCTAC  540
+
+Query  702  GACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAG  761
+            ||||||||||||| ||| ||||||||||||||||| ||||||||||| ||||||||||||
+Sbjct  541  GACGCTTTAAAGCAGGTAATGCTGGCAGAGCAGACCGACAGCTACAAACTTTACGCAAAG  600
+
+Query  762  ACTGGTTGGGCAGGAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACA  821
+            ||||| ||||||| ||| |||||||| |||||||||||||||||||||||||||||||||
+Sbjct  601  ACTGGCTGGGCAGCAAGGATGAACCCCCAAATTGGGTGGTACGTTGGATATGTTGAAACA  660
+
+Query  822  TCCGATGATGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAAACTGACTTAGGT  881
+            |||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||
+Sbjct  661  TCCGATGACGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAACTTGACTTAGGT  720
+
+Query  882  TTGCGCCAGCAAATAACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGA  935
+            ||||||||| ||||||||||||||| ||||||||||||||||||||||||||||
+Sbjct  721  TTGCGCCAGAAAATAACAAAGGCTGCGCTTAGGGCTGAACGCATTATTCCCTGA  774
+
+
+
+
+>Citrobacter freundii strain VASTUM_9_9 OXA-372 family carbapenem-hydrolyzing class D beta-lactamase OXA-1054 (blaOXA) gene, blaOXA-1054 allele, complete cds
+Sequence ID: OM322820.1 Length: 774
+Range 1: 1 to 774
+
+Score:1090 bits(1208), Expect:0.0, 
+Identities:706/774(91%),  Gaps:0/774(0%), Strand: Plus/Plus
+
+Query  162  ATGAAGCATAtttttttGGTCTTTATGATTCTGTGCTCAAATTTTGCTATCGCTGAGGAT  221
+            ||||||||||| ||||| || ||| ||||||||| |||||| |||||| |||||||||||
+Sbjct  1    ATGAAGCATATATTTTTTGTTTTTCTGATTCTGTACTCAAACTTTGCTCTCGCTGAGGAT  60
+
+Query  222  AAAGCGATTGCGGCTATTTTTTCCGCAGAAGGTGTTGATGGGACCATCATTTTGAAGTCG  281
+            ||||||||| ||||  ||||| |||||||||||||| | || ||||||||||||||||||
+Sbjct  61   AAAGCGATTTCGGCCCTTTTTACCGCAGAAGGTGTTCAAGGAACCATCATTTTGAAGTCG  120
+
+Query  282  TTGCGTGGAGATAAGACAATCACACACAACGATGCACGCGCTTCTCGCCGGTTCGCCTCA  341
+            |||||||| |||||||||||||| ||||||||||||||||||||| |||||||| | |||
+Sbjct  121  TTGCGTGGGGATAAGACAATCACGCACAACGATGCACGCGCTTCTAGCCGGTTCACATCA  180
+
+Query  342  GCCTCGACTTTCAAGATATTCAACACATTGATTGCAGTTCAAGAAAACGTGGTGAGTGTG  401
+            |||||||| ||||||||||||||||| |||||||| ||||||||||||||||||||| ||
+Sbjct  181  GCCTCGACGTTCAAGATATTCAACACGTTGATTGCTGTTCAAGAAAACGTGGTGAGTTTG  240
+
+Query  402  GCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  461
+            ||||| ||  |||||  |||| ||||||||||| |||| |||||||| ||||||||||||
+Sbjct  241  GCGGGCACGACATTCAAATGGAATGGAAAAACGTATGATTTCCCCGATTGGAACCGTGAC  300
+
+Query  462  CAAACACTTGAAAGCGCATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAG  521
+            |||||||||||||||||||||||| | |||||||||||||||||||||||||||||||||
+Sbjct  301  CAAACACTTGAAAGCGCATTCAAATTCTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAG  360
+
+Query  522  CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAAGTATGGTGCTCTGAGC  581
+            ||||||||||||||||| ||||| ||||| ||| ||||||| | |||||||| ||||| |
+Sbjct  361  CAAGTGGGGGAAGAAACCTATCGCCGCTACCTTACGCTTGCGAGGTATGGTGTTCTGACC  420
+
+Query  582  AAGGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCAGTCGAG  641
+            || || || |||| ||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  421  AACGTAGCCGACACTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCCGTCGAG  480
+
+Query  642  CAAGTGGCTCTGTTGaaaaaaaTCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTAC  701
+            ||  | ||||||||| |||| ||||||||||||||||||||||| || ||||| ||||||
+Sbjct  481  CAGATTGCTCTGTTGGAAAAGATCTATCTGCGAGAACTTCCGTTCCGTGATGAAGCCTAC  540
+
+Query  702  GACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAG  761
+            ||||||||||||| ||| ||||||||||||||||| ||||||||||| ||||||||||||
+Sbjct  541  GACGCTTTAAAGCAGGTAATGCTGGCAGAGCAGACCGACAGCTACAAACTTTACGCAAAG  600
+
+Query  762  ACTGGTTGGGCAGGAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACA  821
+            ||||| ||||||| ||| |||||||| |||||||||||||||||||||||||||||||||
+Sbjct  601  ACTGGCTGGGCAGCAAGGATGAACCCCCAAATTGGGTGGTACGTTGGATATGTTGAAACA  660
+
+Query  822  TCCGATGATGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAAACTGACTTAGGT  881
+            |||||||| |||||||||||||||||||||||||||||||||||||||  ||||||||||
+Sbjct  661  TCCGATGACGTATGGTTTTTTGCCATCAATTTGACCTTGAGGTCGGAACTTGACTTAGGT  720
+
+Query  882  TTGCGCCAGCAAATAACAAAGGCTGTGCTTAGGGCTGAACGCATTATTCCCTGA  935
+            ||||||||| ||||||||||||||| ||||||||||||||||||||||||||||
+Sbjct  721  TTGCGCCAGAAAATAACAAAGGCTGCGCTTAGGGCTGAACGCATTATTCCCTGA  774
+
+
+
+
+>Quatrionicoccus australiensis strain D9 chromosome, complete genome
+Sequence ID: CP075188.1 Length: 4171110
+Range 1: 3608405 to 3608497
+
+Score:114 bits(126), Expect:3e-20, 
+Identities:81/93(87%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                ||||||||| ||||| || ||||| ||||||||||||||||||||||| || ||||||||
+Sbjct  3608405  CCTGCCCAACTGCCCGCAATGCAAGTCCGAATTCACCTACGAAGACGGCGCCATGTACGT  3608464
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                 || || |||||||||||||| |||  ||||||
+Sbjct  3608465  CTGCCCGGAATGCGCCCATGAATGGAGCAAGGA  3608497
+
+
+
+
+>Sulfuritalea hydrogenivorans sk43H DNA, complete genome
+Sequence ID: AP012547.1 Length: 3802648
+Range 1: 1716093 to 1716182
+
+Score:109 bits(120), Expect:1e-18, 
+Identities:78/90(87%),  Gaps:0/90(0%), Strand: Plus/Minus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                |||||||||||||||||| |||| |||||||||||||||||||||||| |  |  |||||
+Sbjct  1716182  CCTGCCCAAGTGCCCCCAATGCAGTTCCGAATTCACCTACGAAGACGGCGAAAACTACGT  1716123
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCAA  1305
+                 || || ||||||||||| |||||| ||||
+Sbjct  1716122  CTGCCCGGAATGCGCCCACGAGTGGCCCAA  1716093
+
+
+
+
+>Chlorobium limicola DSM 245 chromosome, complete genome
+Sequence ID: CP001097.1 Length: 2763181
+Range 1: 1377849 to 1378351
+
+Score:108 bits(119), Expect:4e-18, 
+Identities:335/510(66%),  Gaps:14/510(2%), Strand: Plus/Minus
+
+Query  342      GCCTCGACTTTCAAGATATTCAACACATTGATTGCAGTTCAAGAAAACGTGGTGAGTGTG  401
+                || ||||| ||||||||| |||||||  |||| ||| |  | || || || | ||  |  
+Sbjct  1378351  GCATCGACATTCAAGATACTCAACACCCTGATCGCACTGGAGGAGAAGGTTGCGACGGGA  1378292
+
+Query  402      GCGGGTACTGCATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGAC  461
+                  || |  |    |  | |||||||| |    |||||| ||||||||||||||||| |||
+Sbjct  1378291  AAGGATCATCTGATAAGGTGGGATGGCAGGCGGCATGATTTCCCCGACTGGAACCGCGAC  1378232
+
+Query  462      CAAACACTTGAAAGCGCATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAG  521
+                || || || || ||||| ||||  ||||| ||||| |||| |||||||||  | |||   
+Sbjct  1378231  CAGACTCTGGAGAGCGCGTTCAGGGTTTCCTGCGTCTGGTACTATCAGGAGCTTGCCCGC  1378172
+
+Query  522      CAAGTGGGGGAAGAAACTTATCGACGCTATCTTGCGCTTGCAAAGTATGG--TGCTCTGA  579
+                |   | || |  || || |||||||||||||| | |    |    |||||   ||| |||
+Sbjct  1378171  CGGATCGGAGCTGATACGTATCGACGCTATCTCGGGGAATCGTGTTATGGAAAGCT-TGA  1378113
+
+Query  580      -GCAAGGTGGCAGACAGTACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCAGTC  638
+                 | |  ||   |  ||  || || || ||||| |||||     ||  |||||||||  | 
+Sbjct  1378112  CGAACCGTTCGATGCA--ACGACATTCTGGCTCGATGGTTCTCTTCAGGTCAGCGCGATG  1378055
+
+Query  639      GAGCAAGTGGCTCTGTTGaaaaaaaTCTATCTGCGAGAACTTCCGTTTCGCGATGACGCC  698
+                ||||| |||  | |  |    ||  ||| ||| |||  | | |||||  |||||  | ||
+Sbjct  1378054  GAGCAGGTGAGTTTTCTCCGGAAGGTCTGTCTTCGATCATTGCCGTTCAGCGATACCACC  1377995
+
+Query  699      TACGACGCTTTAAAGCGGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTAC--G  756
+                || ||  |||| | |  | | ||||| || ||  | ||   |||    | ||  | |  |
+Sbjct  1377994  TATGAGTCTTTGAGGGAGATCATGCTTGCCGAAAAAAC--GCAGGATTATGCACTGCGTG  1377937
+
+Query  757      CAAAGACTGGTTGGGCAGGAAGAATG--AACCCTCAAATTGGGTGGTACGTTGGATATGT  814
+                | || || || ||||||  | || ||  | ||||    |||| ||||| || || |||||
+Sbjct  1377936  CGAAAACGGGCTGGGCA--ACGAGTGCAACCCCTGCGGTTGGATGGTATGTCGGTTATGT  1377879
+
+Query  815      TGAAACATCCGATGATGTATGGTTTTTTGC  844
+                |||||| || |  ||| |||||||||||||
+Sbjct  1377878  TGAAACGTCTGCGGATATATGGTTTTTTGC  1377849
+
+
+
+
+>Dechloromonas denitrificans strain 110 chromosome, complete genome
+Sequence ID: CP075185.1 Length: 4619274
+Range 1: 3846371 to 3846473
+
+Score:105 bits(116), Expect:1e-17, 
+Identities:85/103(83%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  1206     CCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGG  1265
+                ||||||  |  || ||||| |||||||||||||| |||||||||||||||||||||||  
+Sbjct  3846371  CCATGAGCAAGCTACCCAACTGCCCCCAGTGCAAATCCGAATTCACCTACGAAGACGGCA  3846430
+
+Query  1266     CGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                  |||||||| || || ||||||||||| || |||  ||||||
+Sbjct  3846431  ACATGTACGTCTGCCCGGAATGCGCCCACGAATGGAGCAAGGA  3846473
+
+
+
+
+>Dechloromonas denitrificans strain G6 chromosome, complete genome
+Sequence ID: CP075186.1 Length: 4580459
+Range 1: 3880239 to 3880341
+
+Score:105 bits(116), Expect:1e-17, 
+Identities:85/103(83%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  1206     CCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGG  1265
+                ||||||  |  || ||||| |||||||||||||| |||||||||||||||||||||||  
+Sbjct  3880239  CCATGAGCAAGCTACCCAACTGCCCCCAGTGCAAATCCGAATTCACCTACGAAGACGGCA  3880298
+
+Query  1266     CGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                  |||||||| || || ||||||||||| || |||  ||||||
+Sbjct  3880299  ACATGTACGTCTGCCCGGAATGCGCCCACGAATGGAGCAAGGA  3880341
+
+
+
+
+>Geobacter sp. SVR DNA, complete genome
+Sequence ID: AP024469.1 Length: 4717360
+Range 1: 2828326 to 2828423
+
+Score:101 bits(111), Expect:6e-16, 
+Identities:81/98(83%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  1205     CCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGG  1264
+                || ||||| | ||||||||| ||||||   ||||  ||||||| ||||||||||||||| 
+Sbjct  2828326  CCAATGACCAGCCTGCCCAAATGCCCCACATGCAGCTCCGAATACACCTACGAAGACGGA  2828385
+
+Query  1265     GCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGC  1302
+                |   ||||||| || |||||||||||||| ||||||||
+Sbjct  2828386  GAACTGTACGTCTGCCCCGAATGCGCCCACGAGTGGGC  2828423
+
+
+
+
+>Chlorobaculum parvum NCIB 8327, complete genome
+Sequence ID: CP001099.1 Length: 2289249
+Range 1: 610396 to 610823
+
+Score:97.8 bits(107), Expect:8e-15, 
+Identities:285/432(66%),  Gaps:8/432(1%), Strand: Plus/Minus
+
+Query  419     ATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGACCAAACACTTGAAAGCGC  478
+               |||||| ||| | |   ||||||| || || ||||| | ||| || ||  | ||||||||
+Sbjct  610823  ATGGGACGGACACATATATGACTTTCCTGATTGGAATCATGATCAGACGTTAGAAAGCGC  610764
+
+Query  479     ATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCCAAGCAAGTGGGGGAAGAAAC  538
+               |||||||||||| || || ||||| | ||||||| | ||    | ||| || | ||||| 
+Sbjct  610763  ATTCAAAGTTTCATGTGTATGGTGTTTTCAGGAACTTGCGCGCCGAGTCGGCGCAGAAAA  610704
+
+Query  539     TTATCGACGCTATCTTGCGCTTG-CAAAGTATGGTGCTCTGAG-CAAGGTGGCAGACAGT  596
+                |||||| | ||| || |||  | |    || || |   |  |  ||  |  | |||   
+Sbjct  610703  ATATCGAAGTTAT-TTACGCAAGACTGCTTACGGGGAATTACGTGAACCTTTC-GACGAA  610646
+
+Query  597     ACAACCTTTTGGCTTGATGGCAGCTTTACGGTCAGCGCAGTCGAGCAAGTGGCTCTGTTG  656
+               ||||| || |||||||| |||    ||    | |||||| | ||||| ||   | |  | 
+Sbjct  610645  ACAACATTCTGGCTTGACGGCTCTCTTCAAATTAGCGCAATTGAGCAGGTAAATTTCCTC  610586
+
+Query  657     aaaaaaaTCTATCTGCGAGAACTTCCGTTTCGCGATGACGCCTACG--ACGCTTTAAAGC  714
+               |||||| | ||||||||   ||| || ||| ||  | || | ||||  |||||   |  |
+Sbjct  610585  AAAAAAGTATATCTGCGGACACTCCCATTTAGCACTCACTCTTACGAAACGCTGCGA--C  610528
+
+Query  715     GGGTGATGCTGGCAGAGCAGACTGACAGCTACAAGCTTTACGCAAAGACTGGTTGGGCAG  774
+                 || ||||| |  ||||| |||      || | | | |  || || || || |||||| 
+Sbjct  610527  AAGTCATGCTTGTGGAGCAAACTCCGTCGTATACGATGTGGGCCAAAACAGGCTGGGCAA  610468
+
+Query  775     GAAGAATGAACCCTCAAATTGGGTGGTACGTTGGATATGTTGAAACATCCGATGATGTAT  834
+                 ||| | || || ||| | || ||||| || || ||| | |||||| |  | ||||| |
+Sbjct  610467  CGAGAGTAAATCCACAAGTGGGCTGGTATGTGGGCTATATCGAAACACCAAAGGATGTTT  610408
+
+Query  835     GGTTTTTTGCCA  846
+               |||| |||||||
+Sbjct  610407  GGTTCTTTGCCA  610396
+
+
+
+
+Range 2: 1068443 to 1068526
+
+Score:71.6 bits(78), Expect:3e-07, 
+Identities:66/84(79%),  Gaps:0/84(0%), Strand: Plus/Plus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||| || |||||| | ||||||||||||| |||||||||  ||||  || ||   || 
+Sbjct  1068443  CTGCCAAACTGCCCCAAATGCAATTCCGAATACACCTACGAGAACGGCACGTTGCTGGTA  1068502
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGG  1300
+                || ||||| || |||||||| |||
+Sbjct  1068503  TGCCCCGAGTGTGCCCATGAATGG  1068526
+
+
+
+
+>Azoarcus sp. DD4 chromosome, complete genome
+Sequence ID: CP022958.1 Length: 5400077
+Range 1: 1741927 to 1742027
+
+Score:97.8 bits(107), Expect:8e-15, 
+Identities:82/101(81%),  Gaps:0/101(0%), Strand: Plus/Plus
+
+Query  1207     CATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGC  1266
+                |||||  | |||||||||||| |||||||||| |||||||| |||||| || ||||| | 
+Sbjct  1741927  CATGAGCAGCCTGCCCAAGTGTCCCCAGTGCAGTTCCGAATACACCTATGAGGACGGCGA  1741986
+
+Query  1267     GATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAGG  1307
+                 |  ||||| || ||||| |||||||| || ||| ||||||
+Sbjct  1741987  CAACTACGTCTGCCCCGAGTGCGCCCACGAATGGCCCAAGG  1742027
+
+
+
+
+>Herbaspirillum hiltneri N3, complete genome
+Sequence ID: CP011409.1 Length: 4965474
+Range 1: 4278503 to 4278600
+
+Score:96.9 bits(106), Expect:8e-15, 
+Identities:80/98(82%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  1207     CATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGC  1266
+                |||||  | | |||||   || || || ||| | ||||||||||||||||||||||| ||
+Sbjct  4278600  CATGAGCACCTTGCCCCCCTGTCCGCAATGCCAGTCCGAATTCACCTACGAAGACGGCGC  4278541
+
+Query  1267     GATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCA  1304
+                  |||| ||||| ||||||||||||||||||||| |||
+Sbjct  4278540  CCTGTATGTTTGCCCCGAATGCGCCCATGAGTGGCCCA  4278503
+
+
+
+
+>Caballeronia sp. TF1N1 chromosome 3a
+Sequence ID: CP084628.1 Length: 1196112
+Range 1: 625042 to 625143
+
+Score:96.0 bits(105), Expect:3e-14, 
+Identities:84/104(81%),  Gaps:2/104(1%), Strand: Plus/Plus
+
+Query  1197    GGACCATCCCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACG  1256
+               |||||  || ||||||   |||||||  ||||||||| ||| ||||||||||||||||||
+Sbjct  625042  GGACC--CCGCATGACCGCCCTGCCCCCGTGCCCCCAATGCCATTCCGAATTCACCTACG  625099
+
+Query  1257    AAGACGGGGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGG  1300
+               |||||||   | | | | |||| ||||||||||| ||||| |||
+Sbjct  625100  AAGACGGCAAGCTCTTCATTTGCCCCGAATGCGCGCATGAATGG  625143
+
+
+
+
+>Rhodoferax sp. BAB1 chromosome, complete genome
+Sequence ID: CP054424.1 Length: 3820375
+Range 1: 2676945 to 2677029
+
+Score:96.0 bits(105), Expect:3e-14, 
+Identities:72/85(85%),  Gaps:0/85(0%), Strand: Plus/Plus
+
+Query  1226     TGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTTGTCCCGAA  1285
+                |||||||||||| ||||||| | ||||||||||||||| |  |  ||||| || || |||
+Sbjct  2676945  TGCCCCCAGTGCCATTCCGAGTACACCTACGAAGACGGCGACAACTACGTCTGCCCTGAA  2677004
+
+Query  1286     TGCGCCCATGAGTGGGCCAAGGAGG  1310
+                ||||||||||||||| |||||| ||
+Sbjct  2677005  TGCGCCCATGAGTGGCCCAAGGTGG  2677029
+
+
+
+
+>Thiobacillus sedimenti strain SCUT-2 chromosome, complete genome
+Sequence ID: CP141769.1 Length: 3010981
+Range 1: 2241112 to 2241203
+
+Score:95.1 bits(104), Expect:3e-14, 
+Identities:76/92(83%),  Gaps:0/92(0%), Strand: Plus/Minus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                |||||||| ||||||||||||  ||| |||||||| ||||| ||||| || |||||||| 
+Sbjct  2241203  CTGCCCAAATGCCCCCAGTGCGGTTCGGAATTCACGTACGAGGACGGTGCCATGTACGTG  2241144
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                || || |||||||| || || ||| | |||||
+Sbjct  2241143  TGCCCGGAATGCGCGCACGAATGGTCGAAGGA  2241112
+
+
+
+
+>Azonexus hydrophilus strain NCP973 chromosome, complete genome
+Sequence ID: CP151406.1 Length: 3423569
+Range 1: 898751 to 898853
+
+Score:95.1 bits(104), Expect:3e-14, 
+Identities:85/105(81%),  Gaps:4/105(3%), Strand: Plus/Minus
+
+Query  1206    CCATGA--CAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGG  1263
+               ||||||  ||||  ||||||| |||||||| ||||| ||||  ||||||||||| |||||
+Sbjct  898853  CCATGAGCCAAT--TGCCCAACTGCCCCCAATGCAACTCCGCCTTCACCTACGAGGACGG  898796
+
+Query  1264    GGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                 || | ||| | || |||||||||||||| ||||||  ||||||
+Sbjct  898795  CCCGCTCTACATCTGCCCCGAATGCGCCCACGAGTGGAGCAAGGA  898751
+
+
+
+
+>Thauera sp. JM12B12 chromosome, complete genome
+Sequence ID: CP154859.1 Length: 4171389
+Range 1: 2043325 to 2043413
+
+Score:94.2 bits(103), Expect:9e-14, 
+Identities:74/89(83%),  Gaps:0/89(0%), Strand: Plus/Plus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                ||| |||||||||||| | |||| |||||||| |||||| |||||||| | ||||| |||
+Sbjct  2043325  CCTCCCCAAGTGCCCCGAATGCAGTTCCGAATACACCTATGAAGACGGCGAGATGTTCGT  2043384
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCA  1304
+                 || ||||| ||||| || |||||| |||
+Sbjct  2043385  CTGCCCCGAGTGCGCGCACGAGTGGCCCA  2043413
+
+
+
+
+>Castellaniella ginsengisoli strain 153920 chromosome
+Sequence ID: CP158252.1 Length: 3014423
+Range 1: 198936 to 199017
+
+Score:94.2 bits(103), Expect:9e-14, 
+Identities:72/83(87%),  Gaps:2/83(2%), Strand: Plus/Plus
+
+Query  1226    TGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGG-GGCGATGTACGTTTGTCCCGA  1284
+               |||||||||||||||||||||| ||||||||||||||| ||| |  | ||| || |||||
+Sbjct  198936  TGCCCCCAGTGCAATTCCGAATACACCTACGAAGACGGCGGCCA-CTTCGTCTGCCCCGA  198994
+
+Query  1285    ATGCGCCCATGAGTGGGCCAAGG  1307
+               ||||||||| |||||| || |||
+Sbjct  198995  ATGCGCCCACGAGTGGTCCCAGG  199017
+
+
+
+
+>Sulfurimicrobium lacus skT11 DNA, complete genome
+Sequence ID: AP022853.1 Length: 3826324
+Range 1: 1036016 to 1036096
+
+Score:93.3 bits(102), Expect:9e-14, 
+Identities:69/81(85%),  Gaps:0/81(0%), Strand: Plus/Plus
+
+Query  1220     CCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTTGT  1279
+                |||||||| ||| ||||||| ||||||| |||||| |||||||| |  |||||| | || 
+Sbjct  1036016  CCCAAGTGTCCCAAGTGCAACTCCGAATACACCTATGAAGACGGCGGCATGTACATCTGC  1036075
+
+Query  1280     CCCGAATGCGCCCATGAGTGG  1300
+                || ||||||||||||||||||
+Sbjct  1036076  CCGGAATGCGCCCATGAGTGG  1036096
+
+
+
+
+>MAG: Thiobacillus sp. isolate SSC5 chromosome, complete genome
+Sequence ID: CP059257.1 Length: 3548924
+Range 1: 3265412 to 3265502
+
+Score:93.3 bits(102), Expect:9e-14, 
+Identities:75/91(82%),  Gaps:0/91(0%), Strand: Plus/Plus
+
+Query  1218     TGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTT  1277
+                ||||||||||||  ||||||  |||||| |||||||| |||||||| ||||||||||| |
+Sbjct  3265412  TGCCCAAGTGCCTGCAGTGCGGTTCCGAGTTCACCTATGAAGACGGTGCGATGTACGTGT  3265471
+
+Query  1278     GTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                | || ||||| || || || ||| | |||||
+Sbjct  3265472  GCCCGGAATGTGCGCACGAATGGTCGAAGGA  3265502
+
+
+
+
+>Geomonas subterranea strain RG2 chromosome, complete genome
+Sequence ID: CP077683.1 Length: 4991523
+Range 1: 2198352 to 2198452
+
+Score:93.3 bits(102), Expect:9e-14, 
+Identities:81/101(80%),  Gaps:0/101(0%), Strand: Plus/Minus
+
+Query  1207     CATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGC  1266
+                |||||||| ||| ||||| ||||||   |||| ||| |||| ||||||||||||||| ||
+Sbjct  2198452  CATGACAACCCTCCCCAAATGCCCCTCCTGCAGTTCTGAATACACCTACGAAGACGGCGC  2198393
+
+Query  1267     GATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAGG  1307
+                | | ||||| || ||||| |||| | | |||||| || |||
+Sbjct  2198392  GCTTTACGTCTGCCCCGAGTGCGGCAACGAGTGGCCCCAGG  2198352
+
+
+
+
+>Geomonas subterranea strain RG3 chromosome, complete genome
+Sequence ID: CP078096.1 Length: 4991984
+Range 1: 4529200 to 4529300
+
+Score:93.3 bits(102), Expect:9e-14, 
+Identities:81/101(80%),  Gaps:0/101(0%), Strand: Plus/Plus
+
+Query  1207     CATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGC  1266
+                |||||||| ||| ||||| ||||||   |||| ||| |||| ||||||||||||||| ||
+Sbjct  4529200  CATGACAACCCTCCCCAAATGCCCCTCCTGCAGTTCTGAATACACCTACGAAGACGGCGC  4529259
+
+Query  1267     GATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAGG  1307
+                | | ||||| || ||||| |||| | | |||||| || |||
+Sbjct  4529260  GCTTTACGTCTGCCCCGAGTGCGGCAACGAGTGGCCCCAGG  4529300
+
+
+
+
+>Thauera chlorobenzoica strain 3CB1 chromosome, complete genome
+Sequence ID: CP018839.1 Length: 3735506
+Range 1: 2563281 to 2563363
+
+Score:92.4 bits(101), Expect:3e-13, 
+Identities:70/83(84%),  Gaps:0/83(0%), Strand: Plus/Plus
+
+Query  1218     TGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTT  1277
+                |||| || ||||||  ||||| |||||||| ||||||||| ||||| ||||||||||| |
+Sbjct  2563281  TGCCGAAATGCCCCGCGTGCAGTTCCGAATACACCTACGAGGACGGCGCGATGTACGTCT  2563340
+
+Query  1278     GTCCCGAATGCGCCCATGAGTGG  1300
+                | ||||||||||| || || |||
+Sbjct  2563341  GCCCCGAATGCGCGCACGAATGG  2563363
+
+
+
+
+>Paucibacter sediminis strain S2-9 chromosome, complete genome
+Sequence ID: CP116346.1 Length: 5324202
+Range 1: 890 to 992
+
+Score:92.4 bits(101), Expect:3e-13, 
+Identities:82/103(80%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  1208  ATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCG  1267
+             ||||| | ||||||||| |||||||||||| | || ||| |||||||||| |||||  | 
+Sbjct  890   ATGACCAGCCTGCCCAACTGCCCCCAGTGCCACTCGGAACTCACCTACGAGGACGGCACC  949
+
+Query  1268  ATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAGGAGG  1310
+               || | | || || ||||||| |||||||||| ||||| |||
+Sbjct  950   CAGTTCATCTGCCCGGAATGCGGCCATGAGTGGTCCAAGCAGG  992
+
+
+
+
+>Sulfuriferula sp. AH1 chromosome, complete genome
+Sequence ID: CP021138.1 Length: 2877007
+Range 1: 1918225 to 1918327
+
+Score:92.4 bits(101), Expect:3e-13, 
+Identities:82/103(80%),  Gaps:0/103(0%), Strand: Plus/Minus
+
+Query  1206     CCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGG  1265
+                ||||||  | | |||| || |||||  | ||||||||||||| ||| |||||||||||  
+Sbjct  1918327  CCATGAATAACTTGCCGAAATGCCCAAAATGCAATTCCGAATACACTTACGAAGACGGCA  1918268
+
+Query  1266     CGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                  ||||| ||||| || |||||||| ||||||||| | |||||
+Sbjct  1918267  ATATGTATGTTTGCCCGGAATGCGCGCATGAGTGGTCGAAGGA  1918225
+
+
+
+
+>Thauera aromatica K172 chromosome, complete genome
+Sequence ID: CP028339.1 Length: 3658031
+Range 1: 1623502 to 1623584
+
+Score:92.4 bits(101), Expect:3e-13, 
+Identities:70/83(84%),  Gaps:0/83(0%), Strand: Plus/Plus
+
+Query  1218     TGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTT  1277
+                |||| || ||||||  ||||| |||||||| ||||||||| ||||| ||||||||||| |
+Sbjct  1623502  TGCCGAAATGCCCCGCGTGCAGTTCCGAATACACCTACGAGGACGGCGCGATGTACGTCT  1623561
+
+Query  1278     GTCCCGAATGCGCCCATGAGTGG  1300
+                | ||||||||||| || || |||
+Sbjct  1623562  GCCCCGAATGCGCGCACGAATGG  1623584
+
+
+
+
+>Metapseudomonas otitidis strain BC12 chromosome, complete genome
+Sequence ID: CP102328.1 Length: 6113211
+Range 1: 845732 to 845831
+
+Score:91.5 bits(100), Expect:3e-13, 
+Identities:80/100(80%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1204    CCCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGG  1263
+               |||| |||  | ||||||    |||||| ||||||||||||||| |||||||||||||||
+Sbjct  845831  CCCCGTGAGCAACCTGCCACCCTGCCCCAAGTGCAATTCCGAATACACCTACGAAGACGG  845772
+
+Query  1264    GGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                ||| ||    | || |||||||||||||| |||||| ||
+Sbjct  845771  CGCGCTGCTGATCTGCCCCGAATGCGCCCACGAGTGGTCC  845732
+
+
+
+
+>Thauera sp. K11 chromosome, complete genome
+Sequence ID: CP023439.1 Length: 5150567
+Range 1: 858269 to 858355
+
+Score:90.6 bits(99), Expect:1e-12, 
+Identities:72/87(83%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217    CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+               ||||||||||| || || ||||||||||||| ||||||||| ||||| | |   ||||| 
+Sbjct  858269  CTGCCCAAGTGTCCGCAATGCAATTCCGAATACACCTACGAGGACGGCGAGTCCTACGTC  858328
+
+Query  1277    TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+               |||||||| ||||| || |||||| ||
+Sbjct  858329  TGTCCCGAGTGCGCGCACGAGTGGCCC  858355
+
+
+
+
+>Sulfuriferula sp. HF6a chromosome, complete genome
+Sequence ID: CP170193.1 Length: 3261505
+Range 1: 2454426 to 2454516
+
+Score:88.7 bits(97), Expect:4e-12, 
+Identities:74/91(81%),  Gaps:0/91(0%), Strand: Plus/Minus
+
+Query  1218     TGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTT  1277
+                |||| || || ||  | |||||||| |||||||||||||||||||| |||||||| || |
+Sbjct  2454516  TGCCGAAATGTCCGAAATGCAATTCAGAATTCACCTACGAAGACGGCGCGATGTATGTCT  2454457
+
+Query  1278     GTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                | || |||||||| ||||| ||| | || ||
+Sbjct  2454456  GCCCGGAATGCGCGCATGAATGGTCGAAAGA  2454426
+
+
+
+
+>Dechloromonas denitrificans strain 98 chromosome, complete genome
+Sequence ID: CP075187.1 Length: 3457400
+Range 1: 628030 to 628135
+
+Score:88.7 bits(97), Expect:4e-12, 
+Identities:83/106(78%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  1206    CCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGG  1265
+               ||||||  | | ||||||| |||||||| ||||  ||||||| |||||||||| | ||  
+Sbjct  628135  CCATGAGCAGCTTGCCCAAATGCCCCCAATGCACGTCCGAATACACCTACGAACAGGGAA  628076
+
+Query  1266    CGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAGGAGGG  1311
+                 ||||| ||||| |||||||||||||| || |||  | |||| ||
+Sbjct  628075  ACATGTATGTTTGCCCCGAATGCGCCCACGAATGGAGCCAGGACGG  628030
+
+
+
+
+>Sulfuriferula sp. GW1 chromosome, complete genome
+Sequence ID: CP170197.1 Length: 3363341
+Range 1: 2531321 to 2531411
+
+Score:88.7 bits(97), Expect:4e-12, 
+Identities:74/91(81%),  Gaps:0/91(0%), Strand: Plus/Minus
+
+Query  1218     TGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTT  1277
+                |||| || || ||  | |||||||| |||||||||||||||||||| |||||||| || |
+Sbjct  2531411  TGCCGAAATGTCCGAAATGCAATTCAGAATTCACCTACGAAGACGGCGCGATGTATGTCT  2531352
+
+Query  1278     GTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                | || |||||||| ||||| ||| | || ||
+Sbjct  2531351  GCCCGGAATGCGCGCATGAATGGTCGAAAGA  2531321
+
+
+
+
+>Metapseudomonas lalkuanensis strain ACYW.190 chromosome, complete genome
+Sequence ID: CP084625.1 Length: 5837226
+Range 1: 5035510 to 5035610
+
+Score:88.7 bits(97), Expect:4e-12, 
+Identities:80/101(79%),  Gaps:0/101(0%), Strand: Plus/Plus
+
+Query  1203     TCCCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACG  1262
+                |||||||||  | ||||||    |||||| | ||||| ||||||| ||||||||||||||
+Sbjct  5035510  TCCCCATGAGCACCCTGCCGCCCTGCCCCAAATGCAACTCCGAATACACCTACGAAGACG  5035569
+
+Query  1263     GGGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                | ||||||    | || ||||| |||||||| |||||| ||
+Sbjct  5035570  GCGCGATGCTGATCTGCCCCGAGTGCGCCCACGAGTGGTCC  5035610
+
+
+
+
+>Metapseudomonas lalkuanensis strain PE08 chromosome, complete genome
+Sequence ID: CP043311.1 Length: 6056953
+Range 1: 5294756 to 5294856
+
+Score:88.7 bits(97), Expect:4e-12, 
+Identities:80/101(79%),  Gaps:0/101(0%), Strand: Plus/Plus
+
+Query  1203     TCCCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACG  1262
+                |||||||||  | ||||||    |||||| | ||||| ||||||| ||||||||||||||
+Sbjct  5294756  TCCCCATGAGCACCCTGCCGCCCTGCCCCAAATGCAACTCCGAATACACCTACGAAGACG  5294815
+
+Query  1263     GGGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                | ||||||    | || ||||| |||||||| |||||| ||
+Sbjct  5294816  GCGCGATGCTGATCTGCCCCGAGTGCGCCCACGAGTGGTCC  5294856
+
+
+
+
+>Halomonas beimenensis strain NTU-111 chromosome, complete genome
+Sequence ID: CP021435.1 Length: 4053030
+Range 1: 1025408 to 1025500
+
+Score:87.8 bits(96), Expect:4e-12, 
+Identities:75/93(81%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1218     TGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTT  1277
+                ||||| |||||||| | |||   |||| |||||||||||| |||||   |  || ||| |
+Sbjct  1025408  TGCCCCAGTGCCCCGAATGCGCCTCCGGATTCACCTACGATGACGGCCTGCAGTTCGTCT  1025467
+
+Query  1278     GTCCCGAATGCGCCCATGAGTGGGCCAAGGAGG  1310
+                |||||||||||| |||||||||| | |||||||
+Sbjct  1025468  GTCCCGAATGCGGCCATGAGTGGTCGAAGGAGG  1025500
+
+
+
+
+>Cobetia amphilecti strain MC13-5 chromosome
+Sequence ID: CP073342.1 Length: 4341109
+Range 1: 3565056 to 3565148
+
+Score:87.8 bits(96), Expect:4e-12, 
+Identities:75/93(81%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                ||| || || |||||    ||||||||||||||||||||||| |||||   |  ||||||
+Sbjct  3565148  CCTCCCGAACTGCCCGGCCTGCAATTCCGAATTCACCTACGACGACGGCATGCAGTACGT  3565089
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                 || || ||||| |||||||||||| |||||||
+Sbjct  3565088  CTGCCCTGAATGTGCCCATGAGTGGTCCAAGGA  3565056
+
+
+
+
+>Cobetia sp. 4B chromosome, complete genome
+Sequence ID: CP059843.1 Length: 4319205
+Range 1: 3139810 to 3139902
+
+Score:87.8 bits(96), Expect:4e-12, 
+Identities:75/93(81%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                ||| || || |||||    ||||||||||||||||||||||| |||||   |  ||||||
+Sbjct  3139810  CCTCCCGAACTGCCCGGCCTGCAATTCCGAATTCACCTACGATGACGGCATGCAGTACGT  3139869
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                 || || ||||| |||||||||||| |||||||
+Sbjct  3139870  CTGCCCTGAATGTGCCCATGAGTGGTCCAAGGA  3139902
+
+
+
+
+>Cobetia sp. AM6 DNA, complete genome
+Sequence ID: AP021868.1 Length: 4229996
+Range 1: 3042442 to 3042534
+
+Score:87.8 bits(96), Expect:4e-12, 
+Identities:75/93(81%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                ||| || || |||||    ||||||||||||||||||||||| |||||   |  ||||||
+Sbjct  3042442  CCTCCCGAACTGCCCGGCCTGCAATTCCGAATTCACCTACGACGACGGCATGCAGTACGT  3042501
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                 || || ||||| |||||||||||| |||||||
+Sbjct  3042502  CTGCCCTGAATGTGCCCATGAGTGGTCCAAGGA  3042534
+
+
+
+
+>MAG: Dechloromonas sp. isolate SSB2 chromosome
+Sequence ID: CP054864.1 Length: 3452223
+Range 1: 2221784 to 2221876
+
+Score:87.8 bits(96), Expect:4e-12, 
+Identities:75/93(81%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                ||||||||| || || || |||| ||| |||| |||||||||||||||    ||||||||
+Sbjct  2221784  CCTGCCCAAATGTCCGCAATGCAGTTCGGAATACACCTACGAAGACGGCAGCATGTACGT  2221843
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                 || ||||||||||| || || |||  ||||||
+Sbjct  2221844  ATGCCCCGAATGCGCGCACGAATGGAGCAAGGA  2221876
+
+
+
+
+>Cobetia amphilecti strain N-80 chromosome, complete genome
+Sequence ID: CP084115.1 Length: 4160095
+Range 1: 2998828 to 2998920
+
+Score:87.8 bits(96), Expect:4e-12, 
+Identities:75/93(81%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                ||| || || |||||    ||||||||||||||||||||||| |||||   |  ||||||
+Sbjct  2998828  CCTCCCGAACTGCCCGGCCTGCAATTCCGAATTCACCTACGACGACGGCATGCAGTACGT  2998887
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                 || || ||||| |||||||||||| |||||||
+Sbjct  2998888  CTGCCCTGAATGTGCCCATGAGTGGTCCAAGGA  2998920
+
+
+
+
+>Aquitalea aquatilis strain THG-DN7.12 chromosome, complete genome
+Sequence ID: CP039731.1 Length: 4359891
+Range 1: 3447300 to 3447382
+
+Score:87.8 bits(96), Expect:4e-12, 
+Identities:69/83(83%),  Gaps:0/83(0%), Strand: Plus/Minus
+
+Query  1218     TGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTT  1277
+                ||||||| || |||||||||  |||| ||||||||||||||||||| || |||   ||||
+Sbjct  3447382  TGCCCAATTGTCCCCAGTGCGGTTCCCAATTCACCTACGAAGACGGTGCCATGCTGGTTT  3447323
+
+Query  1278     GTCCCGAATGCGCCCATGAGTGG  1300
+                | || ||||| ||||| ||||||
+Sbjct  3447322  GCCCGGAATGTGCCCACGAGTGG  3447300
+
+
+
+
+>Cobetia sp. UIB-001 chromosome, complete genome
+Sequence ID: CP058244.1 Length: 4177640
+Range 1: 2994579 to 2994671
+
+Score:87.8 bits(96), Expect:4e-12, 
+Identities:75/93(81%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                ||| || || |||||    ||||||||||||||||||||||| |||||   |  ||||||
+Sbjct  2994579  CCTCCCGAACTGCCCGGCCTGCAATTCCGAATTCACCTACGACGACGGCATGCAGTACGT  2994638
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                 || || ||||| |||||||||||| |||||||
+Sbjct  2994639  CTGCCCTGAATGTGCCCATGAGTGGTCCAAGGA  2994671
+
+
+
+
+>Pseudomonas otitidis DNA, complete genome, strain: WP8-S17-CRE-03
+Sequence ID: AP022213.1 Length: 6198093
+Range 1: 835956 to 836055
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:79/100(79%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1204    CCCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGG  1263
+               |||| |||  | ||||||    |||||| ||||||||||||||| |||||||||||||||
+Sbjct  836055  CCCCGTGAGCAACCTGCCACCCTGCCCCAAGTGCAATTCCGAATACACCTACGAAGACGG  835996
+
+Query  1264    GGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                ||| ||    | || |||||||||||||| || ||| ||
+Sbjct  835995  CGCGCTGCTGATCTGCCCCGAATGCGCCCACGAATGGTCC  835956
+
+
+
+
+>Geobacter sulfurreducens PCA, complete genome
+Sequence ID: AE017180.2 Length: 3814128
+Range 1: 3783832 to 3783906
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:64/75(85%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  1226     TGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTTGTCCCGAA  1285
+                ||||| || |||| ||| |||| |||||| ||||||||| | |||||||| || || |||
+Sbjct  3783906  TGCCCACAATGCAGTTCGGAATACACCTATGAAGACGGGACCATGTACGTCTGCCCGGAA  3783847
+
+Query  1286     TGCGCCCATGAGTGG  1300
+                |||||||||||||||
+Sbjct  3783846  TGCGCCCATGAGTGG  3783832
+
+
+
+
+>Geobacter sulfurreducens KN400, complete genome
+Sequence ID: CP002031.1 Length: 3714272
+Range 1: 3683975 to 3684049
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:64/75(85%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  1226     TGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTTGTCCCGAA  1285
+                ||||| || |||| ||| |||| |||||| ||||||||| | |||||||| || || |||
+Sbjct  3684049  TGCCCACAATGCAGTTCGGAATACACCTATGAAGACGGGACCATGTACGTCTGCCCGGAA  3683990
+
+Query  1286     TGCGCCCATGAGTGG  1300
+                |||||||||||||||
+Sbjct  3683989  TGCGCCCATGAGTGG  3683975
+
+
+
+
+>Ectopseudomonas khazarica strain ODT-83 chromosome, complete genome
+Sequence ID: CP068551.1 Length: 5384159
+Range 1: 1190189 to 1190284
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:79/98(81%),  Gaps:4/98(4%), Strand: Plus/Minus
+
+Query  1205     CCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGG  1264
+                ||| ||||   ||||||    |||||| ||||||| ||||||| ||||||||||||||| 
+Sbjct  1190284  CCCTTGACCGCCCTGCCACCCTGCCCCAAGTGCAACTCCGAATACACCTACGAAGACGG-  1190226
+
+Query  1265     GCGAT--GTACGTTTGTCCCGAATGCGCCCATGAGTGG  1300
+                 ||||  ||  || || |||||||||||||||||||||
+Sbjct  1190225  -CGATCAGTTGGTCTGCCCCGAATGCGCCCATGAGTGG  1190189
+
+
+
+
+>Metapseudomonas otitidis strain CSMC7.1 chromosome, complete genome
+Sequence ID: CP082244.1 Length: 6202375
+Range 1: 833815 to 833914
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:79/100(79%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1204    CCCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGG  1263
+               |||| |||  | ||||||    |||||| ||||||||||||||| |||||||||||||||
+Sbjct  833914  CCCCGTGAGCAACCTGCCACCCTGCCCCAAGTGCAATTCCGAATACACCTACGAAGACGG  833855
+
+Query  1264    GGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                ||| ||    | || |||||||||||||| || ||| ||
+Sbjct  833854  CGCGCTGCTGATCTGCCCCGAATGCGCCCACGAATGGTCC  833815
+
+
+
+
+>Metapseudomonas otitidis strain 149 chromosome
+Sequence ID: CP133395.1 Length: 5912545
+Range 1: 4779589 to 4779688
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:79/100(79%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1204     CCCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGG  1263
+                |||| |||  | ||||||    |||||| ||||||||||||||| |||||||||||||||
+Sbjct  4779589  CCCCGTGAGCAACCTGCCACCCTGCCCCAAGTGCAATTCCGAATACACCTACGAAGACGG  4779648
+
+Query  1264     GGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                 ||| ||    | || |||||||||||||| || ||| ||
+Sbjct  4779649  CGCGCTGCTGATCTGCCCCGAATGCGCCCACGAATGGTCC  4779688
+
+
+
+
+>Methylococcus sp. EFPC2 chromosome, complete genome
+Sequence ID: CP070491.1 Length: 4443394
+Range 1: 2885208 to 2885304
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:78/97(80%),  Gaps:1/97(1%), Strand: Plus/Plus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                |||||||| ||||| || ||||||||||||||||||||||||||||| |   | ||| | 
+Sbjct  2885208  CTGCCCAAATGCCCGCAATGCAATTCCGAATTCACCTACGAAGACGGCGACCTCTACATC  2885267
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGC-CAAGGAGGGG  1312
+                || ||||| ||| | || || |||||  |||||| ||
+Sbjct  2885268  TGCCCCGAGTGCTCGCACGAATGGGCGAAAGGAGCGG  2885304
+
+
+
+
+>Metapseudomonas otitidis strain TL17 chromosome, complete genome
+Sequence ID: CP126342.1 Length: 6062106
+Range 1: 858266 to 858365
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:79/100(79%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1204    CCCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGG  1263
+               |||| |||  | ||||||    |||||| ||||||||||||||| |||||||||||||||
+Sbjct  858365  CCCCGTGAGCAACCTGCCACCCTGCCCCAAGTGCAATTCCGAATACACCTACGAAGACGG  858306
+
+Query  1264    GGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                ||| ||    | || |||||||||||||| || ||| ||
+Sbjct  858305  CGCGCTGCTGATCTGCCCCGAATGCGCCCACGAATGGTCC  858266
+
+
+
+
+>Geobacter sulfurreducens strain YM35 chromosome, complete genome
+Sequence ID: CP074693.1 Length: 3745223
+Range 1: 3714926 to 3715000
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:64/75(85%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  1226     TGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTTGTCCCGAA  1285
+                ||||| || |||| ||| |||| |||||| ||||||||| | |||||||| || || |||
+Sbjct  3715000  TGCCCACAATGCAGTTCGGAATACACCTATGAAGACGGGACCATGTACGTCTGCCCGGAA  3714941
+
+Query  1286     TGCGCCCATGAGTGG  1300
+                |||||||||||||||
+Sbjct  3714940  TGCGCCCATGAGTGG  3714926
+
+
+
+
+>Pseudomonas otitidis MrB4 DNA, complete genome
+Sequence ID: AP022642.1 Length: 6089454
+Range 1: 870233 to 870332
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:79/100(79%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1204    CCCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGG  1263
+               |||| |||  | ||||||    |||||| ||||||||||||||| |||||||||||||||
+Sbjct  870332  CCCCGTGAGCAACCTGCCACCCTGCCCCAAGTGCAATTCCGAATACACCTACGAAGACGG  870273
+
+Query  1264    GGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                ||| ||    | || |||||||||||||| || ||| ||
+Sbjct  870272  CGCGCTGCTGATCTGCCCCGAATGCGCCCACGAATGGTCC  870233
+
+
+
+
+>Geobacter sulfurreducens strain PL chromosome, complete genome
+Sequence ID: CP072789.1 Length: 3783299
+Range 1: 3752973 to 3753047
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:64/75(85%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  1226     TGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTTGTCCCGAA  1285
+                ||||| || |||| ||| |||| |||||| ||||||||| | |||||||| || || |||
+Sbjct  3753047  TGCCCACAATGCAGTTCGGAATACACCTATGAAGACGGGACCATGTACGTCTGCCCGGAA  3752988
+
+Query  1286     TGCGCCCATGAGTGG  1300
+                |||||||||||||||
+Sbjct  3752987  TGCGCCCATGAGTGG  3752973
+
+
+
+
+>Geobacter sp. 60473 DNA, complete genome
+Sequence ID: AP028967.1 Length: 3793644
+Range 1: 3226411 to 3226485
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:64/75(85%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  1226     TGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTTGTCCCGAA  1285
+                ||||| || |||| ||| |||| |||||| ||||||||| | |||||||| || || |||
+Sbjct  3226485  TGCCCACAATGCAGTTCGGAATACACCTATGAAGACGGGACCATGTACGTCTGCCCGGAA  3226426
+
+Query  1286     TGCGCCCATGAGTGG  1300
+                |||||||||||||||
+Sbjct  3226425  TGCGCCCATGAGTGG  3226411
+
+
+
+
+>Metapseudomonas otitidis strain Tg_9B chromosome, complete genome
+Sequence ID: CP132337.1 Length: 6050884
+Range 1: 849398 to 849497
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:79/100(79%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1204    CCCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGG  1263
+               |||| |||  | ||||||    |||||| ||||||||||||||| |||||||||||||||
+Sbjct  849497  CCCCGTGAGCAACCTGCCACCCTGCCCCAAGTGCAATTCCGAATACACCTACGAAGACGG  849438
+
+Query  1264    GGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                ||| ||    | || |||||||||||||| || ||| ||
+Sbjct  849437  CGCGCTGCTGATCTGCCCCGAATGCGCCCACGAATGGTCC  849398
+
+
+
+
+>Geobacter sulfurreducens strain PCA_v2 chromosome, complete genome
+Sequence ID: CP078092.1 Length: 3828539
+Range 1: 3798214 to 3798288
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:64/75(85%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  1226     TGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTTGTCCCGAA  1285
+                ||||| || |||| ||| |||| |||||| ||||||||| | |||||||| || || |||
+Sbjct  3798288  TGCCCACAATGCAGTTCGGAATACACCTATGAAGACGGGACCATGTACGTCTGCCCGGAA  3798229
+
+Query  1286     TGCGCCCATGAGTGG  1300
+                |||||||||||||||
+Sbjct  3798228  TGCGCCCATGAGTGG  3798214
+
+
+
+
+>Geobacter sulfurreducens strain AM-1 genome
+Sequence ID: CP010430.1 Length: 4566144
+Range 1: 1927288 to 1927362
+
+Score:86.9 bits(95), Expect:1e-11, 
+Identities:64/75(85%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  1226     TGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTTGTCCCGAA  1285
+                ||||| || |||| ||| |||| |||||| ||||||||| | |||||||| || || |||
+Sbjct  1927362  TGCCCACAATGCAGTTCGGAATACACCTATGAAGACGGGACCATGTACGTCTGCCCGGAA  1927303
+
+Query  1286     TGCGCCCATGAGTGG  1300
+                |||||||||||||||
+Sbjct  1927302  TGCGCCCATGAGTGG  1927288
+
+
+
+
+>Stutzerimonas stutzeri strain 2020WEIHUA_G chromosome, complete genome
+Sequence ID: CP062162.1 Length: 4591234
+Range 1: 3828543 to 3828629
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  3828543  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  3828602
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                |||||||||||||||||||||||| ||
+Sbjct  3828603  TGTCCCGAATGCGCCCATGAGTGGTCC  3828629
+
+
+
+
+Range 2: 2934495 to 2934557
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Plus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  2934495  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  2934553
+
+Query  506      TCAG  509
+                 |||
+Sbjct  2934554  CCAG  2934557
+
+
+
+
+>Stutzerimonas stutzeri strain J15 chromosome, complete genome
+Sequence ID: CP101739.1 Length: 4683655
+Range 1: 3912128 to 3912214
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  3912128  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  3912187
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                |||||||||||||||||||||||| ||
+Sbjct  3912188  TGTCCCGAATGCGCCCATGAGTGGTCC  3912214
+
+
+
+
+Range 2: 2990774 to 2990836
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Plus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  2990774  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  2990832
+
+Query  506      TCAG  509
+                 |||
+Sbjct  2990833  CCAG  2990836
+
+
+
+
+>Stutzerimonas stutzeri strain S116 chromosome, complete genome
+Sequence ID: CP078509.1 Length: 4440952
+Range 1: 4342469 to 4342555
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Minus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  4342555  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  4342496
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                |||||||||||||||||||||||| ||
+Sbjct  4342495  TGTCCCGAATGCGCCCATGAGTGGTCC  4342469
+
+
+
+
+Range 2: 798210 to 798272
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Minus
+
+Query  447     GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+               ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  798272  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  798214
+
+Query  506     TCAG  509
+                |||
+Sbjct  798213  CCAG  798210
+
+
+
+
+>Stutzerimonas stutzeri strain FDAARGOS_875 chromosome, complete genome
+Sequence ID: CP065750.1 Length: 4535380
+Range 1: 1744250 to 1744336
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  1744250  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  1744309
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                |||||||||||||||||||||||| ||
+Sbjct  1744310  TGTCCCGAATGCGCCCATGAGTGGTCC  1744336
+
+
+
+
+Range 2: 810821 to 810883
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Plus
+
+Query  447     GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+               ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  810821  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  810879
+
+Query  506     TCAG  509
+                |||
+Sbjct  810880  CCAG  810883
+
+
+
+
+>Pseudomonas stutzeri A1501, complete genome
+Sequence ID: CP000304.1 Length: 4567418
+Range 1: 3866113 to 3866199
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  3866113  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  3866172
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                |||||||||||||||||||||||| ||
+Sbjct  3866173  TGTCCCGAATGCGCCCATGAGTGGTCC  3866199
+
+
+
+
+Range 2: 2923371 to 2923433
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Plus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  2923371  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  2923429
+
+Query  506      TCAG  509
+                 |||
+Sbjct  2923430  CCAG  2923433
+
+
+
+
+>Methyloversatilis sp. RAC08 chromosome, complete genome
+Sequence ID: CP016448.1 Length: 3937190
+Range 1: 2000281 to 2000372
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:74/92(80%),  Gaps:0/92(0%), Strand: Plus/Minus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                |||||||   ||||| || |||| |||||||| |||||||||||| || |  |||   ||
+Sbjct  2000372  CCTGCCCCCCTGCCCGCAATGCAGTTCCGAATACACCTACGAAGATGGCGACATGCTGGT  2000313
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCAAGG  1307
+                 || |||||||||||||||||||||  |||||
+Sbjct  2000312  CTGCCCCGAATGCGCCCATGAGTGGAGCAAGG  2000281
+
+
+
+
+>Stutzerimonas stutzeri strain YWX-1 chromosome, complete genome
+Sequence ID: CP078087.1 Length: 4488441
+Range 1: 3716968 to 3717054
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  3716968  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  3717027
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                |||||||||||||||||||||||| ||
+Sbjct  3717028  TGTCCCGAATGCGCCCATGAGTGGTCC  3717054
+
+
+
+
+Range 2: 2843350 to 2843412
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Plus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  2843350  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  2843408
+
+Query  506      TCAG  509
+                 |||
+Sbjct  2843409  CCAG  2843412
+
+
+
+
+>Stutzerimonas stutzeri strain ZDHY95 chromosome, complete genome
+Sequence ID: CP063358.1 Length: 4500524
+Range 1: 3712971 to 3713057
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  3712971  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  3713030
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                |||||||||||||||||||||||| ||
+Sbjct  3713031  TGTCCCGAATGCGCCCATGAGTGGTCC  3713057
+
+
+
+
+Range 2: 2764031 to 2764093
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Plus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  2764031  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  2764089
+
+Query  506      TCAG  509
+                 |||
+Sbjct  2764090  CCAG  2764093
+
+
+
+
+>Pelobacter propionicus DSM 2379, complete genome
+Sequence ID: CP000482.1 Length: 4008000
+Range 1: 1917540 to 1917641
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:80/102(78%),  Gaps:0/102(0%), Strand: Plus/Minus
+
+Query  1205     CCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGG  1264
+                |||||||||| ||||||  | |||||    |||   || |||| ||||||||||||||| 
+Sbjct  1917641  CCCATGACAAACCTGCCACAATGCCCTTCATGCGGCTCGGAATACACCTACGAAGACGGA  1917582
+
+Query  1265     GCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAG  1306
+                |   ||||| | || || |||||||||||||||||||| |||
+Sbjct  1917581  GACCTGTACATCTGCCCGGAATGCGCCCATGAGTGGGCAAAG  1917540
+
+
+
+
+>Stutzerimonas stutzeri strain SB-1 chromosome, complete genome
+Sequence ID: CP088004.1 Length: 4473665
+Range 1: 744878 to 744964
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Minus
+
+Query  1217    CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+               ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  744964  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  744905
+
+Query  1277    TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+               |||||||||||||||||||||||| ||
+Sbjct  744904  TGTCCCGAATGCGCCCATGAGTGGTCC  744878
+
+
+
+
+>Stutzerimonas stutzeri strain CSW02 chromosome, complete genome
+Sequence ID: CP140616.1 Length: 4572900
+Range 1: 221194 to 221280
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217    CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+               ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  221194  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  221253
+
+Query  1277    TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+               |||||||||||||||||||||||| ||
+Sbjct  221254  TGTCCCGAATGCGCCCATGAGTGGTCC  221280
+
+
+
+
+Range 2: 2436012 to 2436074
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Minus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  2436074  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  2436016
+
+Query  506      TCAG  509
+                 |||
+Sbjct  2436015  CCAG  2436012
+
+
+
+
+>Stutzerimonas stutzeri strain MJL19 chromosome, complete genome
+Sequence ID: CP140298.1 Length: 4572525
+Range 1: 3846295 to 3846381
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  3846295  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  3846354
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                |||||||||||||||||||||||| ||
+Sbjct  3846355  TGTCCCGAATGCGCCCATGAGTGGTCC  3846381
+
+
+
+
+Range 2: 1458487 to 1458549
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Minus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  1458549  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  1458491
+
+Query  506      TCAG  509
+                 |||
+Sbjct  1458490  CCAG  1458487
+
+
+
+
+>Stutzerimonas stutzeri strain XX1 chromosome, complete genome
+Sequence ID: CP091174.1 Length: 4424182
+Range 1: 1111315 to 1111401
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Minus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  1111401  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  1111342
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                |||||||||||||||||||||||| ||
+Sbjct  1111341  TGTCCCGAATGCGCCCATGAGTGGTCC  1111315
+
+
+
+
+Range 2: 1900654 to 1900716
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Minus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  1900716  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  1900658
+
+Query  506      TCAG  509
+                 |||
+Sbjct  1900657  CCAG  1900654
+
+
+
+
+>Pseudomonas stutzeri strain SLG510A3-8, complete genome
+Sequence ID: CP011854.1 Length: 4650155
+Range 1: 3885151 to 3885237
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  3885151  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  3885210
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                |||||||||||||||||||||||| ||
+Sbjct  3885211  TGTCCCGAATGCGCCCATGAGTGGTCC  3885237
+
+
+
+
+Range 2: 3071323 to 3071385
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Plus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  3071323  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  3071381
+
+Query  506      TCAG  509
+                 |||
+Sbjct  3071382  CCAG  3071385
+
+
+
+
+>Stutzerimonas stutzeri strain NRCB010 chromosome, complete genome
+Sequence ID: CP098731.1 Length: 4570338
+Range 1: 3868228 to 3868314
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  3868228  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  3868287
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                |||||||||||||||||||||||| ||
+Sbjct  3868288  TGTCCCGAATGCGCCCATGAGTGGTCC  3868314
+
+
+
+
+Range 2: 2925479 to 2925541
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Plus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  2925479  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  2925537
+
+Query  506      TCAG  509
+                 |||
+Sbjct  2925538  CCAG  2925541
+
+
+
+
+>Stutzerimonas stutzeri strain 1W1-1A chromosome, complete genome
+Sequence ID: CP027664.1 Length: 4454378
+Range 1: 699660 to 699746
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217    CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+               ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  699660  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  699719
+
+Query  1277    TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+               |||||||||||||||||||||||| ||
+Sbjct  699720  TGTCCCGAATGCGCCCATGAGTGGTCC  699746
+
+
+
+
+Range 2: 4325450 to 4325512
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Plus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  4325450  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  4325508
+
+Query  506      TCAG  509
+                 |||
+Sbjct  4325509  CCAG  4325512
+
+
+
+
+>Pseudomonas stutzeri F2a DNA, complete genome
+Sequence ID: AP024722.1 Length: 4545686
+Range 1: 3818897 to 3818983
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  3818897  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  3818956
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                |||||||||||||||||||||||| ||
+Sbjct  3818957  TGTCCCGAATGCGCCCATGAGTGGTCC  3818983
+
+
+
+
+Range 2: 2965512 to 2965574
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Plus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  2965512  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  2965570
+
+Query  506      TCAG  509
+                 |||
+Sbjct  2965571  CCAG  2965574
+
+
+
+
+>Stutzerimonas stutzeri strain CGMCC 1.1803 chromosome, complete genome
+Sequence ID: CP002881.1 Length: 4547930
+Range 1: 3815391 to 3815477
+
+Score:86.0 bits(94), Expect:1e-11, 
+Identities:71/87(82%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  1217     CTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTT  1276
+                ||||||   |||||| | ||||| ||||||| |||||| ||||||||   ||||   || 
+Sbjct  3815391  CTGCCCCCCTGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTC  3815450
+
+Query  1277     TGTCCCGAATGCGCCCATGAGTGGGCC  1303
+                |||||||||||||||||||||||| ||
+Sbjct  3815451  TGTCCCGAATGCGCCCATGAGTGGTCC  3815477
+
+
+
+
+Range 2: 2879335 to 2879397
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Plus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  2879335  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  2879393
+
+Query  506      TCAG  509
+                 |||
+Sbjct  2879394  CCAG  2879397
+
+
+
+
+>Sideroxyarcus emersonii MIZ01 DNA, complete genome
+Sequence ID: AP023423.1 Length: 2738141
+Range 1: 2715229 to 2715317
+
+Score:85.1 bits(93), Expect:5e-11, 
+Identities:72/89(81%),  Gaps:0/89(0%), Strand: Plus/Plus
+
+Query  1220     CCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTTGT  1279
+                ||||| |||||| | |||| ||||||||  |||||||||||||| || |  ||||| || 
+Sbjct  2715229  CCCAAATGCCCCAAATGCAGTTCCGAATATACCTACGAAGACGGTGCCAACTACGTCTGC  2715288
+
+Query  1280     CCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                || |||||||| ||||| ||| | |||||
+Sbjct  2715289  CCTGAATGCGCGCATGAATGGTCGAAGGA  2715317
+
+
+
+
+>Castellaniella ginsengisoli strain 141555 chromosome
+Sequence ID: CP158267.1 Length: 2951880
+Range 1: 1267448 to 1267529
+
+Score:85.1 bits(93), Expect:5e-11, 
+Identities:70/83(84%),  Gaps:2/83(2%), Strand: Plus/Minus
+
+Query  1226     TGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGG-GGCGATGTACGTTTGTCCCGA  1284
+                |||||||||||||| ||||||| ||||||||||||||| ||| |  | ||| || || ||
+Sbjct  1267529  TGCCCCCAGTGCAACTCCGAATACACCTACGAAGACGGCGGCCACTT-CGTCTGCCCTGA  1267471
+
+Query  1285     ATGCGCCCATGAGTGGGCCAAGG  1307
+                ||||||||| |||||| || |||
+Sbjct  1267470  ATGCGCCCACGAGTGGTCCCAGG  1267448
+
+
+
+
+>Thauera sp. MZ1T, complete genome
+Sequence ID: CP001281.2 Length: 4496212
+Range 1: 2702678 to 2702776
+
+Score:85.1 bits(93), Expect:5e-11, 
+Identities:78/99(79%),  Gaps:0/99(0%), Strand: Plus/Minus
+
+Query  1208     ATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCG  1267
+                ||||  | |||||||| |||||||   ||||||||||||| ||||||||| ||||| |  
+Sbjct  2702776  ATGAGCAGCCTGCCCAGGTGCCCCGCCTGCAATTCCGAATACACCTACGAGGACGGCGAC  2702717
+
+Query  1268     ATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAG  1306
+                |  | ||| || |||||||||||||| || ||| | |||
+Sbjct  2702716  AACTTCGTCTGCCCCGAATGCGCCCACGAATGGCCGAAG  2702678
+
+
+
+
+>Dechloromonas sp. TW-R-39-2 chromosome, complete genome
+Sequence ID: CP045202.1 Length: 3462267
+Range 1: 1009844 to 1009949
+
+Score:84.2 bits(92), Expect:5e-11, 
+Identities:82/106(77%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  1206     CCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGG  1265
+                ||||||  | | ||||||| |||||||| ||||  ||||||| |||||||||| | ||  
+Sbjct  1009949  CCATGAGCAGCTTGCCCAAATGCCCCCAATGCACGTCCGAATACACCTACGAACAGGGAA  1009890
+
+Query  1266     CGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAGGAGGG  1311
+                  ||||| ||||| || ||||||||||| || |||  | |||| ||
+Sbjct  1009889  ACATGTATGTTTGCCCAGAATGCGCCCACGAATGGAGCCAGGACGG  1009844
+
+
+
+
+>Ferribacterium limneticum strain 77 chromosome, complete genome
+Sequence ID: CP075189.1 Length: 4150051
+Range 1: 3530113 to 3530203
+
+Score:84.2 bits(92), Expect:5e-11, 
+Identities:73/91(80%),  Gaps:0/91(0%), Strand: Plus/Plus
+
+Query  1218     TGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTT  1277
+                |||| || || ||  ||||||| || |||| |||||||||||||||  | |  ||||| |
+Sbjct  3530113  TGCCAAACTGTCCGAAGTGCAAATCGGAATACACCTACGAAGACGGCACCAACTACGTCT  3530172
+
+Query  1278     GTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                | || ||||||||||||||||||  ||||||
+Sbjct  3530173  GCCCGGAATGCGCCCATGAGTGGAGCAAGGA  3530203
+
+
+
+
+>Geobacter metallireducens GS-15, complete genome
+Sequence ID: CP000148.1 Length: 3997420
+Range 1: 881811 to 881901
+
+Score:84.2 bits(92), Expect:5e-11, 
+Identities:73/91(80%),  Gaps:0/91(0%), Strand: Plus/Plus
+
+Query  1218    TGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTT  1277
+               |||| || || || || |||| ||| |||| ||| |||||||||||  | ||||| || |
+Sbjct  881811  TGCCAAAATGTCCACAATGCAGTTCAGAATACACGTACGAAGACGGAACCATGTATGTCT  881870
+
+Query  1278    GTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+               |||| |||||||||||||| ||||  |||||
+Sbjct  881871  GTCCGGAATGCGCCCATGAATGGGGGAAGGA  881901
+
+
+
+
+>Sideroxydans sp. CL21 genome assembly, chromosome: 1
+Sequence ID: LR699166.1 Length: 3772857
+Range 1: 6331 to 6421
+
+Score:84.2 bits(92), Expect:5e-11, 
+Identities:73/91(80%),  Gaps:0/91(0%), Strand: Plus/Minus
+
+Query  1218  TGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTT  1277
+             ||||||| |||||| | |||| |||||| | ||| || ||||||||    |  ||||| |
+Sbjct  6421  TGCCCAAATGCCCCAAATGCAGTTCCGAGTACACTTATGAAGACGGCAGCAACTACGTCT  6362
+
+Query  1278  GTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+             | ||||||||||||||||||||| | |||||
+Sbjct  6361  GCCCCGAATGCGCCCATGAGTGGCCGAAGGA  6331
+
+
+
+
+>Uncultured bacterium clone AMP1_S_US_C2 beta-lactamase OXA-198 gene, complete cds
+Sequence ID: MG586024.1 Length: 777
+Range 1: 255 to 360
+
+Score:84.2 bits(92), Expect:5e-11, 
+Identities:82/106(77%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  413  ATTCCGATGGGATGGAAAAACGCATGACTTCCCCGACTGGAACCGTGACCAAACACTTGA  472
+            ||||  |||||||||| | ||  |||   |||| || ||||||| |||||| ||  | ||
+Sbjct  255  ATTCAAATGGGATGGACATACTTATGCTATCCCGGATTGGAACCATGACCAGACGTTGGA  314
+
+Query  473  AAGCGCATTCAAAGTTTCTTGCGTGTGGTGCTATCAGGAAATCGCC  518
+            |||||||||||| || |||||||| ||||| | |||| || | |||
+Sbjct  315  AAGCGCATTCAAGGTGTCTTGCGTCTGGTGTTTTCAGAAACTGGCC  360
+
+
+
+
+>Ferrimonas balearica DSM 9799, complete genome
+Sequence ID: CP002209.1 Length: 4279159
+Range 1: 1672626 to 1672716
+
+Score:84.2 bits(92), Expect:5e-11, 
+Identities:73/91(80%),  Gaps:0/91(0%), Strand: Plus/Plus
+
+Query  1218     TGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTT  1277
+                |||| || |||||| | ||||| ||||| | |||||||||||||||  | |||| ||| |
+Sbjct  1672626  TGCCAAACTGCCCCAAATGCAACTCCGAGTACACCTACGAAGACGGCACCATGTTCGTCT  1672685
+
+Query  1278     GTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                | || || |||||||| |||||| | |||||
+Sbjct  1672686  GCCCGGAGTGCGCCCACGAGTGGTCTAAGGA  1672716
+
+
+
+
+>Cobetia sp. cqz5-12 chromosome, complete genome
+Sequence ID: CP044522.1 Length: 4209007
+Range 1: 3045306 to 3045398
+
+Score:83.3 bits(91), Expect:2e-10, 
+Identities:74/93(80%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                ||| || || |||||    ||||||||||||| ||||||||| |||||   |  ||||||
+Sbjct  3045306  CCTTCCGAACTGCCCGGCCTGCAATTCCGAATACACCTACGACGACGGCATGCAGTACGT  3045365
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                 || || ||||| |||||||||||| |||||||
+Sbjct  3045366  CTGCCCTGAATGTGCCCATGAGTGGTCCAAGGA  3045398
+
+
+
+
+>Dechloromonas aquae strain ZY10 chromosome, complete genome
+Sequence ID: CP144212.1 Length: 3568927
+Range 1: 2905404 to 2905486
+
+Score:83.3 bits(91), Expect:2e-10, 
+Identities:68/83(82%),  Gaps:0/83(0%), Strand: Plus/Plus
+
+Query  1226     TGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTTGTCCCGAA  1285
+                ||||| || |||   ||||||| | |||| |||||||| ||  ||||| | |||||||||
+Sbjct  2905404  TGCCCGCAATGCGGCTCCGAATACGCCTATGAAGACGGCGCCCTGTACATCTGTCCCGAA  2905463
+
+Query  1286     TGCGCCCATGAGTGGGCCAAGGA  1308
+                |||||||||||||||  ||||||
+Sbjct  2905464  TGCGCCCATGAGTGGAGCAAGGA  2905486
+
+
+
+
+>Stutzerimonas stutzeri strain SGAir0442 chromosome, complete genome
+Sequence ID: CP025149.2 Length: 4524655
+Range 1: 3838807 to 3838884
+
+Score:83.3 bits(91), Expect:2e-10, 
+Identities:65/78(83%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  1226     TGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGTTTGTCCCGAA  1285
+                |||||| | ||||| ||||||| |||||| ||||||||   ||||   || |||||||||
+Sbjct  3838807  TGCCCCAAATGCAACTCCGAATACACCTATGAAGACGGCCAGATGCTGGTCTGTCCCGAA  3838866
+
+Query  1286     TGCGCCCATGAGTGGGCC  1303
+                ||||||||||||||| ||
+Sbjct  3838867  TGCGCCCATGAGTGGTCC  3838884
+
+
+
+
+Range 2: 2851816 to 2851878
+
+Score:55.4 bits(60), Expect:0.024, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Plus
+
+Query  447      GACTGGAACCGTGACCAAACACTTGAA-AGCGCATTCAAAGTTTCTTGCGTGTGGTGCTA  505
+                ||||||||||| ||||| || |||||| ||||||||||  ||    ||||| ||||||||
+Sbjct  2851816  GACTGGAACCGCGACCAGAC-CTTGAAGAGCGCATTCAGGGTCAGCTGCGTCTGGTGCTA  2851874
+
+Query  506      TCAG  509
+                 |||
+Sbjct  2851875  CCAG  2851878
+
+
+
+
+>Geomonas oryzisoli strain RG10 chromosome, complete genome
+Sequence ID: CP076723.1 Length: 4846465
+Range 1: 1341231 to 1341338
+
+Score:83.3 bits(91), Expect:2e-10, 
+Identities:83/108(77%),  Gaps:0/108(0%), Strand: Plus/Plus
+
+Query  1203     TCCCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACG  1262
+                || ||||||  | ||| ||||| || |||   |||| ||||| || ||||||||||||||
+Sbjct  1341231  TCTCCATGAGCACCCTCCCCAAATGTCCCTCCTGCAGTTCCGCATACACCTACGAAGACG  1341290
+
+Query  1263     GGGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAGGAGG  1310
+                | ||| | || || || ||||| |||| ||| |||||| || ||| ||
+Sbjct  1341291  GCGCGCTCTATGTCTGCCCCGAGTGCGGCCACGAGTGGCCCCAGGCGG  1341338
+
+
+
+
+>Cobetia amphilecti strain CI.11.F.A3 chromosome, complete genome
+Sequence ID: CP136695.1 Length: 4132234
+Range 1: 3330069 to 3330161
+
+Score:83.3 bits(91), Expect:2e-10, 
+Identities:74/93(80%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                ||| || || |||||    ||||||||||||||||||||||| || ||   |  ||||||
+Sbjct  3330069  CCTCCCGAACTGCCCGGCCTGCAATTCCGAATTCACCTACGACGATGGCATGCAGTACGT  3330128
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                 || || ||||| |||||||||||| |||||||
+Sbjct  3330129  CTGCCCTGAATGTGCCCATGAGTGGTCCAAGGA  3330161
+
+
+
+
+>Cobetia sp. D5 isolate Qingdao chromosome, complete genome
+Sequence ID: CP142020.1 Length: 4233985
+Range 1: 3055632 to 3055724
+
+Score:83.3 bits(91), Expect:2e-10, 
+Identities:74/93(80%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                ||| || || |||||    ||||||||||||||||||||||| || ||   |  ||||||
+Sbjct  3055632  CCTCCCGAACTGCCCGGCCTGCAATTCCGAATTCACCTACGACGATGGCATGCAGTACGT  3055691
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCAAGGA  1308
+                 || || ||||| |||||||||||| |||||||
+Sbjct  3055692  CTGCCCTGAATGTGCCCATGAGTGGTCCAAGGA  3055724
+
+
+
+
+>Ferribacterium limneticum strain 128 chromosome, complete genome
+Sequence ID: CP075191.1 Length: 4215797
+Range 1: 669704 to 669808
+
+Score:82.4 bits(90), Expect:2e-10, 
+Identities:81/105(77%),  Gaps:0/105(0%), Strand: Plus/Minus
+
+Query  1202    ATCCCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGAC  1261
+               ||||||||||    | ||||||| |||||  ||||||| || |||| |||||||||||| 
+Sbjct  669808  ATCCCCATGAGCGGCTTGCCCAACTGCCCGAAGTGCAAATCGGAATACACCTACGAAGAT  669749
+
+Query  1262    GGGGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAG  1306
+               || |  |  ||||| || || ||||||||||| || ||| | |||
+Sbjct  669748  GGCGACAATTACGTCTGCCCGGAATGCGCCCACGAATGGCCGAAG  669704
+
+
+
+
+>Pseudomonas sp. REST10 chromosome
+Sequence ID: CP035677.1 Length: 5073673
+Range 1: 1402997 to 1403092
+
+Score:82.4 bits(90), Expect:2e-10, 
+Identities:78/98(80%),  Gaps:4/98(4%), Strand: Plus/Minus
+
+Query  1205     CCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGG  1264
+                ||| ||||   ||||||    |||||| ||||||| ||||||| |||||||||||||  |
+Sbjct  1403092  CCCTTGACCGCCCTGCCACCCTGCCCCAAGTGCAACTCCGAATACACCTACGAAGAC--G  1403035
+
+Query  1265     GCGATGTAC--GTTTGTCCCGAATGCGCCCATGAGTGG  1300
+                |||||  ||  || || |||||||||||||| ||||||
+Sbjct  1403034  GCGATCAACTGGTCTGCCCCGAATGCGCCCACGAGTGG  1402997
+
+
+
+
+>Cobetia marina strain KMM 1449 chromosome, complete genome
+Sequence ID: CP173426.1 Length: 4184796
+Range 1: 3012576 to 3012670
+
+Score:82.4 bits(90), Expect:2e-10, 
+Identities:75/95(79%),  Gaps:0/95(0%), Strand: Plus/Plus
+
+Query  1216     CCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGACGGGGCGATGTACGT  1275
+                ||| ||||| |||||    ||||||||||||||||||||||| |||||   |  || |||
+Sbjct  3012576  CCTCCCCAACTGCCCGGCCTGCAATTCCGAATTCACCTACGACGACGGCATGCAGTTCGT  3012635
+
+Query  1276     TTGTCCCGAATGCGCCCATGAGTGGGCCAAGGAGG  1310
+                 || || || || ||||| |||||| |||||||||
+Sbjct  3012636  CTGCCCGGAGTGTGCCCACGAGTGGTCCAAGGAGG  3012670
+
+
+
+
+>Ferribacterium limneticum strain 132 chromosome, complete genome
+Sequence ID: CP075192.1 Length: 4215942
+Range 1: 669704 to 669808
+
+Score:82.4 bits(90), Expect:2e-10, 
+Identities:81/105(77%),  Gaps:0/105(0%), Strand: Plus/Minus
+
+Query  1202    ATCCCCATGACAATCCTGCCCAAGTGCCCCCAGTGCAATTCCGAATTCACCTACGAAGAC  1261
+               ||||||||||    | ||||||| |||||  ||||||| || |||| |||||||||||| 
+Sbjct  669808  ATCCCCATGAGCGGCTTGCCCAACTGCCCGAAGTGCAAATCGGAATACACCTACGAAGAT  669749
+
+Query  1262    GGGGCGATGTACGTTTGTCCCGAATGCGCCCATGAGTGGGCCAAG  1306
+               || |  |  ||||| || || ||||||||||| || ||| | |||
+Sbjct  669748  GGCGACAATTACGTCTGCCCGGAATGCGCCCACGAATGGCCGAAG  669704
+
+
+
+
+		
+
+

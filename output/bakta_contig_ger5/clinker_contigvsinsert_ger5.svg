@@ -24,9 +24,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.5831209"
-     inkscape:cx="507.61343"
-     inkscape:cy="-182.63794"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="575.58492"
+     inkscape:cy="294.86353"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -72,21 +72,13 @@
       </linearGradient>
     </defs>
   </defs>
-  <path
-     class="geneLink"
-     d="m 435.43136,18.505247 c 0,33.084697 -0.71066,33.084697 -0.71066,66.169394 h 88.50156 c 0,-33.084697 -39.81809,-33.084697 -39.81809,-66.169394 h -47.97281"
-     style="fill:#8b8b8b;stroke:#000000;stroke-width:0.45951px"
-     opacity="1"
-     id="path1" />
-  <text
-     class="geneLinkLabel"
-     opacity="0"
-     filter="url(#filter_solid)"
-     x="384.12878"
-     y="52.058258"
-     style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
-     id="text1"
-     transform="matrix(0.91901935,0,0,0.91901935,116.17285,3.7473975)">0.54</text>
+  <rect
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.304862;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:fill markers stroke"
+     id="rect1"
+     width="48.615849"
+     height="66.140625"
+     x="435.10626"
+     y="18.525" />
   <line
      class="trackBar"
      x1="413.78845"
@@ -99,17 +91,17 @@
      class="genes"
      id="g4"
      transform="matrix(0.91901935,0,0,0.91901935,413.8344,8.3960349)"
-     style="fill:#ff0101;fill-opacity:1">
+     style="fill:#ff9494;fill-opacity:1">
     <g
        id="gene_57f4a813-bd01-45cd-8388-3e7ef3cde6b1"
        class="gene"
        display="inline"
-       style="fill:#ff0101;fill-opacity:1">
+       style="fill:#ff9494;fill-opacity:1">
       <polygon
          class="genePolygon group-eb10de15-431b-4704-b902-9bedbb3848a8"
          points="35.5,22 35.5,17 75.7,17 75.7,5 35.5,5 35.5,0 23.5,11 "
          fill="#6e40aa"
-         style="stroke:#000000;stroke-width:1;fill:#ff0101;fill-opacity:1"
+         style="stroke:#000000;stroke-width:1;fill:#ff9494;fill-opacity:1"
          id="polygon3" />
       <text
          class="geneLabel"
@@ -118,7 +110,7 @@
          transform="rotate(-25,20.276792,-112.80919)"
          font-size="10px"
          text-anchor="start"
-         style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;fill:#ff0101;fill-opacity:1"
+         style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;fill:#ff9494;fill-opacity:1"
          id="text4">gnl|Bakta|OKAKKH_01</text>
     </g>
   </g>
@@ -263,12 +255,12 @@
      class="gene"
      display="inline"
      transform="matrix(0.91901935,0,0,0.91901935,195.13236,74.565428)"
-     style="fill:#ff0101;fill-opacity:1">
+     style="fill:#ff9494;fill-opacity:1">
     <polygon
        class="genePolygon group-eb10de15-431b-4704-b902-9bedbb3848a8"
        points="357,17 357,5 272.7,5 272.7,0 260.7,11 272.7,22 272.7,17 "
        fill="#6e40aa"
-       style="stroke:#000000;stroke-width:1;fill:#ff0101;fill-opacity:1"
+       style="stroke:#000000;stroke-width:1;fill:#ff9494;fill-opacity:1"
        id="polygon12" />
     <text
        class="geneLabel"
@@ -277,7 +269,7 @@
        transform="rotate(-25,149.9018,-697.5098)"
        font-size="10px"
        text-anchor="start"
-       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;fill:#ff0101;fill-opacity:1"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;fill:#ff9494;fill-opacity:1"
        id="text13">gnl|Bakta|OCINHB_007</text>
   </g>
   <g
@@ -392,12 +384,13 @@
      id="gene_892de3c7-6dac-48c6-a416-25e1f587e883"
      class="gene"
      display="inline"
-     transform="matrix(0.91901935,0,0,0.91901935,195.13236,74.565428)">
+     transform="matrix(0.91901935,0,0,0.91901935,195.13236,74.565428)"
+     style="fill:#f155c9;fill-opacity:1">
     <polygon
        class="genePolygon"
        points="565.75,17 565.75,5 606.1,5 606.1,0 618.1,11 606.1,22 606.1,17 "
        fill="#bbbbbb"
-       style="stroke:#000000;stroke-width:1"
+       style="stroke:#000000;stroke-width:1;fill:#f155c9;fill-opacity:1"
        id="polygon18" />
     <text
        class="geneLabel"
@@ -406,7 +399,7 @@
        transform="rotate(-25,291.4393,-1335.9442)"
        font-size="10px"
        text-anchor="start"
-       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;fill:#f155c9;fill-opacity:1"
        id="text19">gnl|Bakta|OCINHB_013</text>
   </g>
   <g
@@ -706,189 +699,189 @@
        y="109.56625"
        id="tspan41-8">Contig - 23'400 bp</tspan></text>
   <g
-     id="g57"
-     transform="translate(130)">
+     id="g6">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="505.16949"
+       y="119.12692"
+       id="text42-9-9-4-5-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan42-45-6-3-9-2-1"
+         x="505.16949"
+         y="119.12692"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">gloB</tspan></text>
+    <rect
+       style="fill:#79d179;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect42-2"
+       width="22.88829"
+       height="13.642028"
+       x="466.42007"
+       y="109.61319" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="506.6174"
+       y="142.81944"
+       id="text42-9-9-4-5-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan42-45-6-3-9-2-7"
+         x="506.6174"
+         y="142.81944"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">aqpZ</tspan></text>
+    <rect
+       style="fill:#748dff;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect42-29"
+       width="22.88829"
+       height="13.642028"
+       x="466.42007"
+       y="133.4906" />
+  </g>
+  <g
+     id="g7"
+     transform="translate(6.8272711)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="586.89465"
+       y="120.37693"
+       id="text42-9-9-4-5-7-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan42-45-6-3-9-2-1-1"
+         x="586.89465"
+         y="120.37693"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">ftsI</tspan></text>
+    <rect
+       style="fill:#ff9494;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect42-2-0"
+       width="22.88829"
+       height="13.642028"
+       x="551.27289"
+       y="109.61319" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="589.3504"
+       y="143.98351"
+       id="text42-9-9-4-5-7-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan42-45-6-3-9-2-7-9"
+         x="589.3504"
+         y="143.98351"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">crcB</tspan></text>
+    <rect
+       style="fill:#efef82;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect42-29-5"
+       width="22.88829"
+       height="13.642028"
+       x="551.27289"
+       y="133.4906" />
+  </g>
+  <g
+     id="g8"
+     transform="translate(11.099449)">
     <g
-       id="g53">
-      <g
-         id="g45">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-           x="409.67285"
-           y="123.48782"
-           id="text42-9-9-4-5-7"><tspan
-             sodipodi:role="line"
-             id="tspan42-45-6-3-9-2"
-             x="409.67285"
-             y="123.48782"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">hypothetical protein</tspan></text>
-        <rect
-           style="fill:#bbbbbb;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-           id="rect42"
-           width="22.88829"
-           height="13.642028"
-           x="334.50665"
-           y="113.97409" />
-      </g>
-      <g
-         id="g46">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-           x="373.12848"
-           y="143.67557"
-           id="text42-9-9-4-5-7-2"><tspan
-             sodipodi:role="line"
-             id="tspan42-45-6-3-9-2-1"
-             x="373.12848"
-             y="143.67557"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">gloB</tspan></text>
-        <rect
-           style="fill:#79d179;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-           id="rect42-2"
-           width="22.88829"
-           height="13.642028"
-           x="334.50665"
-           y="134.16183" />
-      </g>
+       id="g5">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         x="675.70099"
+         y="120.10609"
+         id="text42-9-9-4-5-7-2-4-5"><tspan
+           sodipodi:role="line"
+           id="tspan42-45-6-3-9-2-1-1-6"
+           x="675.70099"
+           y="120.10609"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">namA</tspan></text>
+      <rect
+         style="fill:#8bf7ef;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect42-2-0-6"
+         width="22.88829"
+         height="13.642028"
+         x="634.06097"
+         y="109.61319" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         x="673.9718"
+         y="142.81944"
+         id="text42-9-9-4-5-7-7-9-7"><tspan
+           sodipodi:role="line"
+           id="tspan42-45-6-3-9-2-7-9-8"
+           x="673.9718"
+           y="142.81944"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">copY</tspan></text>
+      <rect
+         style="fill:#ff9c33;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect42-29-5-7"
+         width="22.88829"
+         height="13.642028"
+         x="634.06097"
+         y="133.4906" />
+    </g>
+  </g>
+  <g
+     id="g3">
+    <g
+       id="g1"
+       transform="translate(2.4921354)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         x="947.67346"
+         y="119.12692"
+         id="text42-9-9-4-5-7"><tspan
+           sodipodi:role="line"
+           id="tspan42-45-6-3-9-2"
+           x="947.67346"
+           y="119.12692"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">hypothetical protein</tspan></text>
+      <rect
+         style="fill:#bbbbbb;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect42"
+         width="22.88829"
+         height="13.642028"
+         x="872.50726"
+         y="109.61319" />
     </g>
     <g
-       id="g54"
-       transform="translate(17.571594)">
-      <g
-         id="g47">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-           x="509.65958"
-           y="124.41666"
-           id="text42-9-9-4-5-7-7"><tspan
-             sodipodi:role="line"
-             id="tspan42-45-6-3-9-2-7"
-             x="509.65958"
-             y="124.41666"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">aqpZ</tspan></text>
-        <rect
-           style="fill:#748dff;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-           id="rect42-29"
-           width="22.88829"
-           height="13.642028"
-           x="469.46222"
-           y="115.08782" />
-      </g>
-      <g
-         id="g48">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-           x="505.08401"
-           y="145.98201"
-           id="text42-9-9-4-5-7-2-4"><tspan
-             sodipodi:role="line"
-             id="tspan42-45-6-3-9-2-1-1"
-             x="505.08401"
-             y="145.98201"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">Ftsl</tspan></text>
-        <rect
-           style="fill:#ff0101;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-           id="rect42-2-0"
-           width="22.88829"
-           height="13.642028"
-           x="469.46222"
-           y="135.27557" />
-      </g>
-    </g>
-    <g
-       id="g55"
-       transform="translate(15.720135)">
-      <g
-         id="g49">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-           x="591.7926"
-           y="123.64161"
-           id="text42-9-9-4-5-7-7-9"><tspan
-             sodipodi:role="line"
-             id="tspan42-45-6-3-9-2-7-9"
-             x="591.7926"
-             y="123.64161"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">crcB</tspan></text>
-        <rect
-           style="fill:#efef82;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-           id="rect42-29-5"
-           width="22.88829"
-           height="13.642028"
-           x="553.89532"
-           y="113.14871" />
-      </g>
-      <g
-         id="g50">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-           x="595.3551"
-           y="143.82936"
-           id="text42-9-9-4-5-7-2-4-5"><tspan
-             sodipodi:role="line"
-             id="tspan42-45-6-3-9-2-1-1-6"
-             x="595.3551"
-             y="143.82936"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">namA</tspan></text>
-        <rect
-           style="fill:#8bf7ef;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-           id="rect42-2-0-6"
-           width="22.88829"
-           height="13.642028"
-           x="553.89532"
-           y="133.33646" />
-      </g>
-    </g>
-    <g
-       id="g56">
-      <g
-         id="g52">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-           x="694.99573"
-           y="121.48849"
-           id="text42-9-9-4-5-7-7-9-7"><tspan
-             sodipodi:role="line"
-             id="tspan42-45-6-3-9-2-7-9-8"
-             x="694.99573"
-             y="121.48849"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">copY</tspan></text>
-        <rect
-           style="fill:#ff9c33;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-           id="rect42-29-5-7"
-           width="22.88829"
-           height="13.642028"
-           x="655.30328"
-           y="112.15965" />
-      </g>
-      <g
-         id="g51">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-           x="699.62854"
-           y="143.05122"
-           id="text42-9-9-4-5-7-2-4-5-6"><tspan
-             sodipodi:role="line"
-             id="tspan42-45-6-3-9-2-1-1-6-0"
-             x="699.62854"
-             y="143.05122"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">bm3R1</tspan></text>
-        <rect
-           style="fill:#ff9cf5;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-           id="rect42-2-0-6-0"
-           width="22.88829"
-           height="13.642028"
-           x="655.30328"
-           y="132.34738" />
-      </g>
+       id="g2">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         x="883.74872"
+         y="143.00433"
+         id="text42-9-9-4-5-7-2-4-0"><tspan
+           sodipodi:role="line"
+           id="tspan42-45-6-3-9-2-1-1-8"
+           x="883.74872"
+           y="143.00433"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">FAD/NAD(P)-binding domain-containing protein</tspan></text>
+      <rect
+         style="fill:#f155c9;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect42-2-0-3"
+         width="22.88829"
+         height="13.642028"
+         x="740.12695"
+         y="133.4906" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.930914;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         x="786.59216"
+         y="120.31703"
+         id="text42-9-9-4-5-7-2-4-5-6"><tspan
+           sodipodi:role="line"
+           id="tspan42-45-6-3-9-2-1-1-6-0"
+           x="786.59216"
+           y="120.31703"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.930914">bm3R1</tspan></text>
+      <rect
+         style="fill:#ff9cf5;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect42-2-0-6-0"
+         width="22.88829"
+         height="13.642028"
+         x="740.12695"
+         y="109.61319" />
     </g>
   </g>
 </svg>
