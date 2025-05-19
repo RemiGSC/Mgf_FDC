@@ -21,6 +21,7 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 	- For PROKKA annotation, the following script was used : 'script/prokka_inserts.sh' (PROKKA v1.14).
 	- For BAKTA annotation, the webserver was used (https://doi.org/10.1093/nar/gkaf335).
 	- Output files are found in 'output/bakta_inserts/' and in 'output/prokka_inserts/'.
+	- GFF3 were used with clinker to make the cartography of each insert sequence. Subsequent figure can be found in 'output/figure_inserts.png'
 - Output gff files from PROKKA and BAKTA were used to retrieve gene sequences. 
 	- The following script was used : 'script/gene_retriever_from_gff.py'. 
 	- It retrieve information from the gff files and use it to retrieve only gene sequences from the inserts.
@@ -96,7 +97,7 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 		- This was done with the script: 'script/gff_gene_retriever_for_comparison.py'.
 		- Results are found in the folder 'output/gene_comparison/'.
 	- Additionnally, a PARSNP (Parsnp v2.1.3) analysis was done using the script 'script/parsnp.sh'.
-		- Resulting output table is found in 'output/'.
+		- Resulting output table is 'output/parsnp_table.xlsx'.
 
 ## ADITONNAL ANALYSIS FOR GER-5-KREISCHAOUT identified ARG
 - Analysis of GER-5-KREISCHAOUT genes (short and extended version) alignement with targets of cefiderocol.
@@ -105,7 +106,8 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 	- Each protein was aligned to every other protein using Pymol (v3.1.4) with the command: 'super p1, p2'.
 	- Heatmap of the result matrix was done using the script: 'script/script_heatmap.txt'; (software versions can be found in 'script/session_info_heatmap.txt').
 	- Figure was done using Inkscape.
-- Bakta analysis was done using the webserver on the contig assembled from metagenomic reads and found to hold the ARG identified in GER-5-KREISCHAOUT.
+- Bakta and Prokka analysis was done using the webserver on the contig assembled from metagenomic reads and found to hold the ARG identified in GER-5-KREISCHAOUT.
+	- Prokka output are found in 'output/prokka_contig_ger5/'
 	- Bakta output are found in 'output/bakta_contig_ger5/'.
 	- Clinker and Inkscape were then used to produce the corresponding figure.
 	- 'clinker output/bakta_contig_ger5/*.gbff -p output/bakta_contig_ger5/plot.html'

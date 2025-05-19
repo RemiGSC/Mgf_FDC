@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.0242632"
-     inkscape:cx="379.78519"
-     inkscape:cy="364.65236"
+     inkscape:zoom="0.72426345"
+     inkscape:cx="332.75184"
+     inkscape:cy="463.22923"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -43,82 +43,78 @@
      id="layer1"
      transform="translate(-5.9160224,-18.176799)">
     <g
-       id="g16"
-       transform="translate(0,-73.02504)">
-      <g
-         id="g11"
-         transform="translate(28.575012,-7.9375004)">
-        <line
-           class="flatBar"
-           x2="170.51755"
-           y1="270.65195"
-           y2="270.65195"
-           style="stroke:#000000;stroke-width:0.808095"
-           id="line16"
-           x1="141.97554" />
-        <line
-           class="leftBar"
-           y2="277.50891"
-           style="stroke:#000000;stroke-width:1.14282"
-           id="line17"
-           x1="141.97554"
-           y1="263.79501"
-           x2="141.97554" />
-        <line
-           class="rightBar"
-           x1="170.48503"
-           x2="170.48503"
-           y2="277.50891"
-           style="stroke:#000000;stroke-width:1.14282"
-           id="line18"
-           y1="263.79501" />
-      </g>
-      <text
-         class="barText"
-         text-anchor="middle"
-         cursor="pointer"
-         x="184.68777"
-         y="272.91046"
-         style="font-size:15.2376px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:hanging;text-anchor:middle;stroke-width:1.14282"
-         id="text18"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
-           id="tspan11">500 bp</tspan></text>
+       id="g1"
+       transform="translate(-21.440209,-3.5286747)">
+      <line
+         class="flatBar"
+         x2="198.18813"
+         y1="147.88315"
+         y2="147.88315"
+         style="stroke:#000000;stroke-width:0.668158"
+         id="line16"
+         x1="174.58871" />
+      <line
+         class="leftBar"
+         y2="150.13315"
+         style="stroke:#000000;stroke-width:0.595267"
+         id="line17"
+         x1="174.58871"
+         y1="145.63315"
+         x2="174.58871" />
+      <line
+         class="rightBar"
+         x1="198.16124"
+         x2="198.16124"
+         y2="150.13315"
+         style="stroke:#000000;stroke-width:0.595268"
+         id="line18"
+         y1="145.63315" />
     </g>
     <text
+       class="barText"
+       text-anchor="middle"
+       cursor="pointer"
+       x="164.83759"
+       y="149.30373"
+       style="font-size:12.5989px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:hanging;text-anchor:middle;stroke-width:0.944919"
+       id="text18"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;-inkscape-font-specification:'system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Ubuntu, Helvetica Neue, Oxygen, Cantarell, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.944919"
+         id="tspan11">500 bp</tspan></text>
+    <text
        xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.604573;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       x="40.761955"
-       y="32.316486"
+       style="font-size:2.33351px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.49988;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="34.727715"
+       y="29.867928"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.604573"
-         x="40.761955"
-         y="32.316486">GER-1-KREISCHAIN</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25038px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.49988"
+         x="34.727715"
+         y="29.867928">GER-1-KREISCHAIN</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.604573"
-         x="40.761955"
-         y="39.936485"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25038px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.49988"
+         x="34.727715"
+         y="36.168377"
          id="tspan2">2113 bp</tspan></text>
     <line
        class="trackBar"
-       x1="87.695969"
-       x2="208.43536"
-       y1="34.414963"
-       y2="34.414963"
-       style="fill:#111111;stroke:#111111;stroke-width:1.14282"
+       x1="73.534203"
+       x2="173.36525"
+       y1="31.603012"
+       y2="31.603012"
+       style="fill:#111111;stroke:#111111;stroke-width:0.944919"
        id="line2" />
     <g
        id="gene_62067f01-cd98-4f06-98e1-fc8c97e63431"
        class="gene"
        display="inline"
-       transform="matrix(1.1428244,0,0,1.1428244,87.753108,20.129659)"
-       style="fill:#ff9292;fill-opacity:1">
+       transform="matrix(0.94492241,0,0,0.94492241,73.581445,19.791484)"
+       style="fill:#fff081;fill-opacity:1">
       <polygon
          class="genePolygon"
-         points="10.4,5 47.4,5 47.4,0 55.4,12.5 47.4,25 47.4,20 10.4,20 "
+         points="55.4,12.5 47.4,25 47.4,20 10.4,20 10.4,5 47.4,5 47.4,0 "
          fill="#bbbbbb"
-         style="fill:#ff9292;fill-opacity:1;stroke:#000000;stroke-width:1"
+         style="fill:#fff081;fill-opacity:1;stroke:#000000;stroke-width:1"
          id="polygon2" />
       <text
          class="geneLabel"
@@ -127,19 +123,20 @@
          transform="rotate(-25,11.926791,-75.144771)"
          font-size="10px"
          text-anchor="start"
-         style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;fill:#ff9292;fill-opacity:1"
+         style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;fill:#fff081;fill-opacity:1"
          id="text3">gnl|Bakta|JFLCJL_01</text>
     </g>
     <g
        id="gene_c8a761c8-e2a0-4028-b5b7-8d4a441a08ab"
        class="gene"
        display="inline"
-       transform="matrix(1.1428244,0,0,1.1428244,87.753108,20.129659)">
+       transform="matrix(0.94492241,0,0,0.94492241,73.581445,19.791484)"
+       style="fill:#93ccff;fill-opacity:1">
       <polygon
          class="genePolygon"
-         points="104.1,5 65.15,5 65.15,0 57.15,12.5 65.15,25 65.15,20 104.1,20 "
+         points="57.15,12.5 65.15,25 65.15,20 104.1,20 104.1,5 65.15,5 65.15,0 "
          fill="#bbbbbb"
-         style="stroke:#000000;stroke-width:1"
+         style="stroke:#000000;stroke-width:1;fill:#93ccff;fill-opacity:1"
          id="polygon3" />
       <text
          class="geneLabel"
@@ -148,85 +145,48 @@
          transform="rotate(-25,35.789291,-182.78155)"
          font-size="10px"
          text-anchor="start"
-         style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+         style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;fill:#93ccff;fill-opacity:1"
          id="text4">gnl|Bakta|JFLCJL_02</text>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.604573;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       x="124.27222"
-       y="33.220516"
-       id="text9"><tspan
-         sodipodi:role="line"
-         id="tspan3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.604573"
-         x="124.27222"
-         y="33.220516">- ESBL PER-1</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.604573"
-         x="124.27222"
-         y="36.607182"
-         id="tspan5">- ESBL VEB-3</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.604573"
-         x="124.27222"
-         y="39.993843"
-         id="tspan4" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.604573;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       x="180.52463"
-       y="32.782814"
-       id="text9-2"><tspan
-         sodipodi:role="line"
-         id="tspan3-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.604573"
-         x="180.52463"
-         y="32.782814">- ISVa14</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.604573"
-         x="180.52463"
-         y="36.169479"
-         id="tspan6">- Transposase</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.604573;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       x="40.445694"
-       y="75.735565"
+       style="font-size:2.33351px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.49988;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="34.466217"
+       y="65.768158"
        id="text1-6"><tspan
          sodipodi:role="line"
          id="tspan1-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.604573"
-         x="40.445694"
-         y="75.735565">GER-3-ELBEWATER</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25038px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.49988"
+         x="34.466217"
+         y="65.768158">GER-3-ELBEWATER</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.604573"
-         x="40.445694"
-         y="83.355568"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25038px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.49988"
+         x="34.466217"
+         y="72.068611"
          id="tspan2-2">1176 bp</tspan></text>
     <line
        class="trackBar"
-       x1="87.166801"
-       x2="154.36488"
-       y1="77.827843"
-       y2="77.827843"
-       style="fill:#111111;stroke:#111111;stroke-width:1.14282"
+       x1="73.096672"
+       x2="128.65811"
+       y1="67.498116"
+       y2="67.498116"
+       style="fill:#111111;stroke:#111111;stroke-width:0.944919"
        id="line4" />
     <g
        class="genes"
        id="g5"
-       transform="matrix(1.1428244,0,0,1.1428244,87.223941,63.542537)"
-       style="fill:#ff0000;fill-opacity:1">
+       transform="matrix(0.94492241,0,0,0.94492241,73.143914,55.686588)"
+       style="fill:#ff9e50;fill-opacity:1">
       <g
          id="gene_5eb3ec84-ac57-4fd7-89e9-e5fcd6fe4656"
          class="gene"
          display="inline"
-         style="fill:#ff0000;fill-opacity:1">
+         style="fill:#ff9e50;fill-opacity:1">
         <polygon
            class="genePolygon"
-           points="54.05,12.5 46.05,25 46.05,20 12.5,20 12.5,5 46.05,5 46.05,0 "
+           points="12.5,20 12.5,5 46.05,5 46.05,0 54.05,12.5 46.05,25 46.05,20 "
            fill="#bbbbbb"
-           style="fill:#ff9292;fill-opacity:1;stroke:#000000;stroke-width:1"
+           style="fill:#ff9e50;fill-opacity:1;stroke:#000000;stroke-width:1"
            id="polygon4" />
         <text
            class="geneLabel"
@@ -235,54 +195,38 @@
            transform="rotate(-25,12.114291,-75.990529)"
            font-size="10px"
            text-anchor="start"
-           style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;fill:#ff0000;fill-opacity:1"
+           style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;fill:#ff9e50;fill-opacity:1"
            id="text5">gnl|Bakta|JFLCJL_03</text>
       </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.604573;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       x="125.34052"
-       y="76.243927"
-       id="text10"><tspan
-         sodipodi:role="line"
-         id="tspan9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.604573"
-         x="125.34052"
-         y="76.243927">- Ybxl</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.604573"
-         x="125.34052"
-         y="79.630592"
-         id="tspan7">- Class D β-lac.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.604573;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       x="40.458099"
-       y="119.14845"
+       style="font-size:2.33351px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.49988;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="34.476475"
+       y="101.66327"
        id="text1-6-1"><tspan
          sodipodi:role="line"
          id="tspan1-7-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.604573"
-         x="40.458099"
-         y="119.14845">GER-5-KREISCHAOUT</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25038px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.49988"
+         x="34.476475"
+         y="101.66327">GER-5-KREISCHAOUT</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.604573"
-         x="40.458099"
-         y="126.76846"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25038px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.49988"
+         x="34.476475"
+         y="107.96373"
          id="tspan2-2-9">1716 bp</tspan></text>
     <line
        class="trackBar"
-       x1="87.695969"
-       x2="185.75031"
-       y1="121.24072"
-       y2="121.24072"
-       style="fill:#111111;stroke:#111111;stroke-width:1.14282"
+       x1="73.534203"
+       x2="154.60855"
+       y1="103.39323"
+       y2="103.39323"
+       style="fill:#111111;stroke:#111111;stroke-width:0.944919"
        id="line5" />
     <g
        class="genes"
        id="g6"
-       transform="matrix(1.1428244,0,0,1.1428244,87.753108,106.95542)"
+       transform="matrix(0.94492241,0,0,0.94492241,73.581445,91.581697)"
        style="fill:#ff9292;fill-opacity:1">
       <g
          id="gene_7d483d76-5107-4345-b375-61d9718c801c"
@@ -291,7 +235,7 @@
          style="fill:#ff9292;fill-opacity:1">
         <polygon
            class="genePolygon"
-           points="75.7,5 31.5,5 31.5,0 23.5,12.5 31.5,25 31.5,20 75.7,20 "
+           points="23.5,12.5 31.5,25 31.5,20 75.7,20 75.7,5 31.5,5 31.5,0 "
            fill="#bbbbbb"
            style="fill:#ff9292;fill-opacity:1;stroke:#000000;stroke-width:1"
            id="polygon5" />
@@ -308,55 +252,39 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.604573;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       x="144.36992"
-       y="119.78703"
-       id="text11"><tspan
-         sodipodi:role="line"
-         id="tspan10"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.604573"
-         x="144.36992"
-         y="119.78703">- FtsI</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.604573"
-         x="144.36992"
-         y="123.1737"
-         id="tspan8">- FtsI/PBP2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:2.82223px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.604573;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       x="40.732498"
-       y="162.55513"
+       style="font-size:2.33351px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0.49988;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="34.703358"
+       y="137.55325"
        id="text1-6-1-0"><tspan
          sodipodi:role="line"
          id="tspan1-7-2-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.604573"
-         x="40.732498"
-         y="162.55513">SWE-1-JRYAIN</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25038px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.49988"
+         x="34.703358"
+         y="137.55325">SWE-1-JRYAIN</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.604573"
-         x="40.732498"
-         y="170.17513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.25038px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.49988"
+         x="34.703358"
+         y="143.8537"
          id="tspan2-2-9-1">1316 bp</tspan></text>
     <line
        class="trackBar"
-       x1="87.695969"
-       x2="162.89381"
-       y1="164.65361"
-       y2="164.65361"
-       style="fill:#111111;stroke:#111111;stroke-width:1.14282"
+       x1="73.534203"
+       x2="135.7101"
+       y1="139.28835"
+       y2="139.28835"
+       style="fill:#111111;stroke:#111111;stroke-width:0.944919"
        id="line6" />
     <g
        id="gene_a266fd2d-1d98-4114-804c-58b774b047fd"
        class="gene"
        display="inline"
-       transform="matrix(1.1428244,0,0,1.1428244,87.753108,150.36829)"
-       style="fill:#ff9292;fill-opacity:1">
+       transform="matrix(0.94492241,0,0,0.94492241,73.581445,127.4768)"
+       style="fill:#ff3f3f;fill-opacity:1">
       <polygon
          class="genePolygon"
-         points="38.7,5 38.7,0 46.7,12.5 38.7,25 38.7,20 8,20 8,5 "
+         points="38.7,25 38.7,20 8,20 8,5 38.7,5 38.7,0 46.7,12.5 "
          fill="#bbbbbb"
-         style="fill:#ff9292;fill-opacity:1;stroke:#000000;stroke-width:1"
+         style="fill:#ff3f3f;fill-opacity:1;stroke:#000000;stroke-width:1"
          id="polygon6" />
       <text
          class="geneLabel"
@@ -365,17 +293,17 @@
          transform="rotate(-25,9.1517919,-62.627557)"
          font-size="10px"
          text-anchor="start"
-         style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;fill:#ff9292;fill-opacity:1"
+         style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;fill:#ff3f3f;fill-opacity:1"
          id="text7">gnl|Bakta|JFLCJL_05</text>
     </g>
     <g
        id="gene_cbfbc611-40e2-4637-82e2-600b02af40f2"
        class="gene"
        display="inline"
-       transform="matrix(1.1428244,0,0,1.1428244,87.753108,150.36829)">
+       transform="matrix(0.94492241,0,0,0.94492241,73.581445,127.4768)">
       <polygon
          class="genePolygon"
-         points="62,5 62,0 54,12.5 62,25 62,20 64.65,20 64.65,5 "
+         points="62,25 62,20 64.65,20 64.65,5 62,5 62,0 54,12.5 "
          fill="#bbbbbb"
          style="stroke:#000000;stroke-width:1"
          id="polygon7" />
@@ -391,35 +319,157 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.604573;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       x="119.04908"
-       y="164.11787"
-       id="text9-4"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.803629;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="19.933764"
+       y="179.89522"
+       id="text9"><tspan
          sodipodi:role="line"
-         id="tspan3-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.604573"
-         x="119.04908"
-         y="164.11787">- OXA-10</tspan><tspan
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.803629"
+         x="19.933764"
+         y="179.89522">- ESBL PER-1</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.604573"
-         x="119.04908"
-         y="167.50453"
-         id="tspan12">- OXA-372</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.803629"
+         x="19.933764"
+         y="184.39693"
+         id="tspan5">- ESBL VEB-3</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.803629"
+         x="19.933764"
+         y="188.89865"
+         id="tspan4" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.604573;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
-       x="156.46313"
-       y="163.2267"
-       id="text11-9"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.803629;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="19.933764"
+       y="166.00183"
+       id="text9-2"><tspan
          sodipodi:role="line"
-         id="tspan10-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.604573"
-         x="156.46313"
-         y="163.2267">- Hyp.</tspan><tspan
+         id="tspan3-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;word-spacing:0px;text-anchor:start;stroke-width:0.803629"
+         x="19.933764"
+         y="166.00183">- Transposase ISVa14</tspan><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.604573"
-         x="156.46313"
-         y="168.3067"
-         id="tspan13">- Hyp.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;word-spacing:0px;text-anchor:start;stroke-width:0.803629"
+         x="19.933764"
+         y="170.50354"
+         id="tspan6">- Transposase</tspan></text>
+    <rect
+       style="fill:#93ccff;fill-opacity:1;stroke:#000000;stroke-width:0.425695;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1"
+       width="11.489017"
+       height="8.2064409"
+       x="7.6774898"
+       y="163.13834" />
+    <rect
+       style="fill:#fff081;fill-opacity:1;stroke:#000000;stroke-width:0.425695;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1-8"
+       width="11.489017"
+       height="8.2064409"
+       x="7.6774898"
+       y="176.68279" />
+    <g
+       id="g18"
+       transform="translate(-2.2151299)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.803629;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         x="79.579765"
+         y="166.03847"
+         id="text10"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.803629"
+           x="79.579765"
+           y="166.03847">- Putative β-lactamase YbxI</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.803629"
+           x="79.579765"
+           y="170.54018"
+           id="tspan7">- Class D β-lactamase</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.803629;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         x="79.579765"
+         y="179.62047"
+         id="text11"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.803629"
+           x="79.579765"
+           y="179.62047">- FtsI</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.803629"
+           x="79.579765"
+           y="184.12218"
+           id="tspan8">- FtsI/PBP2</tspan></text>
+      <rect
+         style="fill:#ff9e50;fill-opacity:1;stroke:#000000;stroke-width:0.425695;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect1-1"
+         width="11.489017"
+         height="8.2064409"
+         x="67.223618"
+         y="163.13834" />
+      <rect
+         style="fill:#ff9292;fill-opacity:1;stroke:#000000;stroke-width:0.425695;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect1-4"
+         width="11.489017"
+         height="8.2064409"
+         x="67.223618"
+         y="176.68279" />
+    </g>
+    <g
+       id="g19"
+       inkscape:export-filename="figure_inserts.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;line-height:1.2;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.803629;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         x="146.15477"
+         y="166.03847"
+         id="text9-4"><tspan
+           sodipodi:role="line"
+           id="tspan3-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.803629"
+           x="146.15477"
+           y="166.03847">- β-lactamase OXA-10</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.803629"
+           x="146.15477"
+           y="170.54018"
+           id="tspan12">- OXA-372 family β-lactamase</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.62715px;line-height:0.8;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.803629;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+         x="146.15477"
+         y="179.62309"
+         id="text11-9"><tspan
+           sodipodi:role="line"
+           id="tspan10-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;line-height:0.8;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.803629"
+           x="146.15477"
+           y="179.62309"
+           dy="0 0 0 0 0 0 0 0 0 0 0 -0.080382191">- Hypothetical protein</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75143px;line-height:0.8;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;stroke-width:0.803629"
+           x="146.15477"
+           y="184.12482"
+           id="tspan13">- Hypothetical protein</tspan></text>
+      <rect
+         style="fill:#ff3f3f;fill-opacity:1;stroke:#000000;stroke-width:0.425695;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect1-41"
+         width="11.489017"
+         height="8.2064409"
+         x="133.8988"
+         y="163.13834" />
+      <rect
+         style="fill:#bbbbbb;fill-opacity:1;stroke:#000000;stroke-width:0.425695;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect1-6"
+         width="11.489017"
+         height="8.2064409"
+         x="133.8988"
+         y="176.68279" />
+    </g>
   </g>
 </svg>
