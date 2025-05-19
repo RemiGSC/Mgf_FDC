@@ -113,19 +113,4 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 	- 'clinker output/bakta_contig_ger5/*.gbff -p output/bakta_contig_ger5/plot.html'
 	- The final figure can be found in 'output/bakta_contig_ger5/clinker_contigvsinsert_ger5.png'.
 
-
-
-
-
-	
-
-	
-	
-
-
-
-
-
-	
-	
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15463064.svg)](https://doi.org/10.5281/zenodo.15463064)
