@@ -80,7 +80,7 @@ flowchart LR
 			Four[4 mg/mL]
 		end
 
-Two[2 mg/mL] --- C1[🇸🇪 SWE-1-JRYAIN] --- ESBL[Extended-spectrum β-lactamase]
+Two[2 mg/mL] --- C1[🇸🇪 SWE-1-JRYAIN] --- ESBL["Extended-spectrum β-lactamase (ESBL)"]
 One[1 mg/mL] --- C3a[🇩🇪 GER-1-KREISCHAIN] --- ESBL
 Four[4 mg/mL] --- C3b[🇩🇪 GER-3-ELBEWATER] --- Broad-spectrum[Broad-spectrum β-lactamase]
 Two ---C3c[🇩🇪 GER-5-KREISCHAOUT] --- Atyp[Atypical, synergistic]
