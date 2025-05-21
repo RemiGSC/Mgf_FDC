@@ -53,10 +53,9 @@ style C3a stroke:#fdbf6f,fill:#fff,stroke-width:4px
 style C3b stroke:#1f78b4,fill:#fff,stroke-width:4px
 style C3c stroke:#ff7f00,fill:#fff,stroke-width:4px
 
-
-style WWIN stroke:#000,fill:#fdbf6f
-style Fresh stroke:#000,fill:#1f78b4,color:#fff
-style WWEF stroke:#000,fill:#ff7f00
+style WWIN stroke:#000,fill:#fdbf6f,font-size:110%
+style Fresh stroke:#000,fill:#1f78b4,color:#fff,font-size:110%
+style WWEF stroke:#000,fill:#ff7f00,font-size:110%
 
 
 ```
