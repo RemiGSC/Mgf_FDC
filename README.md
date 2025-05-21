@@ -45,8 +45,8 @@ B3 ---> C3a
 B3 ---> C3b
 B3 ---> C3c
 
-style A stroke:#000,fill:#fff
-style B stroke:#000,fill:#fff
+style A stroke:#000,fill:#fff,font-size:120%
+style B stroke:#000,fill:#fff,font-size:120%
 
 style C1 stroke:#fdbf6f,fill:#fff,stroke-width:4px
 style C3a stroke:#fdbf6f,fill:#fff,stroke-width:4px
@@ -85,9 +85,9 @@ One[1 mg/mL] --- C3a[🇩🇪 GER-1-KREISCHAIN] --- ESBL
 Four[4 mg/mL] --- C3b[🇩🇪 GER-3-ELBEWATER] --- Broad-spectrum[Broad-spectrum β-lactamase]
 Two ---C3c[🇩🇪 GER-5-KREISCHAOUT] --- Atyp[Atypical, synergistic]
 
-style One stroke:#000,fill:#8eb
-style Two stroke:#000,fill:#fc7
-style Four stroke:#000,fill:#ea7
+style One stroke:#000,fill:#8eb,font-size:110%
+style Two stroke:#000,fill:#fc7,font-size:110%
+style Four stroke:#000,fill:#ea7,font-size:110%
 
 style C1 stroke:#fdbf6f,fill:#fff,stroke-width:4px
 style C3a stroke:#fdbf6f,fill:#fff,stroke-width:4px
