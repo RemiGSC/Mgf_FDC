@@ -20,6 +20,7 @@ flowchart TD
 		B[n = 21] --- B1[🇸🇪 n = 9/18]
 		B --- B3[🇩🇪 n = 8/16]
 		B --- B4[🇵🇰 n = 4/12]
+		B1 ~~~ B3 ~~~ B4
 	end
 
 	subgraph Rcef [Resistance to cefiderocol]
@@ -34,10 +35,10 @@ ev ==>|Suitable for Functional Metagenomics| fmg
 
 fmg ==>|Gibson cloning into sensitive K12 E. coli| Rcef
 
-B1 --> C1
-B3 --> C3a
-B3 --> C3b
-B3 --> C3c
+B1 ---> C1
+B3 ---> C3a
+B3 ---> C3b
+B3 ---> C3c
 ```
 
 ---
