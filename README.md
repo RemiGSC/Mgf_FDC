@@ -48,10 +48,14 @@ B3 ---> C3c
 style A stroke:#000,fill:#fff,font-size:120%
 style B stroke:#000,fill:#fff,font-size:120%
 
+
+style A1 font-size:110%
+style A2 font-size:110%
+style A3 font-size:110%
+style A4 font-size:110%
 style B1 font-size:110%
 style B3 font-size:110%
 style B4 font-size:110%
-
 
 style C1 stroke:#fdbf6f,fill:#fff,stroke-width:4px
 style C3a stroke:#fdbf6f,fill:#fff,stroke-width:4px
