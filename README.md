@@ -48,6 +48,11 @@ B3 ---> C3c
 style A stroke:#000,fill:#fff
 style B stroke:#000,fill:#fff
 
+style C1 stroke:#000,fill:#fff
+style C3a stroke:#000,fill:#fff
+style C3b stroke:#000,fill:#fff
+style C3c stroke:#000,fill:#fff
+
 ```
 WWTP: Wastewater treatment plant
 
