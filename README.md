@@ -119,7 +119,7 @@ style C3c stroke:#ff7f00,fill:#fff,stroke-width:4px
 	- ngless contigs can be found in _output/ngless_contigs/_
 	- ARGs identified using functional metagenomics were then used to be mapped on contigs. 
 		- Results can be found in: _output/Blastn_Contigs/_ 
-		- It has to be noted that no results were retrieved for sample GER-3-ELBE WATER.
+		- It has to be noted that no results were retrieved for sample GER-3-ELBEWATER.
 
 ## MOLECULAR CHARACTERIZATION
 
