@@ -81,7 +81,7 @@ style Four stroke:#000,fill:#ea7
 
 - Microbial composition diversity of each sample.
 	- Taxonomic profiling of each metagenome was performed using mOTU v3.1.
-	- Output file is: data/Metagenomic_seq_motusv3.0.tsv. It was used as input file for the rest of the analysis.
+	- Output file is: _data/Metagenomic_seq_motusv3.0.tsv_. It was used as input file for the rest of the analysis.
 	- Bray Curtis disimilarity analysis was run and pcoa was made using the R script: _script/script_pcoa.R_; (software versions can be found in _script/session_info_pcoa.txt_).
 	- Figure was then modified using Inkscape to include legends of functional metagenomic analysis.
 - Metagenomic reads were used for contig assembly using ngless .
@@ -100,19 +100,19 @@ style Four stroke:#000,fill:#ea7
 	- GFF3 were used with clinker to make the cartography of each insert sequence. Subsequent figure can be found in _output/figure_inserts.png_
 - Output gff files from PROKKA and BAKTA were used to retrieve gene sequences. 
 	- The following script was used : _script/gene_retriever_from_gff.py_. 
-	- It retrieve information from the gff files and use it to retrieve only gene sequences from the inserts.
+	- It retrieves information from the gff files and use it to retrieve only gene sequences from the inserts.
 	- Output fasta files can be found in _data/_.
 
 ## TAXONOMY
 - Inserts taxonomy was analyzed using BLASTN online and the Core nucleotide database (core_nt).
 	- db version : 
-		- Title:Core nucleotide BLAST database
-	 	- Description:The core nucleotide BLAST database consists of GenBank+EMBL+DDBJ+PDB+RefSeq sequences, but excludes EST, STS, GSS, WGS, TSA, patent sequences as well as phase 0, 1, and 2 HTGS sequences and most eukaryotic chromosome sequences. 
- 		- The database is non-redundant. Identical sequences have been merged into one entry, while preserving the accession, GI, title and taxonomy information for each entry.
-	 	- Molecule Type:mixed DNA
-	 	- Update date:2025/04/28
-	 	- Number of sequences:114586527
-	- output text files are found in _output/inserts_blastn_taxo/_.
+		>Title:Core nucleotide BLAST database
+	 	>Description:The core nucleotide BLAST database consists of GenBank+EMBL+DDBJ+PDB+RefSeq sequences, but excludes EST, STS, GSS, WGS, TSA, patent sequences as well as phase 0, 1, and 2 HTGS sequences and most eukaryotic chromosome sequences. 
+ 		>The database is non-redundant. Identical sequences have been merged into one entry, while preserving the accession, GI, title and taxonomy information for each entry.
+	 	>Molecule Type:mixed DNA
+	 	>Update date:2025/04/28
+	 	>Number of sequences:114586527
+	- Output text files are found in _output/inserts_blastn_taxo/_.
 
 
 ## DESCRIPTION
@@ -126,10 +126,10 @@ style Four stroke:#000,fill:#ea7
 	- output file: _/data/mgf_protein_FDCr.fasta_.
 	- Output file was used for blastp analysis with the nr database. 
 		- nr database version.
-			- Title:All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
-	 		- Molecule Type:Protein
- 			- Update date:2025/04/28
- 			- Number of sequences:910289766
+			>Title:All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+	 		>Molecule Type:Protein
+ 			>Update date:2025/04/28
+ 			>Number of sequences:910289766
 		- results of this analysis are found in _output/ARG_protein_blastp/_ folder.
 
 - Insert cartography was done using clinker.
