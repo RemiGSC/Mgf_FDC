@@ -12,10 +12,10 @@ title: Wetlab design and clone selection
 ---
 flowchart TD
 	subgraph ev [Environmental samples]
-		A[n = 48] -.- A1["🇸🇪 n = 18 ()"]
-		A -.- A2["🇫🇷 n = 2 ()"]
-		A -.- A3["🇩🇪 n = 16 ()"]
-		A -.- A4["🇵🇰 n = 12 ()"]
+		A[n = 48] -.- A1["🇸🇪 n = 18 (◆)"]
+		A -.- A2["🇫🇷 n = 2 (■)"]
+		A -.- A3["🇩🇪 n = 16 (▲)"]
+		A -.- A4["🇵🇰 n = 12 (●)"]
 	end
 
 	subgraph fmg [Functional Metagenomics]
