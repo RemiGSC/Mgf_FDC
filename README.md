@@ -20,7 +20,7 @@ flowchart TD
 		B[n = 21] --- B1[🇸🇪 n = 9/18]
 		B --- B3[🇩🇪 n = 8/16]
 		B --- B4[🇵🇰 n = 4/12]
-		B1 ~~~ B3 ~~~ B4
+		B1 ~~~ B3
 	end
 
 	subgraph Rcef [Resistance to cefiderocol]
