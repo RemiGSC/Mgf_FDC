@@ -1,11 +1,11 @@
 ## Mgf_FDC
 Data and scripts associated with the work: "Identification of cefiderocol resistance genes in the environment using functional metagenomics".
 
-### WETLAB STUDY DESIGN
+### WETLAB DESIGN AND RESULTS
 
-
+Click on ↔ to view this graph
 ```mermaid
-flowchart TD
+flowchart TD WDR [Wetlab design and results]
 	subgraph ev [Environmental samples]
 		A[n = 48] --- A1[🇸🇪 n = 18]
 		A --- A2[🇫🇷 n = 2]
@@ -15,18 +15,35 @@ flowchart TD
 
 	subgraph fmg [Functional Metagenomics]
 		B[n = 21] --- B1[🇸🇪 n = 9/18]
-		B --- B2[🇫🇷 n = 0/2]
 		B --- B3[🇩🇪 n = 8/16]
 		B --- B4[🇵🇰 n = 4/12]
 	end
 
-	subgraph Rcef [Resistance to cefiderocol]
-		C1 --- CC1[🇸🇪 SWE-1-JRYAIN]
-		C3a --- CC3a[🇩🇪 GER-1-KREISCHAIN]
-		C3b --- CC3b[🇩🇪 GER-3-ELBEWATER]
-		C3c --- CC3c[🇩🇪 GER-5-KREISCHAOUT]
-	end
+	subgraph SelPheno [Selection & Phenotyping]
+		direction LR
+		subgraph Rcef [Clones resistant to cefiderocol (FDC)]
+			C1[🇸🇪 SWE-1-JRYAIN] --- WWIN[WWTP Influent]
+			C3a[🇩🇪 GER-1-KREISCHAIN] --- WWIN[WWTP Influent]
+			C3b[🇩🇪 GER-3-ELBEWATER] --- Fresh[Freshwater]
+			C3c[🇩🇪 GER-5-KREISCHAOUT] --- WWEF[WWTP Effluent]
+		end
 
+		subgraph DDA [Disk diffusion]
+
+			C1[🇸🇪 SWE-1-JRYAIN] --- ESBL[Extended-spectrum β-lactamase]
+			C3a[🇩🇪 GER-1-KREISCHAIN] --- ESBL
+			C3b[🇩🇪 GER-3-ELBEWATER] --- Broad-spectrum[Broad-spectrum β-lactamase]
+			C3c[🇩🇪 GER-5-KREISCHAOUT] --- Atyp[Atypical, synergistic]
+		end
+
+		subgraph MIC [MIC to cefiderocol]
+
+			C1[🇸🇪 SWE-1-JRYAIN] --- Two[2 mg/mL]
+			C3a[🇩🇪 GER-1-KREISCHAIN] --- One[1 mg/mL]
+			C3b[🇩🇪 GER-3-ELBEWATER] --- Four[4 mg/mL]
+			C3c[🇩🇪 GER-5-KREISCHAOUT] --- Two
+		end
+	end
 ev -->|Suitable for Functional Metagenomics| fmg
 
 fmg -->|Gibson cloning into sensitive K12 E. coli| Rcef
