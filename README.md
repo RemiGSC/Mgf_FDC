@@ -10,16 +10,16 @@ title: Wetlab design and clone selection
 ---
 flowchart TD
 	subgraph ev [Environmental samples]
-		A[n = 48] --- A1[🇸🇪 n = 18]
-		A --- A2[🇫🇷 n = 2]
-		A --- A3[🇩🇪 n = 16]
-		A --- A4[🇵🇰 n = 12]
+		A[n = 48] -.- A1[🇸🇪 n = 18]
+		A -.- A2[🇫🇷 n = 2]
+		A -.- A3[🇩🇪 n = 16]
+		A -.- A4[🇵🇰 n = 12]
 	end
 
 	subgraph fmg [Functional Metagenomics]
-		B[n = 21] --- B1[🇸🇪 n = 9/18]
-		B --- B3[🇩🇪 n = 8/16]
-		B --- B4[🇵🇰 n = 4/12]
+		B[n = 21] -.- B1[🇸🇪 n = 9/18]
+		B -.- B3[🇩🇪 n = 8/16]
+		B -.- B4[🇵🇰 n = 4/12]
 	end
 
 	subgraph Rcef [Resistance to cefiderocol]
@@ -34,9 +34,9 @@ ev ==>|Suitable for Functional Metagenomics| fmg
 
 fmg ==>|Gibson cloning into sensitive K12 E. coli| Rcef
 
-A1 -..-> B1
-A3 -..-> B3
-A4 -..-> B4
+A1 -...-> B1
+A3 -...-> B3
+A4 -...-> B4
 
 B1 ---> C1
 B3 ---> C3a
