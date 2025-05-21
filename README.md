@@ -23,10 +23,10 @@ flowchart TD
 	end
 
 	subgraph Rcef [Resistance to cefiderocol]
-			C1[🇸🇪 SWE-1-JRYAIN] o--o WWIN[WWTP Influent]
-			C3a[🇩🇪 GER-1-KREISCHAIN] o--o WWIN[WWTP Influent]
-			C3b[🇩🇪 GER-3-ELBEWATER] o--o Fresh[Freshwater]
-			C3c[🇩🇪 GER-5-KREISCHAOUT] o--o WWEF[WWTP Effluent]
+			C1[🇸🇪 SWE-1-JRYAIN] --- WWIN[WWTP Influent]
+			C3a[🇩🇪 GER-1-KREISCHAIN] --- WWIN[WWTP Influent]
+			C3b[🇩🇪 GER-3-ELBEWATER] --- Fresh[Freshwater]
+			C3c[🇩🇪 GER-5-KREISCHAOUT] --- WWEF[WWTP Effluent]
 	end
 
 
@@ -34,11 +34,16 @@ ev ==>|Suitable for Functional Metagenomics| fmg
 
 fmg ==>|Gibson cloning into sensitive K12 E. coli| Rcef
 
+A1 -.-> B1
+A3 -.-> B3
+A4 -.-> B4
+
 B1 ---> C1
 B3 ---> C3a
 B3 ---> C3b
 B3 ---> C3c
 ```
+WWTP: Wastewater treatment plant
 
 ---
 
@@ -64,9 +69,9 @@ One[1 mg/mL] --- C3a[🇩🇪 GER-1-KREISCHAIN] --- ESBL
 Four[4 mg/mL] --- C3b[🇩🇪 GER-3-ELBEWATER] --- Broad-spectrum[Broad-spectrum β-lactamase]
 Two ---C3c[🇩🇪 GER-5-KREISCHAOUT] --- Atyp[Atypical, synergistic]
 
-style One fill:#8eb
-style Two fill:#fc7
-style Four fill:#ea7
+style One stroke:#000,fill:#8eb
+style Two stroke:#000,fill:#fc7
+style Four stroke:#000,fill:#ea7
 
 ```
 
