@@ -84,6 +84,11 @@ style One stroke:#000,fill:#8eb
 style Two stroke:#000,fill:#fc7
 style Four stroke:#000,fill:#ea7
 
+style C1 stroke:#000,fill:#fff
+style C3a stroke:#000,fill:#fff
+style C3b stroke:#000,fill:#fff
+style C3c stroke:#000,fill:#fff
+
 ```
 
 ---
