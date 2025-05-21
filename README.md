@@ -25,7 +25,7 @@ flowchart TD
 
 	subgraph SelPheno [Selection & Phenotyping]
 		direction LR
-		subgraph Rcef [Clones resistant to cefiderocol (FDC)]
+		subgraph Rcef [Clones resistant to cefiderocol]
 			C1[🇸🇪 SWE-1-JRYAIN] --- WWIN[WWTP Influent]
 			C3a[🇩🇪 GER-1-KREISCHAIN] --- WWIN[WWTP Influent]
 			C3b[🇩🇪 GER-3-ELBEWATER] --- Fresh[Freshwater]
