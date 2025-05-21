@@ -6,10 +6,8 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 Click on ↔ to view this graph
 ```mermaid
 ---
-title: Wetlab design and results
+title: Wetlab design and clone selection
 ---
-
-flowchart TD
 	subgraph ev [Environmental samples]
 		A[n = 48] --- A1[🇸🇪 n = 18]
 		A --- A2[🇫🇷 n = 2]
@@ -23,31 +21,14 @@ flowchart TD
 		B --- B4[🇵🇰 n = 4/12]
 	end
 
-	subgraph SelPheno [Selection & Phenotyping]
-		direction RL
-		subgraph Rcef [Clones resistant to cefiderocol]
+	subgraph Rcef [Clones resistant to cefiderocol]
 			C1[🇸🇪 SWE-1-JRYAIN] --- WWIN[WWTP Influent]
 			C3a[🇩🇪 GER-1-KREISCHAIN] --- WWIN[WWTP Influent]
 			C3b[🇩🇪 GER-3-ELBEWATER] --- Fresh[Freshwater]
 			C3c[🇩🇪 GER-5-KREISCHAOUT] --- WWEF[WWTP Effluent]
-		end
-
-		subgraph DDA [Disk diffusion]
-
-			C1[🇸🇪 SWE-1-JRYAIN] --- ESBL[Extended-spectrum β-lactamase]
-			C3a[🇩🇪 GER-1-KREISCHAIN] --- ESBL
-			C3b[🇩🇪 GER-3-ELBEWATER] --- Broad-spectrum[Broad-spectrum β-lactamase]
-			C3c[🇩🇪 GER-5-KREISCHAOUT] --- Atyp[Atypical, synergistic]
-		end
-
-		subgraph MIC [MIC to cefiderocol]
-
-			C1[🇸🇪 SWE-1-JRYAIN] --- Two[2 mg/mL]
-			C3a[🇩🇪 GER-1-KREISCHAIN] --- One[1 mg/mL]
-			C3b[🇩🇪 GER-3-ELBEWATER] --- Four[4 mg/mL]
-			C3c[🇩🇪 GER-5-KREISCHAOUT] --- Two
-		end
 	end
+
+
 ev -->|Suitable for Functional Metagenomics| fmg
 
 fmg -->|Gibson cloning into sensitive K12 E. coli| Rcef
@@ -57,6 +38,32 @@ B3 ---> C3a
 B3 ---> C3b
 B3 ---> C3c
 ```
+
+
+```mermaid
+---
+title: Phenotypic results
+---
+flowchart LR
+		subgraph DDA [Disk diffusion assay profile]
+			ESBL[Extended-spectrum β-lactamase]
+			Broad-spectrum[Broad-spectrum β-lactamase]
+			Atyp[Atypical, synergistic]
+		end
+
+		subgraph MIC [MIC to cefiderocol]
+			Two[2 mg/mL]
+			One[1 mg/mL]
+			Four[4 mg/mL]
+		end
+
+Two[2 mg/mL] --- C1[🇸🇪 SWE-1-JRYAIN] --- ESBL[Extended-spectrum β-lactamase]
+One[1 mg/mL] --- C3a[🇩🇪 GER-1-KREISCHAIN] --- ESBL
+Four[4 mg/mL] --- C3b[🇩🇪 GER-3-ELBEWATER] --- Broad-spectrum[Broad-spectrum β-lactamase]
+Two ---C3c[🇩🇪 GER-5-KREISCHAOUT] --- Atyp[Atypical, synergistic]
+
+```
+
 
 ## MICROBIAL COMPOSITION OF METAGENOMIC SAMPLES
 
