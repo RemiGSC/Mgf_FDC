@@ -5,7 +5,11 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 
 Click on ↔ to view this graph
 ```mermaid
-flowchart TD WDR [Wetlab design and results]
+---
+title: Wetlab design and results
+---
+
+flowchart TD
 	subgraph ev [Environmental samples]
 		A[n = 48] --- A1[🇸🇪 n = 18]
 		A --- A2[🇫🇷 n = 2]
