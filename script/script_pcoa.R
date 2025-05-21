@@ -183,8 +183,7 @@ PCOA_plot <- ggplot(df_pcoa, aes(x = Axis1, y = Axis2)) +
                  group = Sample_type,
                  fill = Sample_type),
              color = "black",
-             size = 6,
-             alpha = 0.85) +
+             size = 6) +
   scale_fill_brewer(palette = "Paired",
                     type = "qual") +
   scale_shape_manual(values = c(22, 24, 21, 23),
@@ -256,3 +255,10 @@ png(filename = paste0(plot_path, "mOTUs_ellipse.png"),
     res = 300)
 PCOA_plot
 dev.off()
+
+svg(filename = paste0(plot_path, "mOTUs_ellipse.svg"),
+    width = 18,
+    height = 9)
+PCOA_plot
+dev.off()
+
