@@ -4,13 +4,8 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 ### STUDY DESIGN
 
 
-### BRAY-CURTIS DISSIMILARITY PCOA
 
-
-### GEOGRAPHICAL LOCATION OF FUNCTIONAL METAGENOMIC SAMPLES
-
-
-### MICROBIAL COMPOSITION OF METAGENOMIC SAMPLES
+## MICROBIAL COMPOSITION OF METAGENOMIC SAMPLES
 
 - Microbial composition diversity of each sample.
 	- Taxonomic profiling of each metagenome was performed using mOTU v3.1.
@@ -23,7 +18,7 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 		- Results can be found in: _output/Blastn_Contigs/_ 
 		- It has to be noted that no results were retrieved for sample GER-3-ELBE WATER.
 
-### MOLECULAR CHARACTERIZATION
+## MOLECULAR CHARACTERIZATION
 
 - Inserts sequences were retrieved after colony PCR and Sanger sequencing of the inserted region in the expression plasmid pHSG299.
 - Inserts sequences were subjected to annotation by BAKTA and PROKKA.
