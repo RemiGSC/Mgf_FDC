@@ -3,7 +3,7 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 
 ### WETLAB DESIGN AND RESULTS
 
-Click on ↔ to view this graph
+Click on ↔ to view graphs
 ```mermaid
 ---
 title: Wetlab design and clone selection
