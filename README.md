@@ -20,7 +20,6 @@ flowchart TD
 		B[n = 21] --- B1[🇸🇪 n = 9/18]
 		B --- B3[🇩🇪 n = 8/16]
 		B --- B4[🇵🇰 n = 4/12]
-		B1 ~~~ B3
 	end
 
 	subgraph Rcef [Resistance to cefiderocol]
@@ -64,6 +63,10 @@ Two[2 mg/mL] --- C1[🇸🇪 SWE-1-JRYAIN] --- ESBL[Extended-spectrum β-lactama
 One[1 mg/mL] --- C3a[🇩🇪 GER-1-KREISCHAIN] --- ESBL
 Four[4 mg/mL] --- C3b[🇩🇪 GER-3-ELBEWATER] --- Broad-spectrum[Broad-spectrum β-lactamase]
 Two ---C3c[🇩🇪 GER-5-KREISCHAOUT] --- Atyp[Atypical, synergistic]
+
+style One stroke:#2cc
+style Two stroke:#fc4
+style Four stroke:#d50
 
 ```
 
