@@ -34,7 +34,7 @@ flowchart TD
 
 ev ==>|Suitable for Functional Metagenomics| fmg
 
-fmg ==>|Gibson cloning into sensitive K12 E. coli| Rcef
+fmg ===>|Gibson cloning into sensitive K12 E. coli| Rcef
 
 A1 ----> B1
 A3 ----> B3
