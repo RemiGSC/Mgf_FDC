@@ -20,7 +20,7 @@ flowchart TD
 		B --- B4[🇵🇰 n = 4/12]
 	end
 
-	subgraph Rcef [Insert conferring resistance to cefiderocol]
+	subgraph Rcef [Resistance to cefiderocol]
 		C1 --- CC1[🇸🇪 SWE-1-JRYAIN]
 		C3a --- CC3a[🇩🇪 GER-1-KREISCHAIN]
 		C3b --- CC3b[🇩🇪 GER-3-ELBEWATER]
