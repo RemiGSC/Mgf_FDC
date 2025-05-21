@@ -7,17 +7,17 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 ```mermaid
 flowchart TD
 	subgraph ev [Environmental samples]
-		A[n = 48] --- A1[🇸🇪 - n = 18]
-		A --- A2[🇫🇷 - n = 2]
-		A --- A3[🇩🇪 - n = 16]
-		A --- A4[🇵🇰 - n = 12]
+		A[n = 48] --- A1[🇸🇪 n = 18]
+		A --- A2[🇫🇷 n = 2]
+		A --- A3[🇩🇪 n = 16]
+		A --- A4[🇵🇰 n = 12]
 	end
 
 	subgraph fmg [Functional Metagenomics]
-		B[n = 21] --- B1[🇸🇪 - n = 9/18]
-		B --- B2[🇫🇷 - n = 0/2]
-		B --- B3[🇩🇪 - n = 8/16]
-		B --- B4[🇵🇰 - n = 4/12]
+		B[n = 21] --- B1[🇸🇪 n = 9/18]
+		B --- B2[🇫🇷 n = 0/2]
+		B --- B3[🇩🇪 n = 8/16]
+		B --- B4[🇵🇰 n = 4/12]
 	end
 
 A ---->|Suitable for Functional Metagenomics| B 
