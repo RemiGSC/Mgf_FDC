@@ -1,7 +1,7 @@
 ## Mgf_FDC
 Data and scripts associated with the work: "Identification of cefiderocol resistance genes in the environment using functional metagenomics".
 
-### STUDY DESIGN
+### WETLAB STUDY DESIGN
 
 
 ```mermaid
@@ -20,7 +20,21 @@ flowchart TD
 		B --- B4[🇵🇰 n = 4/12]
 	end
 
-A ---->|Suitable for Functional Metagenomics| B 
+	subgraph Rcef [Insert conferring resistance to cefiderocol]
+		C1 --- CC1[🇸🇪 SWE-1-JRYAIN]
+		C3a --- CC3a[🇩🇪 GER-1-KREISCHAIN]
+		C3b --- CC3b[🇩🇪 GER-3-ELBEWATER]
+		C3c --- CC3c[🇩🇪 GER-5-KREISCHAOUT]
+	end
+
+A --->|Suitable for Functional Metagenomics| B
+
+fmg -->|Gibson cloning into sensitive K12 E. coli| Rcef
+
+B1 ---> C1
+B3 ---> C3a
+B3 ---> C3b
+B3 ---> C3c
 ```
 
 ## MICROBIAL COMPOSITION OF METAGENOMIC SAMPLES
