@@ -47,8 +47,8 @@ B3 ----> C3c
 
 
 
-style A stroke:#000,fill:#fff,font-size:120%
-style B stroke:#000,fill:#fff,font-size:120%
+style A stroke:#000,fill:#fff,font-size:110%
+style B stroke:#000,fill:#fff,font-size:110%
 
 style A1 font-size:110%
 style A2 font-size:110%
