@@ -25,10 +25,10 @@ flowchart TD
 	end
 
 	subgraph Rcef [Resistance to cefiderocol]
-			C1[🇸🇪 SWE-1-JRYAIN] --o WWIN[WWTP Influent]
-			C3a[🇩🇪 GER-1-KREISCHAIN] --o WWIN[WWTP Influent]
-			C3b[🇩🇪 GER-3-ELBEWATER] --o Fresh[Freshwater]
-			C3c[🇩🇪 GER-5-KREISCHAOUT] --o WWEF[WWTP Effluent]
+			C1["🇸🇪 SWE-1-JRYAIN (◆)"] --o WWIN[WWTP Influent]
+			C3a["🇩🇪 GER-1-KREISCHAIN (▲)"] --o WWIN[WWTP Influent]
+			C3b["🇩🇪 GER-3-ELBEWATER (▲)"] --o Fresh[Freshwater]
+			C3c["🇩🇪 GER-5-KREISCHAOUT (▲)"] --o WWEF[WWTP Effluent]
 	end
 
 
