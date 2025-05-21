@@ -32,9 +32,9 @@ flowchart TD
 	end
 
 
-ev e1@==>|Suitable for Functional Metagenomics| fmg
+ev ==>|Suitable for Functional Metagenomics| fmg
 
-fmg e2@==>|Gibson cloning into sensitive K12 E. coli| Rcef
+fmg ==>|Gibson cloning into sensitive K12 E. coli| Rcef
 
 A1 ----> B1
 A3 ----> B3
@@ -46,9 +46,6 @@ B3 ---> C3b
 B3 ---> C3c
 
 
-
-style e1,font-size:110%
-style e1,font-size:110%
 
 style A stroke:#000,fill:#fff,font-size:120%
 style B stroke:#000,fill:#fff,font-size:120%
