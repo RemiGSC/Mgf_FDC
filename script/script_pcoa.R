@@ -1,9 +1,15 @@
 library(vegan)
 library(ape)
 library(tidyverse)
+library(RColorBrewer)
 
 OTU_abundance <-
-  read_tsv(file = "C:/Users/remi.gschwind/Desktop/Metagenomique_fonctionnelle/Ecriture/data/embark_281124_motusv3.0.tsv")
+  read_tsv(file = "~/Downloads/embark_281124_motusv3.0.tsv")
+
+plot_path <- "~/Downloads/"
+
+# OTU_abundance <-
+  # read_tsv(file = "C:/Users/remi.gschwind/Desktop/Metagenomique_fonctionnelle/Ecriture/data/abundance/embark_281124_motusv3.0.tsv")
 
 OTU_abundance <- data.frame(t(as.matrix(OTU_abundance)))
 names(OTU_abundance) <- OTU_abundance[1, ]
@@ -80,8 +86,10 @@ ggplot(df_pcoa, aes(x = Axis1, y = Axis2, label = Label)) +
   labs(x = "Axe 1", y = "Axe 2", title = "PCoA des échantillons")
 
 
-
-
+country <- c(rep("France", 2),
+             rep("Germany", 16),
+             rep("Pakistan", 12),
+             rep("Sweden", 18))
 groupes <- c("freshwater" , "wastewater" , "freshwater" , "freshwater" , "freshwater" ,
              "sediment", "fish" , "freshwater" , "freshwater" , "wwtp_in", 
              "soil" , "freshwater" , "soil" , "wwtp_out" , "freshwater" ,
@@ -92,14 +100,6 @@ groupes <- c("freshwater" , "wastewater" , "freshwater" , "freshwater" , "freshw
              "soil" , "soil" , "soil" , "wwtp_in" , "wwtp_in" ,
              "wwtp_out" , "soil" , "soil" , "freshwater" , "freshwater" ,
              "saltwater" , "saltwater" , "saltwater") 
-country <- c("France" , "France" , 
-             "Germany" , "Germany" , "Germany" , "Germany" , "Germany" , "Germany" , "Germany" , "Germany" , 
-             "Germany" , "Germany" , "Germany" , "Germany" , "Germany" , "Germany" , "Germany" , "Germany" ,
-             "Pakistan" , "Pakistan" , "Pakistan" , "Pakistan" , "Pakistan" , "Pakistan" ,
-             "Pakistan" , "Pakistan" , "Pakistan" , "Pakistan" , "Pakistan" , "Pakistan" ,
-             "Sweden" , "Sweden" , "Sweden" , "Sweden" , "Sweden" , "Sweden" , 
-             "Sweden" , "Sweden" , "Sweden" , "Sweden" , "Sweden" , "Sweden" , 
-             "Sweden" , "Sweden" , "Sweden" , "Sweden" , "Sweden" , "Sweden")
 fdc_mgf <- c("neg" , "neg" , "nd" , "nd" , "nd" , "nd" , "nd" , "nd" , "nd" , "pos" , 
              "neg" , "pos" , "neg" , "pos" , "neg" , "nd" , "neg" , "neg" , "neg" , "nd" , 
              "nd" , "neg" , "neg" , "nd" , "nd" , "neg" , "nd" , "nd" , "nd" , "nd" , 
@@ -114,7 +114,7 @@ df_pcoa <- data.frame(
   mgf = fdc_mgf ,
   Country = country
 )
-library(RColorBrewer)
+
 ggplot(df_pcoa, aes(x = Axis1, y = Axis2, shape = Country, color = Sample_type)) +
   geom_point(size = 3) +
   labs(x = "Axis 1", y = "Axis 2", title = "Bray curtis distance PCoA") +
@@ -123,7 +123,6 @@ ggplot(df_pcoa, aes(x = Axis1, y = Axis2, shape = Country, color = Sample_type))
   theme_classic() + 
   theme(legend.text = element_text(size = 22))
 
-library(ggplot2)
 
 ggplot(df_pcoa, aes(x = Axis1, y = Axis2, shape = Country, color = Sample_type)) +
   geom_point(size = 3) +
@@ -158,27 +157,6 @@ df_pcoa$functional_metagenomics_analysis[df_pcoa$Label %in% echantillons_oui] <-
 # Vérifier le résultat
 df_pcoa
 
-ggplot(df_pcoa, aes(x = Axis1, y = Axis2)) +
-  geom_point(aes(shape = Country, color = Sample_type), size = 8) + # Taille augmentée à 6
-  geom_point(data = df_pcoa[df_pcoa$functional_metagenomics_analysis == "Yes", ], 
-             aes(x = Axis1, y = Axis2), 
-             shape = 1, # Cercle vide
-             color = "red", # Couleur du cercle
-             size = 10, # Taille augmentée à 8
-             stroke = 2) + # Épaisseur du trait augmentée
-  labs(x = "Axis 1", y = "Axis 2", title = "Bray curtis distance PCoA") +
-  scale_color_brewer(palette = "Paired") +
-  scale_shape_manual(values = c(15, 17, 16, 18), labels = c("France", "Germany", "Pakistan", "Sweden")) +
-  theme_classic() +
-  theme(
-    legend.text = element_text(size = 22),
-    plot.title = element_text(size = 24, face = "bold"),
-    axis.title.x = element_text(size = 20),
-    axis.title.y = element_text(size = 20),
-    legend.title = element_text(size = 20)
-  )
-
-head(df_pcoa)
 
 
 # Liste des échantillons positifs
@@ -191,23 +169,45 @@ echantillons_negatifs <- c("SWE.4.JSOIL1", "SWE.6.JGOTAMP", "SWE.11.NRYAOUTMP", 
 df_pcoa$functional_metagenomics_analysis <- ifelse(df_pcoa$Label %in% echantillons_positifs, "Pos", 
                                                    ifelse(df_pcoa$Label %in% echantillons_negatifs, "Yes", "No"))
 
-ggplot(df_pcoa, aes(x = Axis1, y = Axis2)) +
-  geom_point(aes(shape = Country, color = Sample_type), size = 8) +
+PCOA_plot <- ggplot(df_pcoa, aes(x = Axis1, y = Axis2)) +
+  aes(colour = Sample_type,
+      group = Sample_type) +
+  scale_color_brewer(palette = "Paired",
+                     type = "qual") +
+  stat_ellipse(linetype = 2,
+               linewidth = 1.5,
+               alpha = 0.7) +
+  
+  # Main points for each sample
+  geom_point(aes(shape = Country,
+                 group = Sample_type,
+                 fill = Sample_type),
+             color = "black",
+             size = 6,
+             alpha = 0.85) +
+  scale_fill_brewer(palette = "Paired",
+                    type = "qual") +
+  scale_shape_manual(values = c(22, 24, 21, 23),
+                     labels = c("France", "Germany", "Pakistan", "Sweden"),
+                     na.value = 1) +
+  
+  # Circles for FMg analysis
   geom_point(data = df_pcoa[df_pcoa$functional_metagenomics_analysis == "Yes", ], 
              aes(x = Axis1, y = Axis2), 
              shape = 1, 
              color = "black", # Cercles noirs
-             size = 10, 
+             size = 9,
+             alpha = 0.6,
              stroke = 2) +
   geom_point(data = df_pcoa[df_pcoa$functional_metagenomics_analysis == "Pos", ], 
              aes(x = Axis1, y = Axis2), 
              shape = 1, 
              color = "red", # Cercles rouges
-             size = 10, 
+             size = 9, 
+             alpha = 0.6,
              stroke = 2) +
-  labs(x = "Axis 1 - 24.79% variance", y = "Axis 2 - 12.32% variance") + 
-  scale_color_brewer(palette = "Paired") +
-  scale_shape_manual(values = c(15, 17, 16, 18), labels = c("France", "Germany", "Pakistan", "Sweden")) +
+  labs(x = "Axis 1 - 24.79% variance",
+       y = "Axis 2 - 12.32% variance") + 
   theme_classic() +
   theme(
     legend.text = element_text(size = 22),
@@ -217,10 +217,22 @@ ggplot(df_pcoa, aes(x = Axis1, y = Axis2)) +
     axis.text.x = element_text(size = 30),
     axis.text.y = element_text(size = 30),
     legend.title = element_text(size = 30)
-  )
+  ) +
+  guides(fill = guide_legend(override.aes = list(shape = 21)))
 
-# Réalisation de la PCoA (si ce n'est pas déjà fait)
-pcoa_result <- pcoa(OTU_dist)
+# Plot without convex hulls
+PCOA_plot
+
+
+# Plot with convex hull as areas
+# chull_pcoa <- df_pcoa |>
+#   group_by(Sample_type) |>
+#   slice(chull(Axis1, Axis2))
+# PCOA_plot + 
+#   aes(fill = Sample_type) +
+#   geom_polygon(data = chull_pcoa, alpha = 0.2) +
+#   scale_fill_brewer(palette = "Paired") +
+#   theme() # To do here, remove chull_pcoa from legend
 
 # Extraction des valeurs propres
 eigenvalues <- pcoa_result$values$Eigenvalues
@@ -237,3 +249,10 @@ cat(paste("Variance expliquée par l'axe 2 :", variance_axe2, "%\n"))
 
 summary(pcoa_result)
 str(pcoa_result)
+
+png(filename = paste0(plot_path, "mOTUs_ellipse.png"),
+    width = 6000,
+    height = 3000,
+    res = 300)
+PCOA_plot
+dev.off()
