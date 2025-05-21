@@ -12,10 +12,10 @@ title: Wetlab design and clone selection
 ---
 flowchart TD
 	subgraph ev [Environmental samples]
-		A[n = 48] -.- A1["🇸🇪 n = 18 (◆)"]
-		A -.- A2["🇫🇷 n = 2 (■)"]
-		A -.- A3["🇩🇪 n = 16 (▲)"]
-		A -.- A4["🇵🇰 n = 12 (●)"]
+		A[n = 48] -.- A1["🇸🇪(◆) n = 18"]
+		A -.- A2["🇫🇷(■) n = 2"]
+		A -.- A3["🇩🇪(▲) n = 16"]
+		A -.- A4["🇵🇰(●) n = 12"]
 	end
 
 	subgraph fmg [Functional Metagenomics]
@@ -25,10 +25,10 @@ flowchart TD
 	end
 
 	subgraph Rcef [Resistance to cefiderocol]
-			C1["🇸🇪 SWE-1-JRYAIN (◆)"] --o WWIN[WWTP Influent]
-			C3a["🇩🇪 GER-1-KREISCHAIN (▲)"] --o WWIN[WWTP Influent]
-			C3b["🇩🇪 GER-3-ELBEWATER (▲)"] --o Fresh[Freshwater]
-			C3c["🇩🇪 GER-5-KREISCHAOUT (▲)"] --o WWEF[WWTP Effluent]
+			C1["🇸🇪(◆) SWE-1-JRYAIN"] --o WWIN[WWTP Influent]
+			C3a["🇩🇪(▲) GER-1-KREISCHAIN"] --o WWIN[WWTP Influent]
+			C3b["🇩🇪(▲) GER-3-ELBEWATER"] --o Fresh[Freshwater]
+			C3c["🇩🇪(▲) GER-5-KREISCHAOUT"] --o WWEF[WWTP Effluent]
 	end
 
 
