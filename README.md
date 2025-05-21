@@ -12,10 +12,10 @@ title: Wetlab design and clone selection
 ---
 flowchart TD
 	subgraph ev [Environmental samples]
-		A[n = 48] -.- A1[🇸🇪 n = 18]
-		A -.- A2[🇫🇷 n = 2]
-		A -.- A3[🇩🇪 n = 16]
-		A -.- A4[🇵🇰 n = 12]
+		A[n = 48] -.- A1["🇸🇪 n = 18 ()"]
+		A -.- A2["🇫🇷 n = 2 ()"]
+		A -.- A3["🇩🇪 n = 16 ()"]
+		A -.- A4["🇵🇰 n = 12 ()"]
 	end
 
 	subgraph fmg [Functional Metagenomics]
@@ -48,10 +48,16 @@ B3 ---> C3c
 style A stroke:#000,fill:#fff
 style B stroke:#000,fill:#fff
 
-style C1 stroke:#000,fill:#fff
-style C3a stroke:#000,fill:#fff
-style C3b stroke:#000,fill:#fff
-style C3c stroke:#000,fill:#fff
+style C1 stroke:#fdbf6f,fill:#fff,stroke-width:4px
+style C3a stroke:#fdbf6f,fill:#fff,stroke-width:4px
+style C3b stroke:#1f78b4,fill:#fff,stroke-width:4px
+style C3c stroke:#ff7f00,fill:#fff,stroke-width:4px
+
+
+style WWIN stroke:#000,fill:#fdbf6f
+style Fresh stroke:#000,fill:#1f78b4
+style WWEF stroke:#000,fill:#ff7f00
+
 
 ```
 WWTP: Wastewater treatment plant
@@ -84,10 +90,10 @@ style One stroke:#000,fill:#8eb
 style Two stroke:#000,fill:#fc7
 style Four stroke:#000,fill:#ea7
 
-style C1 stroke:#000,fill:#fff
-style C3a stroke:#000,fill:#fff
-style C3b stroke:#000,fill:#fff
-style C3c stroke:#000,fill:#fff
+style C1 stroke:#fdbf6f,fill:#fff,stroke-width:4px
+style C3a stroke:#fdbf6f,fill:#fff,stroke-width:4px
+style C3b stroke:#1f78b4,fill:#fff,stroke-width:4px
+style C3c stroke:#ff7f00,fill:#fff,stroke-width:4px
 
 ```
 
