@@ -8,6 +8,7 @@ Click on ↔ to view this graph
 ---
 title: Wetlab design and clone selection
 ---
+flowchart TD
 	subgraph ev [Environmental samples]
 		A[n = 48] --- A1[🇸🇪 n = 18]
 		A --- A2[🇫🇷 n = 2]
