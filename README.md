@@ -44,6 +44,10 @@ B1 ---> C1
 B3 ---> C3a
 B3 ---> C3b
 B3 ---> C3c
+
+style A stroke:#000,fill:#fff
+style B stroke:#000,fill:#fff
+
 ```
 WWTP: Wastewater treatment plant
 
