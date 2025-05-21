@@ -64,9 +64,9 @@ One[1 mg/mL] --- C3a[🇩🇪 GER-1-KREISCHAIN] --- ESBL
 Four[4 mg/mL] --- C3b[🇩🇪 GER-3-ELBEWATER] --- Broad-spectrum[Broad-spectrum β-lactamase]
 Two ---C3c[🇩🇪 GER-5-KREISCHAOUT] --- Atyp[Atypical, synergistic]
 
-style One stroke:#2cc
-style Two stroke:#fc4
-style Four stroke:#d50
+style One fill:#8eb
+style Two fill:#fc7
+style Four fill:#ea7
 
 ```
 
