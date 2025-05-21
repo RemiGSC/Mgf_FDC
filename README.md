@@ -55,7 +55,7 @@ style C3c stroke:#ff7f00,fill:#fff,stroke-width:4px
 
 
 style WWIN stroke:#000,fill:#fdbf6f
-style Fresh stroke:#000,fill:#1f78b4
+style Fresh stroke:#000,fill:#1f78b4,color:#fff
 style WWEF stroke:#000,fill:#ff7f00
 
 
