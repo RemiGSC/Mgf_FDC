@@ -27,7 +27,7 @@ flowchart TD
 		C3c --- CC3c[🇩🇪 GER-5-KREISCHAOUT]
 	end
 
-A --->|Suitable for Functional Metagenomics| B
+ev -->|Suitable for Functional Metagenomics| fmg
 
 fmg -->|Gibson cloning into sensitive K12 E. coli| Rcef
 
