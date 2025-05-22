@@ -59,10 +59,10 @@ style B1 font-size:110%
 style B3 font-size:110%
 style B4 font-size:110%
 
-style C1 stroke:#fdbf6f,fill:#fff,stroke-width:4px
-style C3a stroke:#fdbf6f,fill:#fff,stroke-width:4px
-style C3b stroke:#1f78b4,fill:#fff,stroke-width:4px
-style C3c stroke:#ff7f00,fill:#fff,stroke-width:4px
+style C1 stroke:#fdbf6f,fill:#fff,color:#000,stroke-width:4px
+style C3a stroke:#fdbf6f,fill:#fff,color:#000,stroke-width:4px
+style C3b stroke:#1f78b4,fill:#fff,color:#000,stroke-width:4px
+style C3c stroke:#ff7f00,fill:#fff,color:#000,stroke-width:4px
 
 style WWIN stroke:#000,fill:#fdbf6f,color:#000, font-size:110%
 style Fresh stroke:#000,fill:#1f78b4,color:#fff,font-size:110%
@@ -80,25 +80,27 @@ title: MIC results
 ---
 
 graph LR
-		subgraph MIC [MIC to cefiderocol]
-			Two[2 mg/mL]
-			One[1 mg/mL]
-			Four[4 mg/mL]
-		end
+	subgraph MIC [MIC to cefiderocol]
+		Two[2 mg/mL]
+		One[1 mg/mL]
+		Four[4 mg/mL]
+		One ~~~ Two ~~~ Four
+	end
 
 Two[2 mg/mL] --- C1[🇸🇪 SWE-1-JRYAIN]
 One[1 mg/mL] --- C3a[🇩🇪 GER-1-KREISCHAIN]
 Four[4 mg/mL] --- C3b[🇩🇪 GER-3-ELBEWATER]
 Two --- C3c[🇩🇪 GER-5-KREISCHAOUT]
 
-style One stroke:#000,fill:#8eb,font-size:110%
-style Two stroke:#000,fill:#fc7,font-size:110%
-style Four stroke:#000,fill:#ea7,font-size:110%
 
-style C1 stroke:#fdbf6f,fill:#fff,stroke-width:4px
-style C3a stroke:#fdbf6f,fill:#fff,stroke-width:4px
-style C3b stroke:#1f78b4,fill:#fff,stroke-width:4px
-style C3c stroke:#ff7f00,fill:#fff,stroke-width:4px
+style One stroke:#000,fill:#8eb,font-size:110%,color:#000
+style Two stroke:#000,fill:#fc7,font-size:110%,color:#000
+style Four stroke:#000,fill:#ea7,font-size:110%,color:#000
+
+style C1 stroke:#fdbf6f,fill:#fff,color:#000,stroke-width:4px
+style C3a stroke:#fdbf6f,fill:#fff,color:#000,stroke-width:4px
+style C3b stroke:#1f78b4,fill:#fff,color:#000,stroke-width:4px
+style C3c stroke:#ff7f00,fill:#fff,color:#000,stroke-width:4px
 
 ```
 
