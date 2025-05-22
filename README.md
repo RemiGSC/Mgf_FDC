@@ -79,7 +79,7 @@ WWTP: Wastewater treatment plant
 title: MIC results
 ---
 
-graph LR
+graph TD
 	subgraph MIC [MIC to cefiderocol]
 		Two[2 mg/mL]
 		One[1 mg/mL]
