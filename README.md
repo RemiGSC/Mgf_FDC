@@ -35,16 +35,16 @@ graph TD
 
 ev ==>|Suitable for Functional Metagenomics| fmg
 
-fmg ===>|Gibson cloning into sensitive K12 E. coli| Rcef
+fmg ==>|Gibson cloning into sensitive K12 E. coli| Rcef
 
-A1 ----> B1
-A3 ----> B3
-A4 ----> B4
+A1 ---> B1
+A3 ---> B3
+A4 ---> B4
 
-B1 ----> C1
-B3 ----> C3a
-B3 ----> C3b
-B3 ----> C3c
+B1 ---> C1
+B3 ---> C3a
+B3 ---> C3b
+B3 ---> C3c
 
 
 
@@ -81,11 +81,9 @@ title: MIC results
 
 graph LR
 	subgraph MIC [MIC to cefiderocol]
-		direction TD
 		Two[2 mg/mL]
 		One[1 mg/mL]
 		Four[4 mg/mL]
-		One ~~~ Two ~~~ Four
 	end
 
 Two[2 mg/mL] --- C1[🇸🇪 SWE-1-JRYAIN]
