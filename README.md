@@ -7,14 +7,6 @@ FDC: cefiderocol
 
 Click on ↔ to view graphs
 ```mermaid
-%%{
-  init: {
-  	'theme': 'base',
-    'themeVariables': {
-    	'background': '#fff'}
-    }
-}%%
-
 ---
 title: Wetlab design and clone selection
 ---
@@ -83,14 +75,6 @@ WWTP: Wastewater treatment plant
 ---
 
 ```mermaid
-%%{
-  init: {
-  	'theme': 'base',
-    'themeVariables': {
-    	'background': '#fff'}
-    }
-}%%
-
 ---
 title: MIC results
 ---
