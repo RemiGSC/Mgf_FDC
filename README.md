@@ -7,10 +7,17 @@ FDC: cefiderocol
 
 Click on ↔ to view graphs
 ```mermaid
+%%{
+  init: {
+  	'theme': 'base',
+    'themeVariables': {'background': '#fff'}}
+}%%
+
 ---
 title: Wetlab design and clone selection
 ---
-flowchart TD
+
+graph TD
 	subgraph ev [Environmental samples]
 		A[n = 48] -.- A1["🇸🇪(◆) n = 18"]
 		A -.- A2["🇫🇷(■) n = 2"]
@@ -47,8 +54,8 @@ B3 ----> C3c
 
 
 
-style A stroke:#000,fill:#fff,font-size:110%
-style B stroke:#000,fill:#fff,font-size:110%
+style A stroke:#000,fill:#fff,color:#000,font-size:110%
+style B stroke:#000,fill:#fff,color:#000,font-size:110%
 
 style A1 font-size:110%
 style A2 font-size:110%
@@ -63,9 +70,9 @@ style C3a stroke:#fdbf6f,fill:#fff,stroke-width:4px
 style C3b stroke:#1f78b4,fill:#fff,stroke-width:4px
 style C3c stroke:#ff7f00,fill:#fff,stroke-width:4px
 
-style WWIN stroke:#000,fill:#fdbf6f,font-size:110%
+style WWIN stroke:#000,fill:#fdbf6f,color:#000, font-size:110%
 style Fresh stroke:#000,fill:#1f78b4,color:#fff,font-size:110%
-style WWEF stroke:#000,fill:#ff7f00,font-size:110%
+style WWEF stroke:#000,fill:#ff7f00,color:#000, font-size:110%
 
 
 ```
@@ -74,26 +81,27 @@ WWTP: Wastewater treatment plant
 ---
 
 ```mermaid
----
-title: Phenotypic results
----
-flowchart LR
-		subgraph DDA [Disk diffusion assay profile]
-			ESBL[Extended-spectrum β-lactamase]
-			Broad-spectrum[Broad-spectrum β-lactamase]
-			Atyp[Atypical, synergistic]
-		end
+%%{
+  init: {
+  	'theme': 'base',
+    'themeVariables': {'background': '#fff'}}
+}%%
 
+---
+title: MIC results
+---
+
+graph LR
 		subgraph MIC [MIC to cefiderocol]
 			Two[2 mg/mL]
 			One[1 mg/mL]
 			Four[4 mg/mL]
 		end
 
-Two[2 mg/mL] --- C1[🇸🇪 SWE-1-JRYAIN] --- ESBL["Extended-spectrum β-lactamase (ESBL)"]
-One[1 mg/mL] --- C3a[🇩🇪 GER-1-KREISCHAIN] --- ESBL
-Four[4 mg/mL] --- C3b[🇩🇪 GER-3-ELBEWATER] --- Broad-spectrum[Broad-spectrum β-lactamase]
-Two ---C3c[🇩🇪 GER-5-KREISCHAOUT] --- Atyp[Atypical, synergistic]
+Two[2 mg/mL] --- C1[🇸🇪 SWE-1-JRYAIN]
+One[1 mg/mL] --- C3a[🇩🇪 GER-1-KREISCHAIN]
+Four[4 mg/mL] --- C3b[🇩🇪 GER-3-ELBEWATER]
+Two --- C3c[🇩🇪 GER-5-KREISCHAOUT]
 
 style One stroke:#000,fill:#8eb,font-size:110%
 style Two stroke:#000,fill:#fc7,font-size:110%
