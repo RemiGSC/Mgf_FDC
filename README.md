@@ -3,7 +3,7 @@ Data and scripts associated with the work: "Identification of cefiderocol resist
 
 FDC: cefiderocol
 
-### WETLAB DESIGN AND PHENOTYPIC RESULTS
+### WETLAB DESIGN AND MIC TO CEFIDEROCOL
 
 Click on ↔ to view graphs
 ```mermaid
