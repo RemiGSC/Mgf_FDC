@@ -10,7 +10,9 @@ Click on ↔ to view graphs
 %%{
   init: {
   	'theme': 'base',
-    'themeVariables': {'background': '#fff'}}
+    'themeVariables': {
+    	'background': '#fff'}
+    }
 }%%
 
 ---
@@ -84,7 +86,9 @@ WWTP: Wastewater treatment plant
 %%{
   init: {
   	'theme': 'base',
-    'themeVariables': {'background': '#fff'}}
+    'themeVariables': {
+    	'background': '#fff'}
+    }
 }%%
 
 ---
