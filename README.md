@@ -37,9 +37,9 @@ ev ==>|Suitable for Functional Metagenomics| fmg
 
 fmg ==>|Gibson cloning into sensitive K12 E. coli| Rcef
 
-A1 ---> B1
-A3 ---> B3
-A4 ---> B4
+A1 ----> B1
+A3 ----> B3
+A4 ----> B4
 
 B1 ---> C1
 B3 ---> C3a
